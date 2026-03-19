@@ -1,0 +1,102 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:48
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+10 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+ B 054 I2
+ T 043 INTDEF
+ T 053 INTVTB
+ T 026 RETORT
+*A 002 HELLO
+ T 054 HIDDENA
+*A 005 CONFIGURE
+ T 002 CONFIG
+*B 034 HGR2OPEN
+ B 002 SETUP
+
+
+== FILE DETAILS ================================================================
+
+I2
+B - Binary                                 MD5: 1713e8df64d67896567f986d058d21da
+
+  Address: $0C00         Size: 13312      Sectors: 54             TSL: T$22 S$0F
+
+--------------------------------------------------------------------------------
+
+INTDEF
+T - Text                                   MD5: 71231b44571be6294f912a9aabe9a630
+
+                                          Sectors: 43             TSL: T$21 S$0F
+
+--------------------------------------------------------------------------------
+
+INTVTB
+T - Text                                   MD5: 3bfffe149370f1feee8c1c93d8ae0fb1
+
+                                          Sectors: 53             TSL: T$10 S$0F
+
+--------------------------------------------------------------------------------
+
+RETORT
+T - Text                                   MD5: aa1e032d4238825a443e8c0d0a3dc743
+
+                                          Sectors: 26             TSL: T$0F S$0F
+
+--------------------------------------------------------------------------------
+
+HELLO
+A - Applesoft BASIC                        MD5: 7128c09a7f0581936998bef110c27060
+
+Prog Size: 89                             Sectors: 2              TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+HIDDENA
+T - Text                                   MD5: ba39c0014cffc6f5acbd58b4311f2bfb
+
+                                          Sectors: 54             TSL: T$20 S$0F
+
+--------------------------------------------------------------------------------
+
+CONFIGURE
+A - Applesoft BASIC                        MD5: 61b644343292ecebec1c72bb8abadf54
+
+Prog Size: 265                            Sectors: 5              TSL: T$18 S$0F
+
+--------------------------------------------------------------------------------
+
+CONFIG
+T - Text                                   MD5: a6dafa8e9e1cfeae912587505e793da0
+
+                                          Sectors: 2              TSL: T$19 S$0F
+
+--------------------------------------------------------------------------------
+
+HGR2OPEN
+B - Binary                                 MD5: 8e4bafbc139c7bb23c13cc4e1f8a011e
+
+  Address: $4000         Size: 8192       Sectors: 34             TSL: T$1A S$0F
+
+--------------------------------------------------------------------------------
+
+SETUP
+B - Binary                                 MD5: 3dd4a24ea610d994d08294aaf7f6fd23
+
+  Address: $9000         Size: 149        Sectors: 2              TSL: T$1B S$0F
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,81 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:56
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+6 files were detected on the disk.
+The following errors were encountered:
+
+LS1 has 4 bad sector(s).
+LS2 has 2 bad sector(s).
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+*A 002 HELLO
+*B 090 LS1
+*B 024 LS2
+*T 002 LSEXEC
+*I 002 LOCKSMITH
+*I 002 APPLESOFT
+
+
+== FILE DETAILS ================================================================
+
+HELLO
+A - Applesoft BASIC                        MD5: a250110ddfe416bbd306b483c0663525
+
+Prog Size: 25                             Sectors: 2              TSL: T$13 S$0F
+
+--------------------------------------------------------------------------------
+
+LS1
+B - Binary                                 MD5: 8a8806b124670a9a991edfcff051acb5
+
+  Address: $0800         Size: 22528      Sectors: 90             TSL: T$14 S$0F
+
+Bytes 8448-8703 are empty due to bad sector (T$04 S$0D).
+Bytes 10240-10495 are empty due to bad sector (T$04 S$06).
+Bytes 16128-16383 are empty due to bad sector (T$06 S$0F).
+Bytes 17408-17663 are empty due to bad sector (T$06 S$0A).
+
+--------------------------------------------------------------------------------
+
+LS2
+B - Binary                                 MD5: ce4619aab54e9e001a979aa0b5d740c2
+
+  Address: $8000         Size: 5632       Sectors: 24             TSL: T$15 S$0F
+
+Bytes 5120-5375 are empty due to bad sector (T$07 S$00).
+Bytes 5632-5887 are empty due to bad sector (T$08 S$0E).
+
+--------------------------------------------------------------------------------
+
+LSEXEC
+T - Text                                   MD5: 5cd351ca70ced5b53160abb3e4c8ccaa
+
+                                          Sectors: 2              TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+LOCKSMITH
+I - Integer BASIC                          MD5: 88daa9e9948624de064965f858aabe5f
+
+Prog Size: 24                             Sectors: 2              TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+
+APPLESOFT
+I - Integer BASIC                          MD5: 9421a1858994badb5ac27dc2e9ebe284
+
+Prog Size: 24                             Sectors: 2              TSL: T$18 S$0F
+
+--------------------------------------------------------------------------------
+

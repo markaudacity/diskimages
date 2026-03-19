@@ -1,0 +1,74 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:50
+
+    Media: 5.25" Floppy Disk
+   Format: Apple ProDOS
+
+== STATUS ======================================================================
+
+5 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+SAMPLES
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+ MOMS.BULLETIN   AWP       9  20-MAR-84  00:00  10-FEB-84  11:42    3605 
+ ORGANIC.GROWTH  ASP       6  20-MAR-84  00:00  10-FEB-84  11:42    2467 
+ ORGANIC.PIES    ADB       6  20-MAR-84  00:00  10-FEB-84  11:42    2127 
+ PERSONAL.WORTH  ASP       6  20-MAR-84  00:00  10-FEB-84  11:43    2514 
+ OUR.BUDGET      ASP      10  20-MAR-84  00:00  10-FEB-84  11:43    4243 
+
+
+== FILE DETAILS ================================================================
+
+MOMS.BULLETIN
+AWP - AppleWorks Word Processor File ($1A) MD5: eae73e29b688b79852d3a1e851596e25
+
+File Type: $1A       Aux Type: $F87B      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 9        File Size: 3605     Index Qty: 1        
+Data Size: 3605     Data Blks: 8        
+
+--------------------------------------------------------------------------------
+
+ORGANIC.GROWTH
+ASP - AppleWorks Spreadsheet File ($1B)    MD5: adf5eecb22bccb0fde51b7ea8876f1aa
+
+File Type: $1B       Aux Type: $7C7F      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 6        File Size: 2467     Index Qty: 1        
+Data Size: 2467     Data Blks: 5        
+
+--------------------------------------------------------------------------------
+
+ORGANIC.PIES
+ADB - AppleWorks Database File ($19)       MD5: c5e8ca0d5044a1e95100c2d848a236c7
+
+File Type: $19       Aux Type: $707F      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 6        File Size: 2127     Index Qty: 1        
+Data Size: 2127     Data Blks: 5        
+
+--------------------------------------------------------------------------------
+
+PERSONAL.WORTH
+ASP - AppleWorks Spreadsheet File ($1B)    MD5: 2238567f7ed7fa5b21a0bae56a8ffffc
+
+File Type: $1B       Aux Type: $BC7F      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 6        File Size: 2514     Index Qty: 1        
+Data Size: 2514     Data Blks: 5        
+
+--------------------------------------------------------------------------------
+
+OUR.BUDGET
+ASP - AppleWorks Spreadsheet File ($1B)    MD5: d37f77b0a3a1e383af6eeece9ea06035
+
+File Type: $1B       Aux Type: $C077      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 10       File Size: 4243     Index Qty: 1        
+Data Size: 4243     Data Blks: 9        
+
+--------------------------------------------------------------------------------
+

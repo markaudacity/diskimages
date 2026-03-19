@@ -1,0 +1,70 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:47
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+6 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+ A 002 HELLO
+ A 002 TODAY
+ A 005 PLAY THE ESTIMATE GAME
+ A 004 QUILT
+ A 005 EST
+ A 004 Q2
+
+
+== FILE DETAILS ================================================================
+
+HELLO
+A - Applesoft BASIC                        MD5: d0d857f0f1049a7dc4534fb2683fd20b
+
+Prog Size: 2                              Sectors: 2              TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+TODAY
+A - Applesoft BASIC                        MD5: 2e7bc82872fea6b4bd259bde6d7c8240
+
+Prog Size: 35                             Sectors: 2              TSL: T$13 S$0F
+
+--------------------------------------------------------------------------------
+
+PLAY THE ESTIMATE GAME
+A - Applesoft BASIC                        MD5: a140cd2fb0c1f71aaec15847c950f3c8
+
+Prog Size: 817                            Sectors: 5              TSL: T$14 S$0F
+
+--------------------------------------------------------------------------------
+
+QUILT
+A - Applesoft BASIC                        MD5: 282784b0db4cdea7feba1db3e2477997
+
+Prog Size: 639                            Sectors: 4              TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+
+EST
+A - Applesoft BASIC                        MD5: b15d62776083ed1cd4cae395465e5cec
+
+Prog Size: 815                            Sectors: 5              TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+Q2
+A - Applesoft BASIC                        MD5: 493e80d3a1a2d1bfb0ec1c3ba8282fce
+
+Prog Size: 643                            Sectors: 4              TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+

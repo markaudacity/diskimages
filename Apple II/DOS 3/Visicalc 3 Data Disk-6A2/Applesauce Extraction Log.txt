@@ -1,0 +1,67 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 13:09
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+5 files were detected on the disk.
+The following errors were encountered:
+
+CHKBOOK has 2 bad sector(s).
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+ T 109 SEP/OCT
+ T 112 OCT/NOV
+ T 102 TEMPLATE
+ T 111 NOV/DEC
+ T 004 CHKBOOK
+
+
+== FILE DETAILS ================================================================
+
+SEP/OCT
+T - Text                                   MD5: c431c6c6e9a219eb22e7c3925767bcb5
+
+                                          Sectors: 109            TSL: T$01 S$0F
+
+--------------------------------------------------------------------------------
+
+OCT/NOV
+T - Text                                   MD5: 1f32dafdfdd42f7c382626d871566381
+
+                                          Sectors: 112            TSL: T$07 S$02
+
+--------------------------------------------------------------------------------
+
+TEMPLATE
+T - Text                                   MD5: c5c01688353761b6e6d0f8632bf1266f
+
+                                          Sectors: 102            TSL: T$0E S$02
+
+--------------------------------------------------------------------------------
+
+NOV/DEC
+T - Text                                   MD5: a16e0a52b1a33378caebffa08c965248
+
+                                          Sectors: 111            TSL: T$16 S$0C
+
+--------------------------------------------------------------------------------
+
+CHKBOOK
+T - Text                                   MD5: a4d4d9032c58a1aeee2e3653caf3a17a
+
+                                          Sectors: 4              TSL: T$1D S$0D
+
+Bytes 0-255 are empty due to bad sector (T$1D S$0C).
+Bytes 256-511 are empty due to bad sector (T$1D S$0B).
+
+--------------------------------------------------------------------------------
+

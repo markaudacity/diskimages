@@ -1,0 +1,94 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:54
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+9 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+ B 002 SYS.OPTIONS
+ B 008 CREATIVITY TALK.MW
+ B 054 CREATIVITY-2.MW
+ B 039 CREATIVITY-3.MW
+ B 018 CREATIVITY-4.MW
+ T 015 CREATIVITY4.MW
+ T 035 CREATIVITY3.MW
+ T 002 CREATIVITY.MW
+ B 021 VIDEO
+
+
+== FILE DETAILS ================================================================
+
+SYS.OPTIONS
+B - Binary                                 MD5: 7e10d9575e91c82626be2277f3a2a309
+
+  Address: $0ABC         Size: 13         Sectors: 2              TSL: T$13 S$0F
+
+--------------------------------------------------------------------------------
+
+CREATIVITY TALK.MW
+B - Binary                                 MD5: 9841441044391a8406e6cdd01ee4362a
+
+  Address: $7C68         Size: 1686       Sectors: 8              TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+
+CREATIVITY-2.MW
+B - Binary                                 MD5: 04679cb2c2bd06537ca4356fc5904352
+
+  Address: $615F         Size: 13471      Sectors: 54             TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+CREATIVITY-3.MW
+B - Binary                                 MD5: 4992096616db18d6e8919990b37b76a0
+
+  Address: $6031         Size: 8909       Sectors: 39             TSL: T$1A S$0F
+
+--------------------------------------------------------------------------------
+
+CREATIVITY-4.MW
+B - Binary                                 MD5: 1a939a9b0fde1ad855345222a40c4560
+
+  Address: $7489         Size: 3701       Sectors: 18             TSL: T$1D S$0F
+
+--------------------------------------------------------------------------------
+
+CREATIVITY4.MW
+T - Text                                   MD5: b74a06bdc697311662231c3ff2312ffb
+
+                                          Sectors: 15             TSL: T$20 S$0F
+
+--------------------------------------------------------------------------------
+
+CREATIVITY3.MW
+T - Text                                   MD5: 79662021216cd3531a58d07b0bc5be31
+
+                                          Sectors: 35             TSL: T$22 S$0F
+
+--------------------------------------------------------------------------------
+
+CREATIVITY.MW
+T - Text                                   MD5: 493bcb2905ea3bb637b6360fa319f752
+
+                                          Sectors: 2              TSL: T$0D S$0F
+
+--------------------------------------------------------------------------------
+
+VIDEO
+B - Binary                                 MD5: a7c0a9073f0d7c74d8fb5b1191e6adfb
+
+  Address: $8300         Size: 4864       Sectors: 21             TSL: T$0A S$0F
+
+--------------------------------------------------------------------------------
+

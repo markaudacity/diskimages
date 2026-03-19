@@ -1,0 +1,126 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:44
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+13 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+*A 003 HELLO
+*B 018 TEDITOR
+*B 018 PRINTER
+ B 002 PRINT CONSTANTS
+ B 004 TRANSFER FILE
+ B 018 TEXT.CREATE
+ B 003 TEXT.CREATE.B
+ B 009 TEXT.COLLECTOR LIST
+ B 003 TEXT.CREATE.F
+ B 010 TEXT.SPEECH
+ B 003 TEXT.CREATE.T
+ B 012 TEXT.LETTER
+ B 017 TEXT.DOTTIE
+
+
+== FILE DETAILS ================================================================
+
+HELLO
+A - Applesoft BASIC                        MD5: cad1cd1b49bc0e905b302f732b405955
+
+Prog Size: 280                            Sectors: 3              TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+TEDITOR
+B - Binary                                 MD5: 2a92d46a7741669370305dbc602dc8bb
+
+  Address: $0803         Size: 4160       Sectors: 18             TSL: T$13 S$0F
+
+--------------------------------------------------------------------------------
+
+PRINTER
+B - Binary                                 MD5: e50da454ea0327b2186493653e104f70
+
+  Address: $0803         Size: 4160       Sectors: 18             TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+
+PRINT CONSTANTS
+B - Binary                                 MD5: 7d62ae75c231127d47ffb263625bd45a
+
+  Address: $0050         Size: 16         Sectors: 2              TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+
+TRANSFER FILE
+B - Binary                                 MD5: a4893fb0598e362b0bbf29f003c477ea
+
+  Address: $0200         Size: 512        Sectors: 4              TSL: T$18 S$0F
+
+--------------------------------------------------------------------------------
+
+TEXT.CREATE
+B - Binary                                 MD5: a3d78bd38f84013a155093049fdccf6c
+
+  Address: $1900         Size: 4187       Sectors: 18             TSL: T$12 S$0C
+
+--------------------------------------------------------------------------------
+
+TEXT.CREATE.B
+B - Binary                                 MD5: a1b932fcb67f5bc54e43beb022775e86
+
+  Address: $1900         Size: 410        Sectors: 3              TSL: T$17 S$0D
+
+--------------------------------------------------------------------------------
+
+TEXT.COLLECTOR LIST
+B - Binary                                 MD5: 4c46b5a9c1fb753d25127e9d326bc378
+
+  Address: $1900         Size: 1907       Sectors: 9              TSL: T$08 S$0F
+
+--------------------------------------------------------------------------------
+
+TEXT.CREATE.F
+B - Binary                                 MD5: d92deafb6375c7c27ebd0528451c5e3b
+
+  Address: $1900         Size: 306        Sectors: 3              TSL: T$18 S$0B
+
+--------------------------------------------------------------------------------
+
+TEXT.SPEECH
+B - Binary                                 MD5: e4961a06a92aade868f66f116b544fd8
+
+  Address: $1900         Size: 2174       Sectors: 10             TSL: T$05 S$0F
+
+--------------------------------------------------------------------------------
+
+TEXT.CREATE.T
+B - Binary                                 MD5: b9cd49d9ab9e879ca94f0e7b7dfba331
+
+  Address: $1900         Size: 258        Sectors: 3              TSL: T$19 S$0F
+
+--------------------------------------------------------------------------------
+
+TEXT.LETTER
+B - Binary                                 MD5: 7f0cf5d13dfdd655ba653b03e4b40906
+
+  Address: $1900         Size: 2597       Sectors: 12             TSL: T$0B S$0F
+
+--------------------------------------------------------------------------------
+
+TEXT.DOTTIE
+B - Binary                                 MD5: 3018806da17f17716d3f37572a32c848
+
+  Address: $1900         Size: 4055       Sectors: 17             TSL: T$1E S$0F
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,106 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:57
+
+    Media: 5.25" Floppy Disk
+   Format: Atari DOS
+
+== STATUS ======================================================================
+
+12 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+D1:
+  REPORT       064
+  AUTORPT      013
+  PYGRPT       014
+  FISH         046
+  RUSSARPT     028
+  RESUME       014
+  FIN101  4    050
+  STOCKS       013
+  EMCONTRL     014
+  FINANCE      048
+  CRJ450  2    028
+  CRJ450  1    033
+342 FREE SECTORS
+
+
+== FILE DETAILS ================================================================
+
+REPORT
+Name: 'REPORT'   Type: ''                  MD5: 9a0aa8befcef3d887d7f6b9d59cabafc
+   File #: $00          Flags: $42          Start: $04      Sec Count: 64       
+
+--------------------------------------------------------------------------------
+
+AUTORPT
+Name: 'AUTORPT'   Type: ''                 MD5: 7cd4f8c0a1864fd2a302fc566f9fe21f
+   File #: $01          Flags: $42          Start: $44      Sec Count: 13       
+
+--------------------------------------------------------------------------------
+
+PYGRPT
+Name: 'PYGRPT'   Type: ''                  MD5: 0ab0c8399554726650621f08c427cd2f
+   File #: $02          Flags: $42          Start: $51      Sec Count: 14       
+
+--------------------------------------------------------------------------------
+
+FISH
+Name: 'FISH'   Type: ''                    MD5: c10f560c61fec2bc92108e91ee8cee0d
+   File #: $03          Flags: $42          Start: $5F      Sec Count: 46       
+
+--------------------------------------------------------------------------------
+
+RUSSARPT
+Name: 'RUSSARPT'   Type: ''                MD5: 287f5ec84f2e9d514b97b069014a2268
+   File #: $04          Flags: $42          Start: $67      Sec Count: 28       
+
+--------------------------------------------------------------------------------
+
+RESUME
+Name: 'RESUME'   Type: ''                  MD5: b9354553946dc98760a7e503129e6541
+   File #: $05          Flags: $42          Start: $60      Sec Count: 14       
+
+--------------------------------------------------------------------------------
+
+FIN101.4
+Name: 'FIN101.4'   Type: '4'               MD5: a7a4f5bc893756cb9718902ead6a5b8d
+   File #: $06          Flags: $42          Start: $CD      Sec Count: 50       
+
+--------------------------------------------------------------------------------
+
+STOCKS
+Name: 'STOCKS'   Type: ''                  MD5: 29c81aee11d4b1c7585054b502202152
+   File #: $07          Flags: $42          Start: $92      Sec Count: 13       
+
+--------------------------------------------------------------------------------
+
+EMCONTRL
+Name: 'EMCONTRL'   Type: ''                MD5: 296507af26631682485a8dbb8d0d9ab0
+   File #: $08          Flags: $42          Start: $9A      Sec Count: 14       
+
+--------------------------------------------------------------------------------
+
+FINANCE
+Name: 'FINANCE'   Type: ''                 MD5: 686a6bf58a8e19d5f9a5aecd0a3ae432
+   File #: $09          Flags: $42          Start: $FF      Sec Count: 48       
+
+--------------------------------------------------------------------------------
+
+CRJ450.2
+Name: 'CRJ450.2'   Type: '2'               MD5: c78e4be7f68cfedb961198d1a1cd9097
+   File #: $0A          Flags: $42          Start: $132     Sec Count: 28       
+
+--------------------------------------------------------------------------------
+
+CRJ450.1
+Name: 'CRJ450.1'   Type: '1'               MD5: ab1b41f3688c68ccd68af870f38e80fd
+   File #: $0B          Flags: $42          Start: $14B     Sec Count: 33       
+
+--------------------------------------------------------------------------------
+

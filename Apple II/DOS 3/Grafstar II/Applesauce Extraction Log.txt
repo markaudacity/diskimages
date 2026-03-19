@@ -1,0 +1,310 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:48
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+36 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+*A 002 HELLO
+*A 031 GS//SAMPLER
+*B 003 IDENTIFY.OBJ0
+*A 003 PACK
+*B 002 PACK.OBJ0
+*A 002 UNPACK
+*B 002 UNPACK.OBJ0
+*B 011 STAR SCREEN
+*B 007 STAR LOGO
+*B 011 STX-80
+*B 011 GEMINI-10X
+*B 020 DELTA-10
+*B 017 RADIX-10
+*B 004 APPLE LOGO
+*B 010 APPLE SYSTEM
+*B 027 DIP CHIPS
+*B 022 MICROMETER
+*B 020 SQUEEZE
+*B 013 TIME
+*B 018 DOLLAR
+*B 010 WORLD MAP
+*B 012 DOUBLE BESSEL
+*B 015 SPIRAL
+*B 013 BRAIN CHART
+*B 026 WOMAN
+*B 024 BABY
+*B 020 SHAKESPEARE
+*B 014 LEONARDO
+*B 010 UNCLE SAM
+*B 025 RACCOON
+*B 028 DA
+*B 027 DM
+*T 004 S40
+*T 004 SS401
+*T 004 SS402
+*T 006 S80
+
+
+== FILE DETAILS ================================================================
+
+HELLO
+A - Applesoft BASIC                        MD5: 230d9c973136eb7a639d8a29715cf0ff
+
+Prog Size: 128                            Sectors: 2              TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+GS//SAMPLER
+A - Applesoft BASIC                        MD5: 0bde357315a8cc0b4ab7fa37bd913300
+
+Prog Size: 7335                           Sectors: 31             TSL: T$13 S$0F
+
+--------------------------------------------------------------------------------
+
+IDENTIFY.OBJ0
+B - Binary                                 MD5: 4124bb8bf7410bb2b06b807cbc547925
+
+  Address: $0800         Size: 303        Sectors: 3              TSL: T$14 S$0F
+
+--------------------------------------------------------------------------------
+
+PACK
+A - Applesoft BASIC                        MD5: 64244392e3b5d325d9b57927d8d55753
+
+Prog Size: 322                            Sectors: 3              TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+
+PACK.OBJ0
+B - Binary                                 MD5: dc059ee10fc5fe8b0c763351b7f7ec6f
+
+  Address: $1000         Size: 246        Sectors: 2              TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+UNPACK
+A - Applesoft BASIC                        MD5: 9cbc1fcb1fa43a32d3ce1a37a425c440
+
+Prog Size: 221                            Sectors: 2              TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+
+UNPACK.OBJ0
+B - Binary                                 MD5: 80daab546154d4f3a02f7d1342853d93
+
+  Address: $0300         Size: 180        Sectors: 2              TSL: T$18 S$0F
+
+--------------------------------------------------------------------------------
+
+STAR SCREEN
+B - Binary                                 MD5: fe14c48ddd9a5d51cca2b9d63c0aaf4e
+
+  Address: $4000         Size: 2552       Sectors: 11             TSL: T$19 S$0F
+
+--------------------------------------------------------------------------------
+
+STAR LOGO
+B - Binary                                 MD5: ed37754df05cd6a76a5d2d3cdf8f0f46
+
+  Address: $4000         Size: 1508       Sectors: 7              TSL: T$1A S$0F
+
+--------------------------------------------------------------------------------
+
+STX-80
+B - Binary                                 MD5: f02a7a29120d1625852c846e80a5b7d4
+
+  Address: $4000         Size: 2525       Sectors: 11             TSL: T$1B S$0F
+
+--------------------------------------------------------------------------------
+
+GEMINI-10X
+B - Binary                                 MD5: 1e78d4aa3d526e17df74b6e6b73a6925
+
+  Address: $4000         Size: 2424       Sectors: 11             TSL: T$1C S$0F
+
+--------------------------------------------------------------------------------
+
+DELTA-10
+B - Binary                                 MD5: edcd3d0fd9c074c27ef0a0ef3c2021c3
+
+  Address: $4000         Size: 4843       Sectors: 20             TSL: T$1D S$0F
+
+--------------------------------------------------------------------------------
+
+RADIX-10
+B - Binary                                 MD5: 364bb1b3278d3acef520f2ec53c848ce
+
+  Address: $4000         Size: 3869       Sectors: 17             TSL: T$1E S$0F
+
+--------------------------------------------------------------------------------
+
+APPLE LOGO
+B - Binary                                 MD5: 984e4b1266fb8389b651973f6950c577
+
+  Address: $4000         Size: 632        Sectors: 4              TSL: T$1F S$0F
+
+--------------------------------------------------------------------------------
+
+APPLE SYSTEM
+B - Binary                                 MD5: 37cd676a2b368eb2efaff1d682646f35
+
+  Address: $4000         Size: 2280       Sectors: 10             TSL: T$20 S$0F
+
+--------------------------------------------------------------------------------
+
+DIP CHIPS
+B - Binary                                 MD5: 8efdf29c3ea6a736d8529037e1fc9c32
+
+  Address: $4000         Size: 6443       Sectors: 27             TSL: T$21 S$0F
+
+--------------------------------------------------------------------------------
+
+MICROMETER
+B - Binary                                 MD5: c8c88ab41cdb49a3dc7e26ec2455b674
+
+  Address: $4000         Size: 5234       Sectors: 22             TSL: T$22 S$0F
+
+--------------------------------------------------------------------------------
+
+SQUEEZE
+B - Binary                                 MD5: be0f734a8e3ee3aa69fc8f173f5e7e2b
+
+  Address: $4000         Size: 4786       Sectors: 20             TSL: T$10 S$0F
+
+--------------------------------------------------------------------------------
+
+TIME
+B - Binary                                 MD5: 68e904d48450ff613da2c9cf75c787e6
+
+  Address: $4000         Size: 2959       Sectors: 13             TSL: T$0F S$0F
+
+--------------------------------------------------------------------------------
+
+DOLLAR
+B - Binary                                 MD5: 2f09033ba2996ce03079dea4a84d1f13
+
+  Address: $4000         Size: 4119       Sectors: 18             TSL: T$0E S$0F
+
+--------------------------------------------------------------------------------
+
+WORLD MAP
+B - Binary                                 MD5: 2fe28b55020808fdf1d69d761536e97c
+
+  Address: $4000         Size: 2173       Sectors: 10             TSL: T$0D S$0F
+
+--------------------------------------------------------------------------------
+
+DOUBLE BESSEL
+B - Binary                                 MD5: e148050955a7a59efca27c7b239b34d5
+
+  Address: $4000         Size: 2760       Sectors: 12             TSL: T$0C S$0F
+
+--------------------------------------------------------------------------------
+
+SPIRAL
+B - Binary                                 MD5: 07952c8775cebbb99c7f8a0e1d65bd31
+
+  Address: $4000         Size: 3478       Sectors: 15             TSL: T$0B S$0F
+
+--------------------------------------------------------------------------------
+
+BRAIN CHART
+B - Binary                                 MD5: 00ff69c4073faa439234092694bca505
+
+  Address: $4000         Size: 2898       Sectors: 13             TSL: T$0A S$0F
+
+--------------------------------------------------------------------------------
+
+WOMAN
+B - Binary                                 MD5: 5d899fc0f4013fa4e29bfc24f28b9189
+
+  Address: $4000         Size: 6187       Sectors: 26             TSL: T$09 S$0F
+
+--------------------------------------------------------------------------------
+
+BABY
+B - Binary                                 MD5: b52cbeca4d55683ae3e58b64a1e4d7c0
+
+  Address: $4000         Size: 5764       Sectors: 24             TSL: T$08 S$0F
+
+--------------------------------------------------------------------------------
+
+SHAKESPEARE
+B - Binary                                 MD5: 1f2ecdfa522c22cab80d0cb2861d3a40
+
+  Address: $4000         Size: 4770       Sectors: 20             TSL: T$07 S$0F
+
+--------------------------------------------------------------------------------
+
+LEONARDO
+B - Binary                                 MD5: 7408d6a4b8f0e5793fb780d38db8da86
+
+  Address: $4000         Size: 3117       Sectors: 14             TSL: T$12 S$0D
+
+--------------------------------------------------------------------------------
+
+UNCLE SAM
+B - Binary                                 MD5: d9aecbb958798e81facfb12b30e59a4f
+
+  Address: $4000         Size: 2294       Sectors: 10             TSL: T$14 S$0C
+
+--------------------------------------------------------------------------------
+
+RACCOON
+B - Binary                                 MD5: 77e53f132c4da6f0804de7abffeca46b
+
+  Address: $4000         Size: 5910       Sectors: 25             TSL: T$15 S$0C
+
+--------------------------------------------------------------------------------
+
+DA
+B - Binary                                 MD5: 89886a6998ac0fd09ff0d5c84abe169d
+
+  Address: $4000         Size: 6744       Sectors: 28             TSL: T$16 S$0D
+
+--------------------------------------------------------------------------------
+
+DM
+B - Binary                                 MD5: 39d55df842adeb310320b51618925b4a
+
+  Address: $4000         Size: 6622       Sectors: 27             TSL: T$17 S$06
+
+--------------------------------------------------------------------------------
+
+S40
+T - Text                                   MD5: ba978f8a371f7b0fe5ed05f35b4cecb3
+
+                                          Sectors: 4              TSL: T$1A S$07
+
+--------------------------------------------------------------------------------
+
+SS401
+T - Text                                   MD5: 1b55ec2a811f06d8d570c92f9b4f2f75
+
+                                          Sectors: 4              TSL: T$1B S$04
+
+--------------------------------------------------------------------------------
+
+SS402
+T - Text                                   MD5: 208f5a45b1da1c71311c2fe23e936182
+
+                                          Sectors: 4              TSL: T$1C S$04
+
+--------------------------------------------------------------------------------
+
+S80
+T - Text                                   MD5: b103c51e4c3a3cf8ad462253061a299e
+
+                                          Sectors: 6              TSL: T$1F S$0B
+
+--------------------------------------------------------------------------------
+

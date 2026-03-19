@@ -1,0 +1,54 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 13:01
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+4 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+ A 002 HELLO
+ B 005 DICE2
+ B 002 DICE1
+ A 005 DICE LOADER
+
+
+== FILE DETAILS ================================================================
+
+HELLO
+A - Applesoft BASIC                        MD5: 9947da771f91d843f76b4787a828a27a
+
+Prog Size: 3                              Sectors: 2              TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+DICE2
+B - Binary                                 MD5: b7622300e316be51948cea654ca4789e
+
+  Address: $3500         Size: 897        Sectors: 5              TSL: T$13 S$0F
+
+--------------------------------------------------------------------------------
+
+DICE1
+B - Binary                                 MD5: 468b22cf16c205bae84750060d575d48
+
+  Address: $0019         Size: 7          Sectors: 2              TSL: T$14 S$0F
+
+--------------------------------------------------------------------------------
+
+DICE LOADER
+A - Applesoft BASIC                        MD5: 17242f63a796f80456b7e43e1efc83c0
+
+Prog Size: 808                            Sectors: 5              TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+

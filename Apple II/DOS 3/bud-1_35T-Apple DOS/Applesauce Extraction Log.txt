@@ -1,0 +1,278 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:54
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+32 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+ A 006 HELLO
+ A 003 SHAPE C. CREATOR
+ A 002 SCRUNCH
+ A 014 HORSE
+ A 015 HORSEE
+ A 002 ADDER
+ A 003 SCRUNCH1
+ A 003 SCRUNCH2
+ A 002 MULT1
+ A 004 AREA
+ A 002 COORDINATE SYSTEM PROGRAM
+ T 002 SHAPE CREATE
+ A 002 SHAPE(ROT)
+ A 003 SHAPE C. CREATE
+ A 003 FRAMER
+ A 002 HGR
+*B 034 QTANGENT
+ A 002 HGR2
+ B 034 EARTH
+ A 002 HGR3
+ A 004 SIGN WAVE
+ B 009 PTANGENT
+ B 034 TSQUARE
+ A 004 PLOTTER
+ A 002 POKE
+ A 003 TANGENT
+ A 003 SHIP
+ B 002 SSHIP
+ A 003 BOUNCE
+ A 006 GEOMETRIC PROGRESSION
+ A 024 TEST
+ B 010 MX-80.OBJ
+
+
+== FILE DETAILS ================================================================
+
+HELLO
+A - Applesoft BASIC                        MD5: 44b3fb189eb86bdfa8634efa30675e90
+
+Prog Size: 628                            Sectors: 6              TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+SHAPE C. CREATOR
+A - Applesoft BASIC                        MD5: 953acc7ea8cd24fcef3b1b7f8f5a742a
+
+Prog Size: 348                            Sectors: 3              TSL: T$16 S$00
+
+--------------------------------------------------------------------------------
+
+SCRUNCH
+A - Applesoft BASIC                        MD5: a9d8b068127bc244178917407e2b19aa
+
+Prog Size: 189                            Sectors: 2              TSL: T$14 S$0F
+
+--------------------------------------------------------------------------------
+
+HORSE
+A - Applesoft BASIC                        MD5: c5283e68bff5a97150ade0ab6d6f63a5
+
+Prog Size: 3319                           Sectors: 14             TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+
+HORSEE
+A - Applesoft BASIC                        MD5: f0e31187d4cc3f372032eaf5307ed424
+
+Prog Size: 3344                           Sectors: 15             TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+ADDER
+A - Applesoft BASIC                        MD5: 6af3fa1d6bdc82d869155b4b27664424
+
+Prog Size: 234                            Sectors: 2              TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+
+SCRUNCH1
+A - Applesoft BASIC                        MD5: e5af1b7cd1464d9b9509307b78173e3c
+
+Prog Size: 485                            Sectors: 3              TSL: T$18 S$0F
+
+--------------------------------------------------------------------------------
+
+SCRUNCH2
+A - Applesoft BASIC                        MD5: cdca4d6f4beb3ad91661df4fc7cda927
+
+Prog Size: 471                            Sectors: 3              TSL: T$19 S$0F
+
+--------------------------------------------------------------------------------
+
+MULT1
+A - Applesoft BASIC                        MD5: a754749cb1a4e512ba64abfb950da1b3
+
+Prog Size: 181                            Sectors: 2              TSL: T$1A S$0F
+
+--------------------------------------------------------------------------------
+
+AREA
+A - Applesoft BASIC                        MD5: cc02bfbee208d42a467658a5c154eac2
+
+Prog Size: 328                            Sectors: 4              TSL: T$1B S$0F
+
+--------------------------------------------------------------------------------
+
+COORDINATE SYSTEM PROGRAM
+A - Applesoft BASIC                        MD5: 1f1de68b71f1f88f80dd92bad0249ebf
+
+Prog Size: 103                            Sectors: 2              TSL: T$1C S$0D
+
+--------------------------------------------------------------------------------
+
+SHAPE CREATE
+T - Text                                   MD5: 00f9820edd6c00004572662ad78d3203
+
+                                          Sectors: 2              TSL: T$1A S$0C
+
+--------------------------------------------------------------------------------
+
+SHAPE(ROT)
+A - Applesoft BASIC                        MD5: 47fdf1934a3605a2797d339dd17b3d43
+
+Prog Size: 163                            Sectors: 2              TSL: T$21 S$0F
+
+--------------------------------------------------------------------------------
+
+SHAPE C. CREATE
+A - Applesoft BASIC                        MD5: c9309550cf8fcdcc8bed1ff440b79fd9
+
+Prog Size: 309                            Sectors: 3              TSL: T$1B S$0B
+
+--------------------------------------------------------------------------------
+
+FRAMER
+A - Applesoft BASIC                        MD5: 9e622ab17ae7773427b7350463e0df89
+
+Prog Size: 348                            Sectors: 3              TSL: T$0C S$0F
+
+--------------------------------------------------------------------------------
+
+HGR
+A - Applesoft BASIC                        MD5: 5d54eee968f1849cb3acdf3f70d8c2d2
+
+Prog Size: 128                            Sectors: 2              TSL: T$0B S$0F
+
+--------------------------------------------------------------------------------
+
+QTANGENT
+B - Binary                                 MD5: d57154d5abc164d15f7ad7c4009853dd
+
+  Address: $2000         Size: 8192       Sectors: 34             TSL: T$0E S$0F
+
+--------------------------------------------------------------------------------
+
+HGR2
+A - Applesoft BASIC                        MD5: 402ada8f25c171cacaaca3174d42e51a
+
+Prog Size: 148                            Sectors: 2              TSL: T$0A S$0F
+
+--------------------------------------------------------------------------------
+
+EARTH
+B - Binary                                 MD5: 51a4e16378a9e2df5fb57e2491831284
+
+  Address: $2000         Size: 8192       Sectors: 34             TSL: T$10 S$0F
+
+--------------------------------------------------------------------------------
+
+HGR3
+A - Applesoft BASIC                        MD5: ba5b0a90cbe64b9baa3be58722b64a5f
+
+Prog Size: 98                             Sectors: 2              TSL: T$08 S$0F
+
+--------------------------------------------------------------------------------
+
+SIGN WAVE
+A - Applesoft BASIC                        MD5: 8a623613c8e7397bd2ff0e6c53ebddb5
+
+Prog Size: 640                            Sectors: 4              TSL: T$12 S$09
+
+--------------------------------------------------------------------------------
+
+PTANGENT
+B - Binary                                 MD5: deb16ef97cc916718e23434ae8c6e2de
+
+  Address: $07D0         Size: 2000       Sectors: 9              TSL: T$22 S$0F
+
+--------------------------------------------------------------------------------
+
+TSQUARE
+B - Binary                                 MD5: 4c17009425d6c395da75c71136e81cca
+
+  Address: $2000         Size: 8192       Sectors: 34             TSL: T$0A S$0D
+
+--------------------------------------------------------------------------------
+
+PLOTTER
+A - Applesoft BASIC                        MD5: 45562028f16107a2f421728bef2abdc9
+
+Prog Size: 644                            Sectors: 4              TSL: T$03 S$0F
+
+--------------------------------------------------------------------------------
+
+POKE
+A - Applesoft BASIC                        MD5: c4c0a09fa3a7c8e709540526bc15aa27
+
+Prog Size: 152                            Sectors: 2              TSL: T$05 S$0F
+
+--------------------------------------------------------------------------------
+
+TANGENT
+A - Applesoft BASIC                        MD5: 1994e31a1577e95efe07242adb595965
+
+Prog Size: 211                            Sectors: 3              TSL: T$19 S$0C
+
+--------------------------------------------------------------------------------
+
+SHIP
+A - Applesoft BASIC                        MD5: 7b05a852cc3b2229f5f0b3cf642657df
+
+Prog Size: 315                            Sectors: 3              TSL: T$13 S$0F
+
+--------------------------------------------------------------------------------
+
+SSHIP
+B - Binary                                 MD5: 66fe79d4245cd29bfb3cbd965ba81aec
+
+  Address: $1DFC         Size: 27         Sectors: 2              TSL: T$12 S$05
+
+--------------------------------------------------------------------------------
+
+BOUNCE
+A - Applesoft BASIC                        MD5: 73a663e2adddfc49238e9521d9569893
+
+Prog Size: 273                            Sectors: 3              TSL: T$15 S$01
+
+--------------------------------------------------------------------------------
+
+GEOMETRIC PROGRESSION
+A - Applesoft BASIC                        MD5: 01b064a53729cad26b56c6ffb497ef3a
+
+Prog Size: 1022                           Sectors: 6              TSL: T$18 S$0C
+
+--------------------------------------------------------------------------------
+
+TEST
+A - Applesoft BASIC                        MD5: 78451ad3898353460015f694187aed0e
+
+Prog Size: 5661                           Sectors: 24             TSL: T$1B S$08
+
+--------------------------------------------------------------------------------
+
+MX-80.OBJ
+B - Binary                                 MD5: 52fe0331a84b4bd427067629269922fb
+
+  Address: $1800         Size: 2048       Sectors: 10             TSL: T$1E S$0F
+
+--------------------------------------------------------------------------------
+

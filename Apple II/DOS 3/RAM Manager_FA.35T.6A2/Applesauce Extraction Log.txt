@@ -1,0 +1,70 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 13:02
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+6 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+*B 009 HEX AND DEC CONVERTERS
+*A 017 RAM MANAGER
+*B 008 MENU
+*B 002 F8 ROM MOVER
+*B 007 RAM-BINARY
+*A 003 DESIGNS
+
+
+== FILE DETAILS ================================================================
+
+HEX AND DEC CONVERTERS
+B - Binary                                 MD5: e75a4b9405bee75ee8e5f1ede395d13d
+
+  Address: $5F73         Size: 1862       Sectors: 9              TSL: T$17 S$0F
+
+--------------------------------------------------------------------------------
+
+RAM MANAGER
+A - Applesoft BASIC                        MD5: e94f92d341f1363ed54038a1a9e8678d
+
+Prog Size: 4089                           Sectors: 17             TSL: T$13 S$0F
+
+--------------------------------------------------------------------------------
+
+MENU
+B - Binary                                 MD5: 763bcf273f7553d2295a53e3b3ac3761
+
+  Address: $8EF6         Size: 1786       Sectors: 8              TSL: T$14 S$0F
+
+--------------------------------------------------------------------------------
+
+F8 ROM MOVER
+B - Binary                                 MD5: 1407b7e51b2503f5381f8f24ace2f32e
+
+  Address: $0300         Size: 29         Sectors: 2              TSL: T$15 S$0F
+
+--------------------------------------------------------------------------------
+
+RAM-BINARY
+B - Binary                                 MD5: e1424b8c4d2e91bac93104570a167fde
+
+  Address: $5E00         Size: 1376       Sectors: 7              TSL: T$16 S$0F
+
+--------------------------------------------------------------------------------
+
+DESIGNS
+A - Applesoft BASIC                        MD5: 0c3a859cd9efe47055da4a156c922b69
+
+Prog Size: 260                            Sectors: 3              TSL: T$18 S$0F
+
+--------------------------------------------------------------------------------
+

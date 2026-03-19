@@ -1,0 +1,44 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:57
+
+    Media: 5.25" Floppy Disk
+   Format: Apple ProDOS
+
+== STATUS ======================================================================
+
+2 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+LEBGAL3
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+ LEDGER          ASP     255  02-OCT-85  00:00  02-OCT-85  00:00  129855 
+ FRAMEORDER      ASP      18  28-AUG-85  00:00  28-AUG-85  00:00    8303 
+
+
+== FILE DETAILS ================================================================
+
+LEDGER
+ASP - AppleWorks Spreadsheet File ($1B)    MD5: 06bfa59d4cee8c716c8e3e6df97295eb
+
+File Type: $1B       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 255      File Size: 129855   Index Qty: 1        
+Data Size: 129855   Data Blks: 254      
+
+--------------------------------------------------------------------------------
+
+FRAMEORDER
+ASP - AppleWorks Spreadsheet File ($1B)    MD5: 2892485cd5616b30e8491411b49b83dd
+
+File Type: $1B       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 18       File Size: 8303     Index Qty: 1        
+Data Size: 8303     Data Blks: 17       
+
+--------------------------------------------------------------------------------
+

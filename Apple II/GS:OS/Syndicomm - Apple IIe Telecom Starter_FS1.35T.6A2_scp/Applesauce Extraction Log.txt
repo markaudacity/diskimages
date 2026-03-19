@@ -1,0 +1,314 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 12:52
+
+    Media: 5.25" Floppy Disk
+   Format: Apple IIgs GS/OS
+
+== STATUS ======================================================================
+
+29 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+MMGR
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+*MDP5            BIN       1  01-JAN-90  00:00  10-AUG-99  07:54     512 A=$6000
+ PRODOS          SYS      34  17-JUL-90  15:40  17-JUL-90  15:35   16509 
+*MMGR.SYSTEM     SYS       6  20-SEP-86  15:27  10-AUG-99  07:54    2432 
+*MDP1            BIN      17  01-JAN-90  00:00  10-AUG-99  07:54    8192 A=$6000
+*MDP2            BIN      18  20-SEP-86  14:54  10-AUG-99  07:54    8704 A=$6000
+*MDP3            BIN      16  01-JAN-90  00:00  10-AUG-99  07:54    8704 A=$6000
+*MDP4            BIN      18  20-SEP-86  14:57  10-AUG-99  07:54    8704 A=$6000
+ MDP0            BIN      25  08-OCT-00  20:39  10-AUG-99  07:54   12032 A=$2100
+*BINARY2         BIN      14  01-MAR-87  12:01  10-AUG-99  07:54    8704 A=$6000
+*AEXMODEM        BIN      12  01-MAY-87  12:01  10-AUG-99  07:54    8704 A=$6000
+*VT220           BIN      17  20-MAR-97  18:43  10-AUG-99  07:54    8704 A=$0800
+*MDPX            BIN      11  01-JAN-90  00:00  10-AUG-99  07:54    8192 A=$6000
+ HELP            TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     183 R=    0
+ MACRO.H         TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     991 R=    0
+ EDITOR.H        TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     460 R=    0
+ DISK.H          TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     481 R=    0
+ CAPTURE.H       TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     705 R=    0
+ DIAL.H          TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     708 R=    0
+ CLOCK.H         TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     192 R=    0
+ EMULATION.H     TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     266 R=    0
+ FILENAME.H      TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     638 R=    0
+ PRINTER.H       TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     863 R=    0
+*YMODEM          BIN      15  01-JAN-90  00:00  12-OCT-99  20:47    8704 A=$6000
+ PHONE.LIST      TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     139 R=    0
+ COMPUSERVE      TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     287 R=    0
+ SOURCE          TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     315 R=    0
+*ZMODEM          BIN      16  01-JAN-90  00:00  12-OCT-99  20:47    8704 A=$6000
+ FINDER.ROOT     FND       1  08-OCT-00  21:12  08-OCT-00  21:12       9 
+ FINDER.DATA     FND       1  08-OCT-00  21:12  08-OCT-00  21:12     492 
+
+
+== FILE DETAILS ================================================================
+
+MDP5
+BIN - Binary File ($06)                    MD5: bc3e1012a5cb25b70d7f630b41a39962
+
+File Type: $06       Aux Type: $6000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 512      Index Qty: 0        
+Data Size: 512      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+PRODOS
+SYS - ProDOS System File ($FF)             MD5: 151725c8cedd3cc2a0cec3338b0e390a
+
+File Type: $FF       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 34       File Size: 16509    Index Qty: 1        
+Data Size: 16509    Data Blks: 33       
+
+--------------------------------------------------------------------------------
+
+MMGR.SYSTEM
+SYS - ProDOS System File ($FF)             MD5: 1c787e95114a6d375a8fccd08e9b3872
+
+File Type: $FF       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 6        File Size: 2432     Index Qty: 1        
+Data Size: 2432     Data Blks: 5        
+
+--------------------------------------------------------------------------------
+
+MDP1
+BIN - Binary File ($06)                    MD5: 4570eee14c853410a0388744c25ca918
+
+File Type: $06       Aux Type: $6000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 17       File Size: 8192     Index Qty: 1        
+Data Size: 8192     Data Blks: 16       
+
+--------------------------------------------------------------------------------
+
+MDP2
+BIN - Binary File ($06)                    MD5: 3639998c71ef0a0f143f5bc664d6edd7
+
+File Type: $06       Aux Type: $6000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 18       File Size: 8704     Index Qty: 1        
+Data Size: 8704     Data Blks: 17       
+
+--------------------------------------------------------------------------------
+
+MDP3
+BIN - Binary File ($06)                    MD5: 463c10b6ee389d2d955897740f0b223d
+
+File Type: $06       Aux Type: $6000      Storage: Sapling ($2)                 
+   Sparse: Yes      Block Qty: 16       File Size: 8704     Index Qty: 1        
+Data Size: 8704     Data Blks: 16       
+
+--------------------------------------------------------------------------------
+
+MDP4
+BIN - Binary File ($06)                    MD5: ce827c4a56f64c114ba06ad33ffe8b51
+
+File Type: $06       Aux Type: $6000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 18       File Size: 8704     Index Qty: 1        
+Data Size: 8704     Data Blks: 17       
+
+--------------------------------------------------------------------------------
+
+MDP0
+BIN - Binary File ($06)                    MD5: bbed47c97691ae01d55082e402de5f15
+
+File Type: $06       Aux Type: $2100      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 25       File Size: 12032    Index Qty: 1        
+Data Size: 12032    Data Blks: 24       
+
+--------------------------------------------------------------------------------
+
+BINARY2
+BIN - Binary File ($06)                    MD5: e72b02fbc6e4474b251d044e22303626
+
+File Type: $06       Aux Type: $6000      Storage: Sapling ($2)                 
+   Sparse: Yes      Block Qty: 14       File Size: 8704     Index Qty: 1        
+Data Size: 8704     Data Blks: 14       
+
+--------------------------------------------------------------------------------
+
+AEXMODEM
+BIN - Binary File ($06)                    MD5: b9f755b5d94707cefe2989f8daaee566
+
+File Type: $06       Aux Type: $6000      Storage: Sapling ($2)                 
+   Sparse: Yes      Block Qty: 12       File Size: 8704     Index Qty: 1        
+Data Size: 8704     Data Blks: 12       
+
+--------------------------------------------------------------------------------
+
+VT220
+BIN - Binary File ($06)                    MD5: f194b6063de84529cfebb0a79165ec5c
+
+File Type: $06       Aux Type: $0800      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 17       File Size: 8704     Index Qty: 1        
+Data Size: 8704     Data Blks: 17       
+
+--------------------------------------------------------------------------------
+
+MDPX
+BIN - Binary File ($06)                    MD5: 50291de3539b7595b95b60708dce1f76
+
+File Type: $06       Aux Type: $6000      Storage: Sapling ($2)                 
+   Sparse: Yes      Block Qty: 11       File Size: 8192     Index Qty: 1        
+Data Size: 8192     Data Blks: 10       
+
+--------------------------------------------------------------------------------
+
+HELP
+TXT - ASCII Text File ($04)                MD5: ecb4608858562f113724dda4ecff0125
+
+File Type: $04       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 183      Index Qty: 0        
+Data Size: 183      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+MACRO.H
+TXT - ASCII Text File ($04)                MD5: 55620536c42279c8778f323031b48902
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 3        File Size: 991      Index Qty: 1        
+Data Size: 991      Data Blks: 2        
+
+--------------------------------------------------------------------------------
+
+EDITOR.H
+TXT - ASCII Text File ($04)                MD5: e31c845667398905800d801976d7cfdd
+
+File Type: $04       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 460      Index Qty: 0        
+Data Size: 460      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+DISK.H
+TXT - ASCII Text File ($04)                MD5: 3dfcf2c2b1157054be7ab8f4872bb7c2
+
+File Type: $04       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 481      Index Qty: 0        
+Data Size: 481      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+CAPTURE.H
+TXT - ASCII Text File ($04)                MD5: 8fd61fc4a4eac3de747bf3ccd32ac0a2
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 3        File Size: 705      Index Qty: 1        
+Data Size: 705      Data Blks: 2        
+
+--------------------------------------------------------------------------------
+
+DIAL.H
+TXT - ASCII Text File ($04)                MD5: 2f03f2675d130183868aa72697c59838
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 3        File Size: 708      Index Qty: 1        
+Data Size: 708      Data Blks: 2        
+
+--------------------------------------------------------------------------------
+
+CLOCK.H
+TXT - ASCII Text File ($04)                MD5: 0612349e77a059c53fb8b115dee22e4c
+
+File Type: $04       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 192      Index Qty: 0        
+Data Size: 192      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+EMULATION.H
+TXT - ASCII Text File ($04)                MD5: 308f35fc6fd4b1d73d2db6c285a1f103
+
+File Type: $04       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 266      Index Qty: 0        
+Data Size: 266      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+FILENAME.H
+TXT - ASCII Text File ($04)                MD5: 7c00e363ea5d39e91eb7546bb79d1c48
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 3        File Size: 638      Index Qty: 1        
+Data Size: 638      Data Blks: 2        
+
+--------------------------------------------------------------------------------
+
+PRINTER.H
+TXT - ASCII Text File ($04)                MD5: 3e0c7bfa00499d54bb4389e12bf3290a
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 3        File Size: 863      Index Qty: 1        
+Data Size: 863      Data Blks: 2        
+
+--------------------------------------------------------------------------------
+
+YMODEM
+BIN - Binary File ($06)                    MD5: 545960d800ddc2aed3a366034430a435
+
+File Type: $06       Aux Type: $6000      Storage: Sapling ($2)                 
+   Sparse: Yes      Block Qty: 15       File Size: 8704     Index Qty: 1        
+Data Size: 8704     Data Blks: 15       
+
+--------------------------------------------------------------------------------
+
+PHONE.LIST
+TXT - ASCII Text File ($04)                MD5: 625664a2a151edab2058ff19982e363a
+
+File Type: $04       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 139      Index Qty: 0        
+Data Size: 139      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+COMPUSERVE
+TXT - ASCII Text File ($04)                MD5: d246fecb699a33c74da00487889f7673
+
+File Type: $04       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 287      Index Qty: 0        
+Data Size: 287      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+SOURCE
+TXT - ASCII Text File ($04)                MD5: 5268a191f49ee7e0421412576df82bcc
+
+File Type: $04       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 315      Index Qty: 0        
+Data Size: 315      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+ZMODEM
+BIN - Binary File ($06)                    MD5: 6491a18e5db37a81c570f6f68d87d8f0
+
+File Type: $06       Aux Type: $6000      Storage: Sapling ($2)                 
+   Sparse: Yes      Block Qty: 16       File Size: 8704     Index Qty: 1        
+Data Size: 8704     Data Blks: 16       
+
+--------------------------------------------------------------------------------
+
+FINDER.ROOT
+FND - Finder Data ($C9)                    MD5: f4684bbed2cded8717e7c034049ce367
+
+File Type: $C9       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 9        Index Qty: 0        
+Data Size: 9        Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+FINDER.DATA
+FND - Finder Data ($C9)                    MD5: 69e4aab0cac689c47a7ab61e06c160c3
+
+File Type: $C9       Aux Type: $0000      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 492      Index Qty: 0        
+Data Size: 492      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
