@@ -1,0 +1,22 @@
+*The grafstar // supports screen dumps from a variety of Apple // screens.
+*The standard Apple //e 40 and 80 column screens as well as the Videx VideoTerm
+*80 Column Display are supported.
+* 
+*With a simple printer command a snapshot of the text screen is transferred to
+*your printer. The use of this feature includes scanning a program listing and
+*then only printing the screen that contains important information. Programs can
+*easily allow printout of important screen information under user control.
+* 
+*This command can be typed from the keyboard or sent under program control. The
+*format for the four different screen dump commands are explained below.
+* 
+*<CTRL-I> S      Prints out Apple // 40 column screen.
+*<CTRL-I> 2S     Prints out text page 1 and 2 side by side.
+*<CTRL-I> 3S     Prints out Videx 80 column screen.
+*<CTRL-I> 8S     Prints out Apple //e 80 column screen.
+* 
+*                <SPACE> Print out this text screen
+*                <ESC>   Return to main menu
+* 
+*                Choose option >
+EOF
