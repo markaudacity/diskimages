@@ -1,0 +1,7 @@
+V-TELL
+
+VT       ENG        14,061   4-14-1989   9:59a VT.ENG
+VT       EXE       181,894   4-14-1989  10:04a VT.EXE
+VT       FON        58,372   2-22-1988   4:23p VT.FON
+VTINFO   TXT         4,049   2-23-1989   3:36p VTINFO.TXT
+INSTALL  EXE        58,313   2-08-1989   2:44a INSTALL.EXE

@@ -1,0 +1,7 @@
+
+
+JANE     WK1         3,786   4-23-1991   7:16a JANE.WK1
+MG-HEI   WK1         3,824   4-23-1991   7:16a MG-HEI.WK1
+JIM      WK1         3,804   4-23-1991   7:14a JIM.WK1
+HEI-PAY  WK1         5,908   4-19-1991   5:15p HEI-PAY.WK1
+PAYROLL  WK1        11,426   5-04-1991   1:57p PAYROLL.WK1

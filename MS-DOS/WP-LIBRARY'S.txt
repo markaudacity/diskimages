@@ -1,0 +1,31 @@
+UNTITLED
+
+PE       EXE        56,320   1-19-1988   5:01p PE.EXE
+PEHELP   1           1,465   1-19-1988   5:01p PEHELP.1
+PEHELP   2           1,082   1-19-1988   5:01p PEHELP.2
+PEHELP   H             999   1-19-1988   5:01p PEHELP.H
+PEHELP   A           2,180   1-19-1988   5:01p PEHELP.A
+PEHELP   C           2,428   1-19-1988   5:01p PEHELP.C
+PEHELP   M             831   1-19-1988   5:01p PEHELP.M
+ALTD     PEM             5   1-19-1988   5:01p ALTD.PEM
+ALTO     PEM             5   1-19-1988   5:01p ALTO.PEM
+ALTT     PEM             6   1-19-1988   5:01p ALTT.PEM
+ALTU     PEM             7   1-19-1988   5:01p ALTU.PEM
+ALTM     PEM            13   1-19-1988   5:01p ALTM.PEM
+ALTR     PEM            26   1-19-1988   5:01p ALTR.PEM
+ALTF     PEM            27   1-19-1988   5:01p ALTF.PEM
+DELMARK  PEM             6   1-19-1988   5:01p DELMARK.PEM
+SETUP    PEM            37   1-19-1988   5:01p SETUP.PEM
+ME       EXE        59,904   1-19-1988   5:01p ME.EXE
+MEHELP   1           1,429   1-19-1988   5:01p MEHELP.1
+MEHELP   2           1,063   1-19-1988   5:01p MEHELP.2
+MAC      MEX         6,419   1-19-1988   5:01p MAC.MEX
+PEM      MEX         6,451   1-19-1988   5:01p PEM.MEX
+MPM      MEX         5,875   1-19-1988   5:01p MPM.MEX
+SHM      MEX         5,875   1-19-1988   5:01p SHM.MEX
+MEM      MEX         6,451   1-19-1988   5:01p MEM.MEX
+CURSOR   COM         1,451   1-19-1988   5:01p CURSOR.COM
+PE       TBL            61   1-19-1988   5:01p PE.TBL
+PORT     TST            39   1-19-1988   5:02p PORT.TST
+FORMLET  MAC           128   1-19-1988   5:02p FORMLET.MAC
+LECTURE  LTR           320   1-19-1988   5:02p LECTURE.LTR

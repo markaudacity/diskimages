@@ -1,24 +1,0 @@
-Summary of HELP Format Characters
-
-Character     Action
-
-   ^L         Clear Whole Display
-   ^K         Clear to End-of-Line
-
-   ^H         Move Cursor Home
-   ^P         Move Cursor to specific location (follow by column, then row)
-   ^W         Move Cursor UP      ÿ
-   ^X         Move Cursor RIGHT   ÿ
-   ^Y         Move Cursor LEFT    ÿ
-   ^Z         Move Cursor DOWN    ÿ
-
-   ^N         Turn Blink ON                      Use these codes to develop
-   ^O         Turn Blink OFF                     your own Help files.
-   ^R         Turn Reverse Video ON
-   ^S         Turn Reverse Video OFF             Name the files:  PEHELP.?
-   ^T         Turn Underline ON                  where ? is the letter used
-   ^U         Turn Underline OFF                 to display that file.
-   ^]         Turn Bold ON
-   ^\         Turn Bold OFF
-
-   ^? (255)   Output the following character without special interpretation.
