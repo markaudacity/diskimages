@@ -1,0 +1,239 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 15, 2026 at 13:27
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+31 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "MAY GAZETTE     " 90 2A
+1    "MENU"             PRG
+11   "MN"               PRG
+10   "128 MENU"         PRG
+1    "128 CONTENTS"     SEQ
+2    "64 CONTENTS"      SEQ
+18   "128 MLX"          PRG
+18   "64 MLX"           PRG
+6    "PROOFREADER"      PRG
+1    "MONITOR+.BOOT"    PRG
+3    "BASSEM.BOOT"      PRG
+25   "BASSEM.ML"        PRG
+6    "DIR EXAMPLE"      PRG
+3    "SCR SAV EXAMPLE"  PRG
+3    "SPLITSRC.P1"      PRG
+3    "SPLITSRC.P2"      PRG
+13   "CUSTOM CURSOR"    PRG
+4    "FDBACK64"         PRG
+5    "FDBACK128"        PRG
+23   "ISOLATION"        PRG
+21   "MEGASQUEEZE"      PRG
+2    "DEC2HEX"          PRG
+4    "MINIMAP"          PRG
+13   "DEMO"             PRG
+3    "ML PROGRAMMING"   PRG
+4    "MONITOR+"         PRG
+6    "MONITOR+ RELOC"   PRG
+4    "PROGPAGE1"        PRG
+4    "PROGPAGE2"        PRG
+4    "PROGPAGE3"        PRG
+14   "RACE ACE"         PRG
+21   "SHEERLUCK"        PRG
+408 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+MENU
+Name: 'MENU'   Type: 'PRG'                 MD5: e804b2271a249132d1bde4d43a215656
+ Raw Type: $82          Start: T$16S$05 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MN
+Name: 'MN'   Type: 'PRG'                   MD5: 83992f3df9290517a96ddbfff768948f
+ Raw Type: $82          Start: T$16S$0B Sec Count: 11        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+128 MENU
+Name: '128 MENU'   Type: 'PRG'             MD5: 9497219d99489adf09aec51e5dbb5d1f
+ Raw Type: $82          Start: T$17S$01 Sec Count: 10        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+128 CONTENTS
+Name: '128 CONTENTS'   Type: 'SEQ'         MD5: b45ed0450aea9beedda6071b75188f72
+ Raw Type: $81          Start: T$0ES$03 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+64 CONTENTS
+Name: '64 CONTENTS'   Type: 'SEQ'          MD5: 1d2dfbbb57a77f1b69752adb0c916804
+ Raw Type: $81          Start: T$13S$0C Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+128 MLX
+Name: '128 MLX'   Type: 'PRG'              MD5: 2198e20bf8e99d320f045ac2b65b7a75
+ Raw Type: $82          Start: T$17S$10 Sec Count: 18        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+64 MLX
+Name: '64 MLX'   Type: 'PRG'               MD5: 99687d76827a4e33467f8f33ab2f82ce
+ Raw Type: $82          Start: T$0CS$00 Sec Count: 18        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PROOFREADER
+Name: 'PROOFREADER'   Type: 'PRG'          MD5: 7dc928589d58943117ed91d5fc2d5d4a
+ Raw Type: $82          Start: T$0CS$0D Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MONITOR+.BOOT
+Name: 'MONITOR+.BOOT'   Type: 'PRG'        MD5: 088cc816f7204961ceece17d60282b1a
+ Raw Type: $82          Start: T$0ES$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BASSEM.BOOT
+Name: 'BASSEM.BOOT'   Type: 'PRG'          MD5: 33a9dcb7053b420285f11234e9ff5097
+ Raw Type: $82          Start: T$0ES$05 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BASSEM.ML
+Name: 'BASSEM.ML'   Type: 'PRG'            MD5: 3fe1839596b0627371cb766d72f2559e
+ Raw Type: $82          Start: T$0ES$0D Sec Count: 25        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DIR EXAMPLE
+Name: 'DIR EXAMPLE'   Type: 'PRG'          MD5: f8bf2e33a04bcff79e0ee37801bcc9b7
+ Raw Type: $82          Start: T$16S$00 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SCR SAV EXAMPLE
+Name: 'SCR SAV EXAMPLE'   Type: 'PRG'      MD5: 9f892cabf76ffedebe0c57012f871c92
+ Raw Type: $82          Start: T$16S$01 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPLITSRC.P1
+Name: 'SPLITSRC.P1'   Type: 'PRG'          MD5: 6f1bb52bcf1ee1d0f46262577eeb8738
+ Raw Type: $82          Start: T$16S$02 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPLITSRC.P2
+Name: 'SPLITSRC.P2'   Type: 'PRG'          MD5: bb8c74a525d2ce324aa24162b8c4e10a
+ Raw Type: $82          Start: T$16S$03 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CUSTOM CURSOR
+Name: 'CUSTOM CURSOR'   Type: 'PRG'        MD5: dd05e78d953a1913d28e60430c46ed5c
+ Raw Type: $82          Start: T$15S$02 Sec Count: 13        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FDBACK64
+Name: 'FDBACK64'   Type: 'PRG'             MD5: c4f54f0b1bd225d640c4a0404327c745
+ Raw Type: $82          Start: T$0ES$00 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FDBACK128
+Name: 'FDBACK128'   Type: 'PRG'            MD5: 360ff21e96b939ce50450d489484527a
+ Raw Type: $82          Start: T$0ES$04 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ISOLATION
+Name: 'ISOLATION'   Type: 'PRG'            MD5: ae57cecfa0263c165bc4cea4ebfda7f6
+ Raw Type: $82          Start: T$11S$00 Sec Count: 23        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MEGASQUEEZE
+Name: 'MEGASQUEEZE'   Type: 'PRG'          MD5: 6ac2d366bf0486e96671486940303052
+ Raw Type: $82          Start: T$14S$01 Sec Count: 21        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DEC2HEX
+Name: 'DEC2HEX'   Type: 'PRG'              MD5: d37d8298ae479abc5e39d0d8659ad376
+ Raw Type: $82          Start: T$13S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MINIMAP
+Name: 'MINIMAP'   Type: 'PRG'              MD5: f9b156612f9f7c52318591e5fa62d883
+ Raw Type: $82          Start: T$10S$05 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DEMO
+Name: 'DEMO'   Type: 'PRG'                 MD5: 6a6326e6fd14e6548d9ede4647d14bb7
+ Raw Type: $82          Start: T$10S$00 Sec Count: 13        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ML PROGRAMMING
+Name: 'ML PROGRAMMING'   Type: 'PRG'       MD5: 2456b9742ad21a8b67ab43359362f848
+ Raw Type: $82          Start: T$13S$01 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MONITOR+
+Name: 'MONITOR+'   Type: 'PRG'             MD5: f040ab6a1a75c276244994355a055bdd
+ Raw Type: $82          Start: T$15S$03 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MONITOR+ RELOC
+Name: 'MONITOR+ RELOC'   Type: 'PRG'       MD5: eb8dd28ec8e9c0d4177c899b5da1ab45
+ Raw Type: $82          Start: T$15S$0B Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PROGPAGE1
+Name: 'PROGPAGE1'   Type: 'PRG'            MD5: 3561b79be5f7ec9957ddeb9937d154cb
+ Raw Type: $82          Start: T$0FS$0B Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PROGPAGE2
+Name: 'PROGPAGE2'   Type: 'PRG'            MD5: 08d1d8b2d28e129d3823a2baff0a4471
+ Raw Type: $82          Start: T$15S$00 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PROGPAGE3
+Name: 'PROGPAGE3'   Type: 'PRG'            MD5: 7a804e47aec60e408fc36c044c7ce0e9
+ Raw Type: $82          Start: T$15S$01 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+RACE ACE
+Name: 'RACE ACE'   Type: 'PRG'             MD5: 2f8df64bbc44e7b0edc92e3931c44c38
+ Raw Type: $82          Start: T$13S$02 Sec Count: 14        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SHEERLUCK
+Name: 'SHEERLUCK'   Type: 'PRG'            MD5: 1633e5bfa12d58e8e3a8d132900a4248
+ Raw Type: $82          Start: T$10S$0F Sec Count: 21        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

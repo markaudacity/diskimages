@@ -1,0 +1,190 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 16, 2026 at 17:04
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+24 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "REMSOFT (C) 1989" 16 2A
+1    "REMSOFT"          PRG
+2    "LOADER128"        PRG
+1    "LOADER"           PRG
+2    "CHAR"             PRG
+3    "VIEW"             PRG
+4    "FAST"             PRG
+1    "SLOW"             PRG
+45   "MENU"             PRG
+3    "FASTLOAD ON/OFF"  PRG
+1    "DIR READ"         PRG
+39   "RTL3"             PRG
+1    "----------------" USR
+51   "1520 ZERO ZAP"    PRG
+40   "4224 GEOMETRIC"   PRG
+39   "1700 GIANT/DWARF" PRG
+30   "1050 VIDEO POKER" PRG
+46   "1760 SCORE FOUR"  PRG
+91   "1703 SEGREGATION" PRG
+94   "1850 MAZE RESCUE" PRG
+28   "3002 COLOR MAGIC" PRG
+29   "4200 ANATOMY"     PRG
+66   "4201 ALPHANUM"    PRG
+26   "4337 DIVISION"    PRG
+19   "4265 KORS ELF"    PRG
+0 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+REMSOFT
+Name: 'REMSOFT'   Type: 'PRG'              MD5: 8d82d47084a378d2c5ad4602b2eaf4a6
+ Raw Type: $82          Start: T$11S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LOADER128
+Name: 'LOADER128'   Type: 'PRG'            MD5: 9718a2475b9a8c8b83e2e26ac8f81d15
+ Raw Type: $82          Start: T$11S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LOADER
+Name: 'LOADER'   Type: 'PRG'               MD5: 8249f737af018681983bcbdf15c2f05e
+ Raw Type: $82          Start: T$11S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CHAR
+Name: 'CHAR'   Type: 'PRG'                 MD5: dba63785f0965194c231055805ed038f
+ Raw Type: $82          Start: T$11S$03 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+VIEW
+Name: 'VIEW'   Type: 'PRG'                 MD5: 6eb18ea29102251693ea97fa80735e91
+ Raw Type: $82          Start: T$11S$04 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FAST
+Name: 'FAST'   Type: 'PRG'                 MD5: 4cc7d12aa38e10240ad7857c3f331381
+ Raw Type: $82          Start: T$11S$06 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SLOW
+Name: 'SLOW'   Type: 'PRG'                 MD5: b986d3647bdc24221c9e65f58d49282a
+ Raw Type: $82          Start: T$11S$08 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MENU
+Name: 'MENU'   Type: 'PRG'                 MD5: 4423e5327c6426f477e2aadcc6e90f74
+ Raw Type: $82          Start: T$11S$09 Sec Count: 45        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FASTLOAD ON/OFF
+Name: 'FASTLOAD ON/OFF'   Type: 'PRG'      MD5: 0b8e31223fda1a97486e014b20df1afd
+ Raw Type: $82          Start: T$13S$00 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DIR READ
+Name: 'DIR READ'   Type: 'PRG'             MD5: 173a646b969080398abc1eb687d9a27b
+ Raw Type: $82          Start: T$13S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+RTL3
+Name: 'RTL3'   Type: 'PRG'                 MD5: c68050b5bde8cabe8d599739b363f6f6
+ Raw Type: $82          Start: T$13S$03 Sec Count: 39        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'USR'     MD5: 6f032100a78a9d7e5ddd0572dda1038d
+ Raw Type: $83          Start: T$0FS$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+1520 ZERO ZAP
+Name: '1520 ZERO ZAP'   Type: 'PRG'        MD5: d2993852e2429e6c6c05168ed9899eed
+ Raw Type: $82          Start: T$0FS$09 Sec Count: 51        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4224 GEOMETRIC
+Name: '4224 GEOMETRIC'   Type: 'PRG'       MD5: 86ab0558308adcf8aa18ee7bb2caf2e7
+ Raw Type: $82          Start: T$15S$00 Sec Count: 40        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+1700 GIANT/DWARF
+Name: '1700 GIANT/DWARF'   Type: 'PRG'     MD5: 4d0de78500470787718061756be8eded
+ Raw Type: $82          Start: T$16S$02 Sec Count: 39        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+1050 VIDEO POKER
+Name: '1050 VIDEO POKER'   Type: 'PRG'     MD5: f1e2abeb7b703579300743d23c81394c
+ Raw Type: $82          Start: T$0CS$00 Sec Count: 30        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+1760 SCORE FOUR
+Name: '1760 SCORE FOUR'   Type: 'PRG'      MD5: a0ca1b878bd0558ab2ba158cfbc01d2e
+ Raw Type: $82          Start: T$18S$09 Sec Count: 46        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+1703 SEGREGATION
+Name: '1703 SEGREGATION'   Type: 'PRG'     MD5: 3540539debb0678fad29b22a00506fe6
+ Raw Type: $82          Start: T$0BS$02 Sec Count: 91        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+1850 MAZE RESCUE
+Name: '1850 MAZE RESCUE'   Type: 'PRG'     MD5: 16600ed90ae1b7f337bf1e57cea531d0
+ Raw Type: $82          Start: T$1BS$04 Sec Count: 94        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+3002 COLOR MAGIC
+Name: '3002 COLOR MAGIC'   Type: 'PRG'     MD5: f33dde1294a9cf0419eef303a6549beb
+ Raw Type: $82          Start: T$06S$00 Sec Count: 28        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4200 ANATOMY
+Name: '4200 ANATOMY'   Type: 'PRG'         MD5: 570e7c5626c0ed06ede254380736bae4
+ Raw Type: $82          Start: T$05S$02 Sec Count: 29        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4201 ALPHANUM
+Name: '4201 ALPHANUM'   Type: 'PRG'        MD5: ef09e0c7e1b44e21b636222ba9153b4c
+ Raw Type: $82          Start: T$04S$01 Sec Count: 66        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4337 DIVISION
+Name: '4337 DIVISION'   Type: 'PRG'        MD5: a8c0b493c90ea58b6827bd61216ad0d1
+ Raw Type: $82          Start: T$20S$09 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4265 KORS ELF
+Name: '4265 KORS ELF'   Type: 'PRG'        MD5: 6aca391e46fd7debfd8a7c4ffd9970f7
+ Raw Type: $82          Start: T$22S$02 Sec Count: 19        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

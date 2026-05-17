@@ -1,0 +1,283 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 16, 2026 at 22:52
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+32 files were detected on the disk.
+The following errors were encountered:
+
+READ ME.WP has 1 bad sector(s).
+DISK PC has 1 bad sector(s).
+DISK PD has 1 bad sector(s).
+DISK PE has 1 bad sector(s).
+DISK PG has 1 bad sector(s).
+DISK PI has 1 bad sector(s).
+DISK PK has 1 bad sector(s).
+DISK PM has 1 bad sector(s).
+DISK PN has 1 bad sector(s).
+0-DISKS LISTED-. has 1 bad sector(s).
+P SERIES (PC-PN) has 1 bad sector(s).
+SPECIAL SERIES has 1 bad sector(s).
+
+== CATALOG =====================================================================
+
+0 "PLUG CATALOG    " LA 2A
+0    "----------------" PRG
+1    "-- USE YOUR   --" PRG
+1    "-- PLUS/4'S   --" PRG
+1    "-- BUILT-IN   --" PRG
+1    "-- WORD PRO-  --" PRG
+1    "-- CESSOR TO  --" PRG
+1    "-- READ THE   --" PRG
+1    "--'READ ME.WP'--" PRG
+1    "-- FILE FIRST --" PRG
+0    "----------------" PRG
+31   "READ ME.WP"       SEQ
+0    "----------------" PRG
+1    "0--DISK NOTES--." PRG
+23   "DISK PC"          SEQ
+29   "DISK PD"          SEQ
+21   "DISK PE"          SEQ
+29   "DISK PF"          SEQ
+30   "DISK PG"          SEQ
+26   "DISK PH"          SEQ
+28   "DISK PI"          SEQ
+20   "DISK PJ"          SEQ
+29   "DISK PK"          SEQ
+31   "DISK PL"          SEQ
+29   "DISK PM"          SEQ
+30   "DISK PN"          SEQ
+25   "OTHER DISKS"      SEQ
+0    "----------------" PRG
+1    "0-DISKS LISTED-." PRG
+80   "P SERIES (PC-PN)" PRG
+20   "SPECIAL SERIES"   PRG
+0    "----------------" PRG
+27   "ORDER FORM.WP"    SEQ
+146 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+----------------
+Name: '----------------'   Type: 'PRG'                                     MD5: 
+ Raw Type: $82          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+-- USE YOUR   --
+Name: '-- USE YOUR   --'   Type: 'PRG'     MD5: 817d37510862f3d9191895d46321d63e
+ Raw Type: $82          Start: T$13S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+-- PLUS/4'S   --
+Name: '-- PLUS/4'S   --'   Type: 'PRG'     MD5: b7d98a97275838bd13005e16db755de9
+ Raw Type: $82          Start: T$13S$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+-- BUILT-IN   --
+Name: '-- BUILT-IN   --'   Type: 'PRG'     MD5: b7d98a97275838bd13005e16db755de9
+ Raw Type: $82          Start: T$13S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+-- WORD PRO-  --
+Name: '-- WORD PRO-  --'   Type: 'PRG'     MD5: b7d98a97275838bd13005e16db755de9
+ Raw Type: $82          Start: T$13S$03 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+-- CESSOR TO  --
+Name: '-- CESSOR TO  --'   Type: 'PRG'     MD5: b7d98a97275838bd13005e16db755de9
+ Raw Type: $82          Start: T$13S$04 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+-- READ THE   --
+Name: '-- READ THE   --'   Type: 'PRG'     MD5: b7d98a97275838bd13005e16db755de9
+ Raw Type: $82          Start: T$13S$05 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+--'READ ME.WP'--
+Name: '--'READ ME.WP'--'   Type: 'PRG'     MD5: b7d98a97275838bd13005e16db755de9
+ Raw Type: $82          Start: T$13S$06 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+-- FILE FIRST --
+Name: '-- FILE FIRST --'   Type: 'PRG'     MD5: b7d98a97275838bd13005e16db755de9
+ Raw Type: $82          Start: T$13S$07 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'PRG'                                     MD5: 
+ Raw Type: $82          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+READ ME.WP
+Name: 'READ ME.WP'   Type: 'SEQ'           MD5: 7b4a3d84de6a5df2d1abfa87275334a0
+ Raw Type: $81          Start: T$11S$00 Sec Count: 31        Rel Size: 0        
+
+Bytes 254-7873 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'PRG'                                     MD5: 
+ Raw Type: $82          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+0--DISK NOTES--.
+Name: '0--DISK NOTES--.'   Type: 'PRG'     MD5: 97e8da169d9a8f7b1baf09919994d7f4
+ Raw Type: $82          Start: T$11S$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK PC
+Name: 'DISK PC'   Type: 'SEQ'              MD5: 69bbb9e03a97a83aeb2936023e6aa936
+ Raw Type: $81          Start: T$11S$02 Sec Count: 23        Rel Size: 0        
+
+Bytes 1524-5841 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+DISK PD
+Name: 'DISK PD'   Type: 'SEQ'              MD5: b301ecd5c6a6f071ab84f8ca064038ae
+ Raw Type: $81          Start: T$10S$01 Sec Count: 29        Rel Size: 0        
+
+Bytes 0-7365 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+DISK PE
+Name: 'DISK PE'   Type: 'SEQ'              MD5: 3d6e5b0742637d95309c66ad4eadcf3e
+ Raw Type: $81          Start: T$0FS$01 Sec Count: 21        Rel Size: 0        
+
+Bytes 0-5333 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+DISK PF
+Name: 'DISK PF'   Type: 'SEQ'              MD5: e7a55196c09328350e2a3f7ce4455363
+ Raw Type: $81          Start: T$15S$00 Sec Count: 29        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK PG
+Name: 'DISK PG'   Type: 'SEQ'              MD5: 02f068641eef16e1694b9b35bb658a3e
+ Raw Type: $81          Start: T$0ES$05 Sec Count: 30        Rel Size: 0        
+
+Bytes 0-7619 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+DISK PH
+Name: 'DISK PH'   Type: 'SEQ'              MD5: 108719c1cc578ca2a1129c9ec2b60317
+ Raw Type: $81          Start: T$16S$06 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK PI
+Name: 'DISK PI'   Type: 'SEQ'              MD5: a8eac144070fc9a6d59b9817d81befa6
+ Raw Type: $81          Start: T$0CS$00 Sec Count: 28        Rel Size: 0        
+
+Bytes 0-7111 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+DISK PJ
+Name: 'DISK PJ'   Type: 'SEQ'              MD5: 29e0ef8cd5484faa0b5be0914393d6e5
+ Raw Type: $81          Start: T$18S$00 Sec Count: 20        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK PK
+Name: 'DISK PK'   Type: 'SEQ'              MD5: b301ecd5c6a6f071ab84f8ca064038ae
+ Raw Type: $81          Start: T$0BS$02 Sec Count: 29        Rel Size: 0        
+
+Bytes 0-7365 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+DISK PL
+Name: 'DISK PL'   Type: 'SEQ'              MD5: 5b870d2060155cb175fc5fcc594a3f35
+ Raw Type: $81          Start: T$19S$01 Sec Count: 31        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK PM
+Name: 'DISK PM'   Type: 'SEQ'              MD5: b301ecd5c6a6f071ab84f8ca064038ae
+ Raw Type: $81          Start: T$0AS$01 Sec Count: 29        Rel Size: 0        
+
+Bytes 0-7365 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+DISK PN
+Name: 'DISK PN'   Type: 'SEQ'              MD5: 06ff7e776375c385340de083e6d44d7c
+ Raw Type: $81          Start: T$1AS$00 Sec Count: 30        Rel Size: 0        
+
+Bytes 6096-7619 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+OTHER DISKS
+Name: 'OTHER DISKS'   Type: 'SEQ'          MD5: cafd051a6c77434d7b72be7d32a9a92b
+ Raw Type: $81          Start: T$13S$08 Sec Count: 25        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'PRG'                                     MD5: 
+ Raw Type: $82          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+0-DISKS LISTED-.
+Name: '0-DISKS LISTED-.'   Type: 'PRG'     MD5: 78cda06746a4e5923ab73edc34344142
+ Raw Type: $82          Start: T$10S$06 Sec Count: 1         Rel Size: 0        
+
+Bytes 0-253 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+P SERIES (PC-PN)
+Name: 'P SERIES (PC-PN)'   Type: 'PRG'     MD5: 38b9290ab7e9c5288541adff703aeb72
+ Raw Type: $82          Start: T$1CS$04 Sec Count: 80        Rel Size: 0        
+
+Bytes 4318-20319 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+SPECIAL SERIES
+Name: 'SPECIAL SERIES'   Type: 'PRG'       MD5: f9c9b6255cb9334dbe0d95e46bd697ab
+ Raw Type: $82          Start: T$07S$02 Sec Count: 20        Rel Size: 0        
+
+Bytes 0-5079 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'PRG'                                     MD5: 
+ Raw Type: $82          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ORDER FORM.WP
+Name: 'ORDER FORM.WP'   Type: 'SEQ'        MD5: 46f43b54d354f9f898cc982c91a60cf2
+ Raw Type: $81          Start: T$14S$05 Sec Count: 27        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
