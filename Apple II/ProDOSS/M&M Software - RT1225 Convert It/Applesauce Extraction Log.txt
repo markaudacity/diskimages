@@ -1,0 +1,94 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 20, 2026 at 00:33
+
+    Media: 5.25" Floppy Disk
+   Format: Apple ProDOS
+
+== STATUS ======================================================================
+
+7 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+M.M.SOFT
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+ PRODOS          SYS      32  01-DEC-87  18:05  <NO DATE>          15485 
+ BASIC.SYSTEM    SYS      21  01-DEC-87  18:05  <NO DATE>          10240 
+ STARTUP         BAS       1  <NO DATE>         26-APR-91  00:00     448 
+ FIRST           BAS       3  <NO DATE>         <NO DATE>            597 
+ CONVERT.IT      BAS      46  06-OCT-91  00:00  <NO DATE>          22685 
+ CONVRT.DOCS.AW  AWP       7  06-OCT-91  16:43  <NO DATE>           2840 
+ CONVRT.DOCS.TXT TXT       6  06-OCT-91  16:32  <NO DATE>           2143 R=    0
+
+
+== FILE DETAILS ================================================================
+
+PRODOS
+SYS - ProDOS System File ($FF)             MD5: 0210fc3ad00837507f0dccfe5d3cf733
+
+File Type: $FF       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 32       File Size: 15485    Index Qty: 1        
+Data Size: 15485    Data Blks: 31       
+
+--------------------------------------------------------------------------------
+
+BASIC.SYSTEM
+SYS - ProDOS System File ($FF)             MD5: ffb151ad02a090aafba64c5dc1d4a713
+
+File Type: $FF       Aux Type: $2000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 21       File Size: 10240    Index Qty: 1        
+Data Size: 10240    Data Blks: 20       
+
+--------------------------------------------------------------------------------
+
+STARTUP
+BAS - Applesoft BASIC Program ($FC)        MD5: 3e1a111a67a3bb2a9ac04118036dd696
+
+File Type: $FC       Aux Type: $0801      Storage: Seedling ($1)                
+   Sparse: No       Block Qty: 1        File Size: 448      Index Qty: 0        
+Data Size: 448      Data Blks: 1        
+
+--------------------------------------------------------------------------------
+
+FIRST
+BAS - Applesoft BASIC Program ($FC)        MD5: e31c92a2ea175840f914231a56f22c99
+
+File Type: $FC       Aux Type: $0801      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 3        File Size: 597      Index Qty: 1        
+Data Size: 597      Data Blks: 2        
+
+--------------------------------------------------------------------------------
+
+CONVERT.IT
+BAS - Applesoft BASIC Program ($FC)        MD5: 63851879341d9392bc45b2be413bdf1a
+
+File Type: $FC       Aux Type: $0801      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 46       File Size: 22685    Index Qty: 1        
+Data Size: 22685    Data Blks: 45       
+
+--------------------------------------------------------------------------------
+
+CONVRT.DOCS.AW
+AWP - AppleWorks Word Processor File ($1A) MD5: 3651514e4ea77293ec0e20682420b0be
+
+File Type: $1A       Aux Type: $ECFD      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 7        File Size: 2840     Index Qty: 1        
+Data Size: 2840     Data Blks: 6        
+
+--------------------------------------------------------------------------------
+
+CONVRT.DOCS.TXT
+TXT - ASCII Text File ($04)                MD5: 809bc8e81418511a29c394e3f1c5a9f4
+
+File Type: $04       Aux Type: $0000      Storage: Sapling ($2)                 
+   Sparse: No       Block Qty: 6        File Size: 2143     Index Qty: 1        
+Data Size: 2143     Data Blks: 5        
+
+--------------------------------------------------------------------------------
+

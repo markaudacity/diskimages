@@ -1,0 +1,86 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 20, 2026 at 00:32
+
+    Media: 5.25" Floppy Disk
+   Format: Apple II DOS 3.3 (16 sector)
+
+== STATUS ======================================================================
+
+8 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+DISK VOLUME 254
+
+ A 007 MM
+*B 050 INTBASIC
+ A 004 FIRST
+ I 016 CAPITALS OF STATES
+ I 033 CIVIL WAR QUIZ
+ I 033 HISTORY QUIZ
+*A 055 CIVIL
+ I 013 HSITORY QUIZ
+
+
+== FILE DETAILS ================================================================
+
+MM
+A - Applesoft BASIC                        MD5: cace58953054cafc877f3b9f33d1bf69
+
+Prog Size: 1438                           Sectors: 7              TSL: T$12 S$0F
+
+--------------------------------------------------------------------------------
+
+INTBASIC
+B - Binary                                 MD5: 5d4a39422542cdd5adcc3f7047c37a94
+
+  Address: $1000         Size: 12288      Sectors: 50             TSL: T$12 S$08
+
+--------------------------------------------------------------------------------
+
+FIRST
+A - Applesoft BASIC                        MD5: 4406051ae2572542ad15aed26bfd411e
+
+Prog Size: 597                            Sectors: 4              TSL: T$1B S$0F
+
+--------------------------------------------------------------------------------
+
+CAPITALS OF STATES
+I - Integer BASIC                          MD5: 2931d857f677bb56360ab048346260aa
+
+Prog Size: 3821                           Sectors: 16             TSL: T$0A S$0F
+
+--------------------------------------------------------------------------------
+
+CIVIL WAR QUIZ
+I - Integer BASIC                          MD5: 0164d4c27665fb6892b3c350bae041e2
+
+Prog Size: 7948                           Sectors: 33             TSL: T$09 S$0F
+
+--------------------------------------------------------------------------------
+
+HISTORY QUIZ
+I - Integer BASIC                          MD5: 6584073fbc9ffb893d13a0093f509b9f
+
+Prog Size: 2778                           Sectors: 33             TSL: T$07 S$0E
+
+--------------------------------------------------------------------------------
+
+CIVIL
+A - Applesoft BASIC                        MD5: bdfd8c458c83ada84300742f6fa5aa83
+
+Prog Size: 12697                          Sectors: 55             TSL: T$07 S$01
+
+--------------------------------------------------------------------------------
+
+HSITORY QUIZ
+I - Integer BASIC                          MD5: 5bd701592da014f60abcb070e07a1483
+
+Prog Size: 2833                           Sectors: 13             TSL: T$15 S$06
+
+--------------------------------------------------------------------------------
+
