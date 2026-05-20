@@ -1,0 +1,29 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 20, 2026 at 00:04
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+1 file was detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "GAMES           " GA 2A
+49   "DIAGON C16"       PRG
+615 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+DIAGON C16
+Name: 'DIAGON C16'   Type: 'PRG'           MD5: a1c76fe7775593272bc30d89a7aad76b
+ Raw Type: $82          Start: T$11S$00 Sec Count: 49        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,64 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 19, 2026 at 23:46
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+6 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "ACE PLUS4/C16   " 1 2A
+2    "ACE"              PRG
+31   "B"                PRG
+5    "Z"                PRG
+57   "D"                PRG
+1    "Z2"               PRG
+205  "A"                PRG
+363 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+ACE
+Name: 'ACE'   Type: 'PRG'                  MD5: 41c9360cfdd63d3203a28303a03612f0
+ Raw Type: $82          Start: T$17S$0F Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+B
+Name: 'B'   Type: 'PRG'                    MD5: 1c72629ebe3e607cf95df25c14e847e2
+ Raw Type: $82          Start: T$13S$00 Sec Count: 31        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+Z
+Name: 'Z'   Type: 'PRG'                    MD5: d2a5a1dcba26f08553bd6ff34202ef6e
+ Raw Type: $82          Start: T$14S$06 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+D
+Name: 'D'   Type: 'PRG'                    MD5: 9fb9fd8b9c8508305abb17761c99ae92
+ Raw Type: $82          Start: T$14S$09 Sec Count: 57        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+Z2
+Name: 'Z2'   Type: 'PRG'                   MD5: e567063ef94cf0885cbd1ff7f397c779
+ Raw Type: $82          Start: T$17S$05 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+A
+Name: 'A'   Type: 'PRG'                    MD5: 382c8d5a6aca8d6dcfca6149bd1d415b
+ Raw Type: $82          Start: T$11S$00 Sec Count: 205       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

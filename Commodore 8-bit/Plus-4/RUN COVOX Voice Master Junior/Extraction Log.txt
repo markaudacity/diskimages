@@ -1,0 +1,183 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 16, 2026 at 22:13
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+23 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "VMJR 1.0        " 64 2A
+12   "MENU"             PRG
+18   "VM"               PRG
+2    "PLAY"             PRG
+3    "BAR"              PRG
+9    "BACKUP"           PRG
+17   "EDITOR.BAS"       PRG
+37   "EDITOR"           PRG
+9    "PERFORMANCE.O"    PRG
+13   "GREETING"         PRG
+17   "CLOCK"            PRG
+71   "CVOICE"           PRG
+9    "CALCULATOR"       PRG
+39   "ENGLISH"          PRG
+41   "SPANISH"          PRG
+41   "BLACKJACK"        PRG
+44   "DEALER"           PRG
+5    "BJVOICE"          PRG
+26   "TRACKER"          PRG
+8    "DEMO"             PRG
+5    "PRESET-1"         SEQ
+45   "COMPOSER"         PRG
+4    "DEMO-128"         PRG
+2    "PLAY-128"         PRG
+186 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+MENU
+Name: 'MENU'   Type: 'PRG'                 MD5: 77675a3e90349dedad0516fc7b9e48f7
+ Raw Type: $82          Start: T$11S$00 Sec Count: 12        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+VM
+Name: 'VM'   Type: 'PRG'                   MD5: 9f65b285ac338fbe52b76f18fc425749
+ Raw Type: $82          Start: T$11S$01 Sec Count: 18        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PLAY
+Name: 'PLAY'   Type: 'PRG'                 MD5: 1e9cfba06cb5cbfc92f7eaa23588f886
+ Raw Type: $82          Start: T$13S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BAR
+Name: 'BAR'   Type: 'PRG'                  MD5: 0f4e04093b989b6b7709b34e07c3c563
+ Raw Type: $82          Start: T$13S$01 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BACKUP
+Name: 'BACKUP'   Type: 'PRG'               MD5: 0f7a60f34f54a60d8aaad4af391584f3
+ Raw Type: $82          Start: T$13S$02 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+EDITOR.BAS
+Name: 'EDITOR.BAS'   Type: 'PRG'           MD5: a1ea99e7bcce9f0ccb77bbb1dc5373be
+ Raw Type: $82          Start: T$13S$05 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+EDITOR
+Name: 'EDITOR'   Type: 'PRG'               MD5: 4da19df8c8e5b061b0a838b9cfe07eaf
+ Raw Type: $82          Start: T$10S$00 Sec Count: 37        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PERFORMANCE.O
+Name: 'PERFORMANCE.O'   Type: 'PRG'        MD5: e7dcd91bde2c9ae96de5620b99dedbd7
+ Raw Type: $82          Start: T$14S$01 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GREETING
+Name: 'GREETING'   Type: 'PRG'             MD5: 01bc86a07fae1975135da4428c8a30f4
+ Raw Type: $82          Start: T$15S$00 Sec Count: 13        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CLOCK
+Name: 'CLOCK'   Type: 'PRG'                MD5: c38711070313603f435e2eb760c3a8f9
+ Raw Type: $82          Start: T$15S$05 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CVOICE
+Name: 'CVOICE'   Type: 'PRG'               MD5: f6aeb8432d48ad4450919fcf5b8e076b
+ Raw Type: $82          Start: T$0ES$00 Sec Count: 71        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CALCULATOR
+Name: 'CALCULATOR'   Type: 'PRG'           MD5: 00a2e4690bc90798e1965f65b943dfdb
+ Raw Type: $82          Start: T$16S$01 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ENGLISH
+Name: 'ENGLISH'   Type: 'PRG'              MD5: 658d5c7f150539be63862b461204a134
+ Raw Type: $82          Start: T$16S$04 Sec Count: 39        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPANISH
+Name: 'SPANISH'   Type: 'PRG'              MD5: a4d71015ed208315fdad5a13335f7d28
+ Raw Type: $82          Start: T$18S$05 Sec Count: 41        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BLACKJACK
+Name: 'BLACKJACK'   Type: 'PRG'            MD5: 0badc60e9de2e1be6d7024b283978ec1
+ Raw Type: $82          Start: T$0BS$02 Sec Count: 41        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DEALER
+Name: 'DEALER'   Type: 'PRG'               MD5: 3654f8a4da8af5e68b67ab79ab0ca6a4
+ Raw Type: $82          Start: T$09S$00 Sec Count: 44        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BJVOICE
+Name: 'BJVOICE'   Type: 'PRG'              MD5: 3002a48ba6538664217d0433fd5ad60d
+ Raw Type: $82          Start: T$1BS$00 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TRACKER
+Name: 'TRACKER'   Type: 'PRG'              MD5: 758649ebde8f668297c0cc1cafa2e272
+ Raw Type: $82          Start: T$1BS$02 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DEMO
+Name: 'DEMO'   Type: 'PRG'                 MD5: c069bd8c42e7f7470fe65b6727c4a3be
+ Raw Type: $82          Start: T$1CS$05 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PRESET-1
+Name: 'PRESET-1'   Type: 'SEQ'             MD5: 8b55b4a6da5c18b17cf89be5d9ad077a
+ Raw Type: $81          Start: T$07S$02 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COMPOSER
+Name: 'COMPOSER'   Type: 'PRG'             MD5: fecaf4461fa17172aff361498f4e6329
+ Raw Type: $82          Start: T$07S$05 Sec Count: 45        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DEMO-128
+Name: 'DEMO-128'   Type: 'PRG'             MD5: 764aa48c86218215c25adbd7a748a179
+ Raw Type: $82          Start: T$1DS$00 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PLAY-128
+Name: 'PLAY-128'   Type: 'PRG'             MD5: 8f1abe0dcd7f77170fdb98f7d0bc32d4
+ Raw Type: $82          Start: T$1DS$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

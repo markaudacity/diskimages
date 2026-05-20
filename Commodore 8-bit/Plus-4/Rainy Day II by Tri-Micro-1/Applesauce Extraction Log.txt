@@ -1,0 +1,197 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 19, 2026 at 20:35
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+25 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "C16GAMES        " 01 2A
+8    "HEAD BASHER"      PRG
+19   "BOWLING"          PRG
+8    "DEMOLITION"       PRG
+11   "SPACESHIP"        PRG
+11   "JACKPOT"          PRG
+21   "PYRAMIDE"         PRG
+24   "SUPERFROG"        PRG
+16   "STACK 16"         PRG
+10   "RANGE BALL"       PRG
+16   "BUGGY"            PRG
+17   "DRAUGHTS"         PRG
+23   "BACKGAMMON"       PRG
+22   "OTHELLO"          PRG
+15   "TOPPER"           PRG
+7    "SPACEMAZE"        PRG
+14   "FROGS C16"        PRG
+7    "HIGHER/LOWER"     PRG
+8    "DRIVER"           PRG
+18   "DOUBLE"           PRG
+25   "QUEST"            PRG
+24   "DEATHSHIP"        PRG
+23   "PUZZLER"          PRG
+9    "NUMBERS"          PRG
+7    "SUPER BALL"       PRG
+40   "CRAZY JUMPMAN"    PRG
+261 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+HEAD BASHER
+Name: 'HEAD BASHER'   Type: 'PRG'          MD5: 221dccc6abafb5e226d9809a79fba512
+ Raw Type: $82          Start: T$11S$00 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BOWLING
+Name: 'BOWLING'   Type: 'PRG'              MD5: 9424bba4ddc24c16c2e787f92817d12e
+ Raw Type: $82          Start: T$11S$01 Sec Count: 19        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DEMOLITION
+Name: 'DEMOLITION'   Type: 'PRG'           MD5: 4597f9e1f74e9e8e8722b526cb00b9ee
+ Raw Type: $82          Start: T$13S$00 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPACESHIP
+Name: 'SPACESHIP'   Type: 'PRG'            MD5: 2d435423760d53988915d720fd517598
+ Raw Type: $82          Start: T$13S$04 Sec Count: 11        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+JACKPOT
+Name: 'JACKPOT'   Type: 'PRG'              MD5: 3fc837c4efcc5712d427f3b9cec1b47c
+ Raw Type: $82          Start: T$10S$01 Sec Count: 11        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PYRAMIDE
+Name: 'PYRAMIDE'   Type: 'PRG'             MD5: a75da6d9100f759793c18ef35004e767
+ Raw Type: $82          Start: T$10S$09 Sec Count: 21        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SUPERFROG
+Name: 'SUPERFROG'   Type: 'PRG'            MD5: f12b91c7e9321a6f40686255eec5f30e
+ Raw Type: $82          Start: T$14S$00 Sec Count: 24        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STACK 16
+Name: 'STACK 16'   Type: 'PRG'             MD5: a2baf1d41d9d1a0137d27194913633b6
+ Raw Type: $82          Start: T$0FS$01 Sec Count: 16        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+RANGE BALL
+Name: 'RANGE BALL'   Type: 'PRG'           MD5: f819fd8aaac2eec6e1b296e28a0a5c11
+ Raw Type: $82          Start: T$15S$03 Sec Count: 10        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BUGGY
+Name: 'BUGGY'   Type: 'PRG'                MD5: ccf975d6ce320a2dac571ed7b4434231
+ Raw Type: $82          Start: T$15S$08 Sec Count: 16        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DRAUGHTS
+Name: 'DRAUGHTS'   Type: 'PRG'             MD5: b82d1f152964c9d9294a8386192007e3
+ Raw Type: $82          Start: T$0ES$02 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BACKGAMMON
+Name: 'BACKGAMMON'   Type: 'PRG'           MD5: 3d0350a3cbd49b2f49b84bcd74278951
+ Raw Type: $82          Start: T$16S$00 Sec Count: 23        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+OTHELLO
+Name: 'OTHELLO'   Type: 'PRG'              MD5: 8466ecb700af4ef41b794c14c5d94876
+ Raw Type: $82          Start: T$0DS$01 Sec Count: 22        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TOPPER
+Name: 'TOPPER'   Type: 'PRG'               MD5: b1cd65a909793def286382a1b68d04bb
+ Raw Type: $82          Start: T$17S$08 Sec Count: 15        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPACEMAZE
+Name: 'SPACEMAZE'   Type: 'PRG'            MD5: e544861ac0fdf77a51b38992973cf19c
+ Raw Type: $82          Start: T$0CS$01 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FROGS C16
+Name: 'FROGS C16'   Type: 'PRG'            MD5: 71fa1fcd58604d2dcf307678beb00dcc
+ Raw Type: $82          Start: T$0CS$09 Sec Count: 14        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HIGHER/LOWER
+Name: 'HIGHER/LOWER'   Type: 'PRG'         MD5: c8ca0292eeacbc7cc10fc972f4534b35
+ Raw Type: $82          Start: T$18S$06 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DRIVER
+Name: 'DRIVER'   Type: 'PRG'               MD5: 7f707a640d2aff66832860789a51f7a1
+ Raw Type: $82          Start: T$0BS$02 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DOUBLE
+Name: 'DOUBLE'   Type: 'PRG'               MD5: 86a90acc49a8fa2cb30a7880875cfb79
+ Raw Type: $82          Start: T$0BS$08 Sec Count: 18        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+QUEST
+Name: 'QUEST'   Type: 'PRG'                MD5: 40d210cdb0ee74558ed39e13fd278c17
+ Raw Type: $82          Start: T$19S$00 Sec Count: 25        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DEATHSHIP
+Name: 'DEATHSHIP'   Type: 'PRG'            MD5: c3348e855a49a0f8c84701252a24c991
+ Raw Type: $82          Start: T$0AS$02 Sec Count: 24        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PUZZLER
+Name: 'PUZZLER'   Type: 'PRG'              MD5: 00ae991ea666520698a9605e5c29d106
+ Raw Type: $82          Start: T$1AS$04 Sec Count: 23        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+NUMBERS
+Name: 'NUMBERS'   Type: 'PRG'              MD5: 39db5dc24219039b15b0598e4c656d32
+ Raw Type: $82          Start: T$09S$07 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SUPER BALL
+Name: 'SUPER BALL'   Type: 'PRG'           MD5: 162b5291fd0eb3ea557a30bc125e78b7
+ Raw Type: $82          Start: T$1BS$02 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CRAZY JUMPMAN
+Name: 'CRAZY JUMPMAN'   Type: 'PRG'        MD5: 8423ffc6e8448fa5975867b115dc6a62
+ Raw Type: $82          Start: T$08S$00 Sec Count: 40        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

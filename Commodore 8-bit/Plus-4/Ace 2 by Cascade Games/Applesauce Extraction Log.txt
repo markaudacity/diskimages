@@ -1,0 +1,43 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 20, 2026 at 00:09
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+3 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "PLUS4MASTER     " 1 2A
+2    "ACE2"             PRG
+110  "C1"               PRG
+84   "C2"               PRG
+468 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+ACE2
+Name: 'ACE2'   Type: 'PRG'                 MD5: 9bfbe3090f3717de4fc7d73062c0a984
+ Raw Type: $82          Start: T$11S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+C1
+Name: 'C1'   Type: 'PRG'                   MD5: 46823d490d5258a9f47589056fba2bc3
+ Raw Type: $82          Start: T$11S$01 Sec Count: 110       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+C2
+Name: 'C2'   Type: 'PRG'                   MD5: dd57d17d6d291bc96ba1454cbd2c01e8
+ Raw Type: $82          Start: T$13S$00 Sec Count: 84        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,232 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 17, 2026 at 13:38
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+30 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "PLUG LIBRARY 3  " PC 2A
+32   "READ THIS"        SEQ
+7    "+4 BACKUP"        PRG
+32   "ADD AND SUBT"     PRG
+18   "ANIMATOR"         PRG
+15   "BEADS IN JAR"     PRG
+27   "CASH REGISTER"    PRG
+9    "CASTLE GRAPHIC"   PRG
+28   "DATE CALCULATOR"  PRG
+74   "FAMOUS PEOPLE"    PRG
+26   "MATH MANIA"       PRG
+34   "MATH QUIZ"        PRG
+36   "MYSTERY MANSION"  PRG
+27   "NUMBER TOE"       PRG
+17   "REVERSE"          PRG
+4    "SCROLLING"        PRG
+12   "SPRITES"          PRG
+31   "STAR TREK"        PRG
+26   "STATES & REGIONS" PRG
+24   "STORY PROB"       PRG
+34   "TIC TAC ARITH"    PRG
+40   "UNKINGJAMES"      PRG
+1    "----------------" PRG
+1    ".NOTE: THIS IS A" PRG
+1    ".TWO-SIDED DISK!" PRG
+1    ".BE SURE TO TURN" PRG
+1    ".  IT OVER AND"   PRG
+1    ".  LOOK AT THE"   PRG
+1    ".PROGRAMS ON THE" PRG
+1    ".  OTHER SIDE!"   PRG
+1    ".---------------" PRG
+102 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+READ THIS
+Name: 'READ THIS'   Type: 'SEQ'            MD5: a2a16706c9f2a4ef00f236141216ed07
+ Raw Type: $81          Start: T$1FS$00 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
++4 BACKUP
+Name: '+4 BACKUP'   Type: 'PRG'            MD5: e2c9ac22c8169d4776689f5ee6dcb712
+ Raw Type: $82          Start: T$1ES$06 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ADD AND SUBT
+Name: 'ADD AND SUBT'   Type: 'PRG'         MD5: 0857f8abeb2de243f1e5adfd9b2bd2eb
+ Raw Type: $82          Start: T$16S$08 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ANIMATOR
+Name: 'ANIMATOR'   Type: 'PRG'             MD5: 3a79ab721941f1976c0e1c0555d39fab
+ Raw Type: $82          Start: T$1DS$04 Sec Count: 18        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BEADS IN JAR
+Name: 'BEADS IN JAR'   Type: 'PRG'         MD5: 465e3ba8ec20eb311697c4ea13581879
+ Raw Type: $82          Start: T$10S$0D Sec Count: 15        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CASH REGISTER
+Name: 'CASH REGISTER'   Type: 'PRG'        MD5: 57275b0a857d18ab92bb96f91d448ee8
+ Raw Type: $82          Start: T$0DS$05 Sec Count: 27        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CASTLE GRAPHIC
+Name: 'CASTLE GRAPHIC'   Type: 'PRG'       MD5: 29119c1de9c58498cc6ada9f6a756c8f
+ Raw Type: $82          Start: T$09S$00 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DATE CALCULATOR
+Name: 'DATE CALCULATOR'   Type: 'PRG'      MD5: 79f554c2d228844ff81ff34902035fb6
+ Raw Type: $82          Start: T$13S$00 Sec Count: 28        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FAMOUS PEOPLE
+Name: 'FAMOUS PEOPLE'   Type: 'PRG'        MD5: 4393525c3940148f2e8aad76a2190113
+ Raw Type: $82          Start: T$14S$04 Sec Count: 74        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MATH MANIA
+Name: 'MATH MANIA'   Type: 'PRG'           MD5: 581f24190922b6d79d2b1a0297e019dd
+ Raw Type: $82          Start: T$18S$01 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MATH QUIZ
+Name: 'MATH QUIZ'   Type: 'PRG'            MD5: fc4c7c87cb532e2abc0a552c3617687e
+ Raw Type: $82          Start: T$10S$00 Sec Count: 34        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYSTERY MANSION
+Name: 'MYSTERY MANSION'   Type: 'PRG'      MD5: 45da8a10c459a98700b0b5a5c1867dd4
+ Raw Type: $82          Start: T$08S$00 Sec Count: 36        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+NUMBER TOE
+Name: 'NUMBER TOE'   Type: 'PRG'           MD5: b805df1ada55ead878f7dffffdc7c6e9
+ Raw Type: $82          Start: T$0BS$07 Sec Count: 27        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+REVERSE
+Name: 'REVERSE'   Type: 'PRG'              MD5: f45b924245dbd235fd95a30373351d2a
+ Raw Type: $82          Start: T$0BS$00 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SCROLLING
+Name: 'SCROLLING'   Type: 'PRG'            MD5: f60829a19ae05db2d3a2a0c513160235
+ Raw Type: $82          Start: T$1ES$04 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPRITES
+Name: 'SPRITES'   Type: 'PRG'              MD5: 8a634ceefdca8b1f3492bfa7914e9b0a
+ Raw Type: $82          Start: T$09S$01 Sec Count: 12        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STAR TREK
+Name: 'STAR TREK'   Type: 'PRG'            MD5: 5e7f933698794058c48c07874a27c35f
+ Raw Type: $82          Start: T$07S$07 Sec Count: 31        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STATES & REGIONS
+Name: 'STATES & REGIONS'   Type: 'PRG'     MD5: 6860223436e4b273b09fc3a8afe89466
+ Raw Type: $82          Start: T$11S$00 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STORY PROB
+Name: 'STORY PROB'   Type: 'PRG'           MD5: 1f2aaad7e47988980719b49ff15a2acc
+ Raw Type: $82          Start: T$0ES$03 Sec Count: 24        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TIC TAC ARITH
+Name: 'TIC TAC ARITH'   Type: 'PRG'        MD5: 09ea58c052c094d0468c2291a36cb3b4
+ Raw Type: $82          Start: T$15S$00 Sec Count: 34        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+UNKINGJAMES
+Name: 'UNKINGJAMES'   Type: 'PRG'          MD5: 65a13bb9ae34ce60e623c3b8a9e24719
+ Raw Type: $82          Start: T$05S$00 Sec Count: 40        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'PRG'     MD5: 8d9c5de87e4a209870a4d5152257f107
+ Raw Type: $82          Start: T$20S$09 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.NOTE: THIS IS A
+Name: '.NOTE: THIS IS A'   Type: 'PRG'     MD5: 8d9c5de87e4a209870a4d5152257f107
+ Raw Type: $82          Start: T$20S$0B Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.TWO-SIDED DISK!
+Name: '.TWO-SIDED DISK!'   Type: 'PRG'     MD5: 8d9c5de87e4a209870a4d5152257f107
+ Raw Type: $82          Start: T$03S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.BE SURE TO TURN
+Name: '.BE SURE TO TURN'   Type: 'PRG'     MD5: 8d9c5de87e4a209870a4d5152257f107
+ Raw Type: $82          Start: T$03S$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.  IT OVER AND
+Name: '.  IT OVER AND'   Type: 'PRG'       MD5: 8d9c5de87e4a209870a4d5152257f107
+ Raw Type: $82          Start: T$03S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.  LOOK AT THE
+Name: '.  LOOK AT THE'   Type: 'PRG'       MD5: 8d9c5de87e4a209870a4d5152257f107
+ Raw Type: $82          Start: T$03S$03 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.PROGRAMS ON THE
+Name: '.PROGRAMS ON THE'   Type: 'PRG'     MD5: 8d9c5de87e4a209870a4d5152257f107
+ Raw Type: $82          Start: T$03S$04 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.  OTHER SIDE!
+Name: '.  OTHER SIDE!'   Type: 'PRG'       MD5: 8d9c5de87e4a209870a4d5152257f107
+ Raw Type: $82          Start: T$03S$06 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.---------------
+Name: '.---------------'   Type: 'PRG'     MD5: 4a42ca39833cd1b1b370e0c255e3b937
+ Raw Type: $82          Start: T$03S$08 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

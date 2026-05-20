@@ -1,0 +1,71 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 19, 2026 at 23:59
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+7 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "MATH GAMES      " 01 2A
+4    "1"                PRG
+6    "ALOAD264"         PRG
+1    "------------"     PRG
+66   "M1A1"             PRG
+54   "M1A2"             PRG
+53   "M1B1"             PRG
+43   "M1B2"             PRG
+437 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+1
+Name: '1'   Type: 'PRG'                    MD5: b8628e9f5a28f08cfb37f2d1bca6df50
+ Raw Type: $82          Start: T$11S$00 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ALOAD264
+Name: 'ALOAD264'   Type: 'PRG'             MD5: 8243ce775d5f8b037a44e28d7efb4b5f
+ Raw Type: $82          Start: T$11S$01 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+------------
+Name: '------------'   Type: 'PRG'         MD5: f12717e7cfc081615687c2808dafb94f
+ Raw Type: $82          Start: T$11S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+M1A1
+Name: 'M1A1'   Type: 'PRG'                 MD5: caa745a5a54578a4a3e4f512c1faf85a
+ Raw Type: $82          Start: T$11S$03 Sec Count: 66        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+M1A2
+Name: 'M1A2'   Type: 'PRG'                 MD5: f7062899cb3de3a71b9800788cc21fe8
+ Raw Type: $82          Start: T$13S$00 Sec Count: 54        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+M1B1
+Name: 'M1B1'   Type: 'PRG'                 MD5: f3e6e5fd638654b437ebc5d9eda14bca
+ Raw Type: $82          Start: T$15S$08 Sec Count: 53        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+M1B2
+Name: 'M1B2'   Type: 'PRG'                 MD5: ecd24fb2de73110ade1bbee15bd3bfc9
+ Raw Type: $82          Start: T$0ES$00 Sec Count: 43        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

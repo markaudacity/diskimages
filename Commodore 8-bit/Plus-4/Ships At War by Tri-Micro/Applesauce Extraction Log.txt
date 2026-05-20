@@ -1,0 +1,50 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 20, 2026 at 00:02
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+4 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "SHIPS.AT.WAR    " 10 2A
+8    ""9D"             PRG
+15   ""0D"             PRG
+36   ""1D"             PRG
+49   ""2D"             PRG
+556 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+"9D
+Name: '"9D'   Type: 'PRG'                 MD5: aa4f85891a0b1f19a7caebbf76535c8a
+ Raw Type: $82          Start: T$13S$04 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+"0D
+Name: '"0D'   Type: 'PRG'                 MD5: 90e6006752b5f1fe191f611c549bb370
+ Raw Type: $82          Start: T$11S$00 Sec Count: 15        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+"1D
+Name: '"1D'   Type: 'PRG'                 MD5: 0436f95c826aeac77a50bc8d0aed1d7a
+ Raw Type: $82          Start: T$13S$00 Sec Count: 36        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+"2D
+Name: '"2D'   Type: 'PRG'                 MD5: cc475cacd539318c0ae016cb56f66121
+ Raw Type: $82          Start: T$11S$01 Sec Count: 49        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

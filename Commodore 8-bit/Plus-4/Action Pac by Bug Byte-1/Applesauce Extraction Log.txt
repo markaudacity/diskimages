@@ -1,0 +1,113 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 19, 2026 at 23:35
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+13 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "+4 GAMES 1      " 41 2A
+3    "GAMES"            PRG
+49   "SOLO C16"         PRG
+1    "SKYHAWK"          PRG
+1    "S1"               PRG
+4    "S2"               PRG
+49   "S3"               PRG
+1    "LEAPER"           PRG
+5    "LOADER"           PRG
+2    "0"                PRG
+17   "1"                PRG
+17   "2"                PRG
+17   "3"                PRG
+47   "P"                PRG
+451 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+GAMES
+Name: 'GAMES'   Type: 'PRG'                MD5: 44db98640394a47261593a439d1ddda2
+ Raw Type: $82          Start: T$11S$00 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOLO C16
+Name: 'SOLO C16'   Type: 'PRG'             MD5: dfa9d48361872a8935271ba2fdd56cd4
+ Raw Type: $82          Start: T$11S$01 Sec Count: 49        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SKYHAWK
+Name: 'SKYHAWK'   Type: 'PRG'              MD5: 80b3a6fbd35e66d3a6b7ff50a9aadd5e
+ Raw Type: $82          Start: T$13S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+S1
+Name: 'S1'   Type: 'PRG'                   MD5: 8744cb51117da7113e6219709cf6f2d8
+ Raw Type: $82          Start: T$13S$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+S2
+Name: 'S2'   Type: 'PRG'                   MD5: 88d78b63f3ea7e22c8566d3e9c186a2f
+ Raw Type: $82          Start: T$13S$02 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+S3
+Name: 'S3'   Type: 'PRG'                   MD5: fa3e5f518a24740edd088d0d60366839
+ Raw Type: $82          Start: T$13S$04 Sec Count: 49        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LEAPER
+Name: 'LEAPER'   Type: 'PRG'               MD5: 045fff611a64ec96227e599ef462006d
+ Raw Type: $82          Start: T$0FS$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LOADER
+Name: 'LOADER'   Type: 'PRG'               MD5: e3544ada16ee163459007cd7d24f39e6
+ Raw Type: $82          Start: T$0FS$01 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+0
+Name: '0'   Type: 'PRG'                    MD5: 5483ce510f5ead01d8b607615f1f23eb
+ Raw Type: $82          Start: T$0FS$09 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+1
+Name: '1'   Type: 'PRG'                    MD5: f22c31c076e931414e2314a599c989cc
+ Raw Type: $82          Start: T$0FS$0A Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+2
+Name: '2'   Type: 'PRG'                    MD5: 18191e6a93192826a6059f24d68dc9fe
+ Raw Type: $82          Start: T$15S$01 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+3
+Name: '3'   Type: 'PRG'                    MD5: b1694f64bc987a7ddd13e3b481d12a09
+ Raw Type: $82          Start: T$0ES$03 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+P
+Name: 'P'   Type: 'PRG'                    MD5: 9c67c4dc2641ce91571b0af71ffbe20e
+ Raw Type: $82          Start: T$16S$00 Sec Count: 47        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
