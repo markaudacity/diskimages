@@ -1,0 +1,99 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 19, 2026 at 23:34
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+11 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "MAZE MANIA PDS  " 01 2A
+5    "1"                PRG
+6    "ALOAD264"         PRG
+1    "-------------"    PRG
+14   "CAREFUL"          PRG
+22   "CHASE"            PRG
+30   "ANDROID MIN"      PRG
+19   "MAZE"             PRG
+36   "MOUSE MAZE"       PRG
+27   "ROCKETS"          PRG
+24   "SNAKES"           PRG
+26   "DRAGON MAZE"      PRG
+454 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+1
+Name: '1'   Type: 'PRG'                    MD5: c30af026198681ea99c49ed7464f1b97
+ Raw Type: $82          Start: T$0CS$08 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ALOAD264
+Name: 'ALOAD264'   Type: 'PRG'             MD5: 8243ce775d5f8b037a44e28d7efb4b5f
+ Raw Type: $82          Start: T$11S$01 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+-------------
+Name: '-------------'   Type: 'PRG'        MD5: f12717e7cfc081615687c2808dafb94f
+ Raw Type: $82          Start: T$11S$04 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CAREFUL
+Name: 'CAREFUL'   Type: 'PRG'              MD5: 58f3b023f42ffd2beeb1c149d7d9702c
+ Raw Type: $82          Start: T$11S$05 Sec Count: 14        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CHASE
+Name: 'CHASE'   Type: 'PRG'                MD5: c876d6e344928380ae04701a27a5d34d
+ Raw Type: $82          Start: T$13S$00 Sec Count: 22        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ANDROID MIN
+Name: 'ANDROID MIN'   Type: 'PRG'          MD5: 6ec473d676a8fae7a4d2fe289e76a975
+ Raw Type: $82          Start: T$10S$00 Sec Count: 30        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MAZE
+Name: 'MAZE'   Type: 'PRG'                 MD5: 4c6816731360ac9fcd3c1daaff8617fb
+ Raw Type: $82          Start: T$14S$01 Sec Count: 19        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MOUSE MAZE
+Name: 'MOUSE MAZE'   Type: 'PRG'           MD5: 2940c1769517b3d1693bd560744f36c3
+ Raw Type: $82          Start: T$0FS$02 Sec Count: 36        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ROCKETS
+Name: 'ROCKETS'   Type: 'PRG'              MD5: 80a74b09b8a18cf1bcb500890851dc24
+ Raw Type: $82          Start: T$15S$01 Sec Count: 27        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SNAKES
+Name: 'SNAKES'   Type: 'PRG'               MD5: c8363129b25a2fae4e74b68572caaca7
+ Raw Type: $82          Start: T$16S$06 Sec Count: 24        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DRAGON MAZE
+Name: 'DRAGON MAZE'   Type: 'PRG'          MD5: f93916b87688a0cb3b4a5e5a7d2f861c
+ Raw Type: $82          Start: T$0DS$00 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

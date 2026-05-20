@@ -1,0 +1,36 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 19, 2026 at 19:28
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+2 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "MANICMINER      " 16 2A
+49   "A"                PRG
+2    "MANICMINER"       PRG
+613 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+A
+Name: 'A'   Type: 'PRG'                    MD5: eaf4e1123bde6f48cf317ff5abeeb567
+ Raw Type: $82          Start: T$11S$00 Sec Count: 49        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MANICMINER
+Name: 'MANICMINER'   Type: 'PRG'           MD5: dcf4b3d85055351e640bb003a79ebc62
+ Raw Type: $82          Start: T$13S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

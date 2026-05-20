@@ -1,0 +1,120 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 19, 2026 at 19:40
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+14 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "EASY TUTOR PLUS/" 01 2A
+8    "1"                PRG
+6    "ALOAD264"         PRG
+9    "DISK"             PRG
+2    "MAIN"             PRG
+37   "4L1"              PRG
+60   "4L2"              PRG
+48   "4L3"              PRG
+34   "4L4"              PRG
+48   "4L5"              PRG
+48   "4L6"              PRG
+70   "4L7"              PRG
+62   "4L8"              PRG
+39   "4L9"              PRG
+64   "4L10"             PRG
+129 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+1
+Name: '1'   Type: 'PRG'                    MD5: 9ec28989cdaeb3824705d13c40e94b49
+ Raw Type: $82          Start: T$11S$00 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ALOAD264
+Name: 'ALOAD264'   Type: 'PRG'             MD5: 8243ce775d5f8b037a44e28d7efb4b5f
+ Raw Type: $82          Start: T$11S$01 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK
+Name: 'DISK'   Type: 'PRG'                 MD5: ec83d91fd0c97375bdd3fb93b1f3ab6e
+ Raw Type: $82          Start: T$11S$05 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MAIN
+Name: 'MAIN'   Type: 'PRG'                 MD5: 07a1983a740b54e48902a4694d664959
+ Raw Type: $82          Start: T$13S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L1
+Name: '4L1'   Type: 'PRG'                  MD5: 0058a5540c2eb40f8d90603c649d64c9
+ Raw Type: $82          Start: T$13S$01 Sec Count: 37        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L2
+Name: '4L2'   Type: 'PRG'                  MD5: a7aef33bccda716d2935b29827ed87da
+ Raw Type: $82          Start: T$10S$00 Sec Count: 60        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L3
+Name: '4L3'   Type: 'PRG'                  MD5: 95d61bd997ac8d70a699285c68fd2be4
+ Raw Type: $82          Start: T$15S$01 Sec Count: 48        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L4
+Name: '4L4'   Type: 'PRG'                  MD5: 4d7a1da1c4fb4965f37d46bd0c0a4e7f
+ Raw Type: $82          Start: T$0ES$13 Sec Count: 34        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L5
+Name: '4L5'   Type: 'PRG'                  MD5: 43ecbee19434d606c9eee54361038d30
+ Raw Type: $82          Start: T$17S$06 Sec Count: 48        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L6
+Name: '4L6'   Type: 'PRG'                  MD5: 3b5cb576ca4225017f1b562ff850a47d
+ Raw Type: $82          Start: T$0CS$02 Sec Count: 48        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L7
+Name: '4L7'   Type: 'PRG'                  MD5: b0d42af04fe6c0c48e2cd91f6a9dc78b
+ Raw Type: $82          Start: T$0AS$09 Sec Count: 70        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L8
+Name: '4L8'   Type: 'PRG'                  MD5: b0a7d00723b8991e8e121f7e05ef6a93
+ Raw Type: $82          Start: T$1AS$02 Sec Count: 62        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L9
+Name: '4L9'   Type: 'PRG'                  MD5: 295334e3551a34a9ce7a2d7b77f5e937
+ Raw Type: $82          Start: T$1DS$06 Sec Count: 39        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+4L10
+Name: '4L10'   Type: 'PRG'                 MD5: 7af5c77c12079343a22a6ba2083db518
+ Raw Type: $82          Start: T$06S$00 Sec Count: 64        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

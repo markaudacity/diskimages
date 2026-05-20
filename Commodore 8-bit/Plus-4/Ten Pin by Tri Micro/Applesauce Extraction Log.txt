@@ -1,0 +1,43 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 19, 2026 at 19:30
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+3 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "10.PIN          " 10 2A
+13   ""0D"             PRG
+46   """                PRG
+5    ""6D"             PRG
+600 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+"0D
+Name: '"0D'   Type: 'PRG'                 MD5: f250ae7c4ca6586a7f01ce0a1ac4be8a
+ Raw Type: $82          Start: T$11S$01 Sec Count: 13        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+"
+Name: '"'   Type: 'PRG'                    MD5: e1b0effae4606c3dc0637dafa08181fd
+ Raw Type: $82          Start: T$13S$03 Sec Count: 46        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+"6D
+Name: '"6D'   Type: 'PRG'                 MD5: 3618f2c51281e920b235c22401ac33e5
+ Raw Type: $82          Start: T$13S$00 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,99 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 19, 2026 at 19:26
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+11 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "MIKE KASZUBSKI  " CM 2A
+34   "CADMASTER PLUS/4" PRG
+0    "----------------" PRG
+5    "SLIDE SHOW DEMO"  PRG
+0    "----------------" PRG
+1    "-- PIC. FILES --" PRG
+0    "----------------" PRG
+33   "ELVIRA"           PRG
+33   "MONROE"           PRG
+33   "STACEY"           PRG
+33   "ALBERT"           PRG
+33   "BUNNY"            PRG
+459 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+CADMASTER PLUS/4
+Name: 'CADMASTER PLUS/4'   Type: 'PRG'     MD5: 07df3ae05cded72e9cee1aec513c7779
+ Raw Type: $82          Start: T$11S$00 Sec Count: 34        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'PRG'                                     MD5: 
+ Raw Type: $82          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SLIDE SHOW DEMO
+Name: 'SLIDE SHOW DEMO'   Type: 'PRG'      MD5: 45827379efb54d4e8a0156db2e5f6223
+ Raw Type: $82          Start: T$13S$01 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'PRG'                                     MD5: 
+ Raw Type: $82          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+-- PIC. FILES --
+Name: '-- PIC. FILES --'   Type: 'PRG'     MD5: ecd42c73433f297da44230e3ea60c9df
+ Raw Type: $82          Start: T$13S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'PRG'                                     MD5: 
+ Raw Type: $82          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ELVIRA
+Name: 'ELVIRA'   Type: 'PRG'               MD5: 1fffbd10ae053082354b6611fcec6ce5
+ Raw Type: $82          Start: T$13S$04 Sec Count: 33        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MONROE
+Name: 'MONROE'   Type: 'PRG'               MD5: 66337bb30c2837c7494edd3d104a848c
+ Raw Type: $82          Start: T$10S$02 Sec Count: 33        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STACEY
+Name: 'STACEY'   Type: 'PRG'               MD5: 389dba8ee1248f9267ab553fb962f06b
+ Raw Type: $82          Start: T$15S$00 Sec Count: 33        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ALBERT
+Name: 'ALBERT'   Type: 'PRG'               MD5: c46a3f29e5425b941537d8deeda67f81
+ Raw Type: $82          Start: T$0ES$00 Sec Count: 33        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BUNNY
+Name: 'BUNNY'   Type: 'PRG'                MD5: 51d1fa40cbf476d3c9e2248035f7b9f2
+ Raw Type: $82          Start: T$16S$00 Sec Count: 33        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
