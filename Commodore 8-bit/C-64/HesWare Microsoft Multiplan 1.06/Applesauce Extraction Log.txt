@@ -1,0 +1,64 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 22, 2026 at 18:29
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+6 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "MULTIPLAN 1.06  " MS 2A
+1    "MP"               PRG
+46   "MP."              PRG
+97   "MP.SYS"           REL
+152  "MP.HLP"           REL
+81   "MP.CODE"          SEQ
+26   "MP.DATA"          SEQ
+260 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+MP
+Name: 'MP'   Type: 'PRG'                   MD5: 4abbc319d2fd0a1ff7a68f019d759187
+ Raw Type: $82          Start: T$11S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MP.
+Name: 'MP.'   Type: 'PRG'                  MD5: b97a715c7d8870ffe6fa8a9ccc35ac5c
+ Raw Type: $82          Start: T$11S$01 Sec Count: 46        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MP.SYS
+Name: 'MP.SYS'   Type: 'REL'               MD5: d7e6c381351c61e429c83614770b1dde
+ Raw Type: $84          Start: T$18S$01 Sec Count: 97        Rel Size: 129      
+
+--------------------------------------------------------------------------------
+
+MP.HLP
+Name: 'MP.HLP'   Type: 'REL'               MD5: 7eb95a1b57fd8418b2858e4d801fa119
+ Raw Type: $84          Start: T$0FS$01 Sec Count: 152       Rel Size: 129      
+
+--------------------------------------------------------------------------------
+
+MP.CODE
+Name: 'MP.CODE'   Type: 'SEQ'              MD5: 3c405800c6674837dc62d79bcbe0ac20
+ Raw Type: $81          Start: T$13S$01 Sec Count: 81        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MP.DATA
+Name: 'MP.DATA'   Type: 'SEQ'              MD5: 22a0b5b8cb0d90ecf21d0e393bc40c7a
+ Raw Type: $81          Start: T$17S$03 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

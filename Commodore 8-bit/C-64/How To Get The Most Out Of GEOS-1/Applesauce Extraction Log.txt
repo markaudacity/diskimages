@@ -1,0 +1,155 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 22, 2026 at 18:33
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+19 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "PRG AND UTE DISK" PU 2A
+23   "UNSCRATCH"        PRG
+48   "EASY->GEOW 1.01"  PRG
+48   "SPEED->GEOW 1.01" PRG
+48   "POCKET->GEOW1.01" PRG
+48   "PCLIP->GEOW 1.01" PRG
+48   "WORDPR->GEOW1.01" PRG
+30   "EASY LOAD"        PRG
+37   "GRAPHIC CONVERT"  PRG
+26   "BUILD SEQ"        PRG
+27   "UNBUILD SEQ"      PRG
+52   "DDD"              PRG
+20   "DIRECTORY"        PRG
+7    "CREDITS"          SEQ
+5    "READ ME"          SEQ
+4    "READ SEQUENTIAL"  PRG
+10   "credits.geoW"     USR
+8    "read me.geoW"     USR
+18   "JO.TERM"          PRG
+13   "C1.ML.1.5"        PRG
+158 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+UNSCRATCH
+Name: 'UNSCRATCH'   Type: 'PRG'            MD5: 34bc2b858bc300c99deef404b6a2296a
+ Raw Type: $82          Start: T$11S$00 Sec Count: 23        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+EASY->GEOW 1.01
+Name: 'EASY->GEOW 1.01'   Type: 'PRG'      MD5: 44210f4448104ec6ab45361f4c3224af
+ Raw Type: $82          Start: T$01S$08 Sec Count: 48        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPEED->GEOW 1.01
+Name: 'SPEED->GEOW 1.01'   Type: 'PRG'     MD5: 34fa438615460376d8b79685201be4ac
+ Raw Type: $82          Start: T$03S$10 Sec Count: 48        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+POCKET->GEOW1.01
+Name: 'POCKET->GEOW1.01'   Type: 'PRG'     MD5: 37c5a4d6b733817a15041d2dc948fe40
+ Raw Type: $82          Start: T$0AS$0A Sec Count: 48        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PCLIP->GEOW 1.01
+Name: 'PCLIP->GEOW 1.01'   Type: 'PRG'     MD5: 19f0fc49d22940bd13bf6ec6774fbcf9
+ Raw Type: $82          Start: T$0DS$0F Sec Count: 48        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+WORDPR->GEOW1.01
+Name: 'WORDPR->GEOW1.01'   Type: 'PRG'     MD5: bc89b0b025656856817691738d006a14
+ Raw Type: $82          Start: T$0FS$13 Sec Count: 48        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+EASY LOAD
+Name: 'EASY LOAD'   Type: 'PRG'            MD5: 7bf03556c87c4593cb121534ae1b69b2
+ Raw Type: $82          Start: T$18S$00 Sec Count: 30        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAPHIC CONVERT
+Name: 'GRAPHIC CONVERT'   Type: 'PRG'      MD5: d3b6d6d9c9521e72d4d72aaf7b1acdfc
+ Raw Type: $82          Start: T$19S$00 Sec Count: 37        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BUILD SEQ
+Name: 'BUILD SEQ'   Type: 'PRG'            MD5: 7f897afadcb56349adc23548af822187
+ Raw Type: $82          Start: T$0AS$11 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+UNBUILD SEQ
+Name: 'UNBUILD SEQ'   Type: 'PRG'          MD5: d99d898c10ece3233d5a4e4ed309eb35
+ Raw Type: $82          Start: T$1BS$00 Sec Count: 27        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DDD
+Name: 'DDD'   Type: 'PRG'                  MD5: 6908632b260a9b96c632624aa438b815
+ Raw Type: $82          Start: T$07S$00 Sec Count: 52        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DIRECTORY
+Name: 'DIRECTORY'   Type: 'PRG'            MD5: 4e40ad39474ebdbe68b6bb151612d776
+ Raw Type: $82          Start: T$1ES$00 Sec Count: 20        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CREDITS
+Name: 'CREDITS'   Type: 'SEQ'              MD5: 11d3a7eae46876f6d527f1c49c9ca892
+ Raw Type: $81          Start: T$08S$00 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+READ ME
+Name: 'READ ME'   Type: 'SEQ'              MD5: 1b7864ea28702be4d782406eb85c1d16
+ Raw Type: $81          Start: T$08S$03 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+READ SEQUENTIAL
+Name: 'READ SEQUENTIAL'   Type: 'PRG'      MD5: 6b61a88e05b869971e307a49b17fe18a
+ Raw Type: $82          Start: T$08S$05 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+credits.geoW
+Name: 'credits.geoW'   Type: 'USR'         MD5: 699652c6223b45983269682a8e732021
+ Raw Type: $83          Start: T$08S$14 Sec Count: 10        Rel Size: 1        
+
+--------------------------------------------------------------------------------
+
+read me.geoW
+Name: 'read me.geoW'   Type: 'USR'         MD5: 91594e9001f474806a0b5486ca4acd60
+ Raw Type: $83          Start: T$1DS$05 Sec Count: 8         Rel Size: 1        
+
+--------------------------------------------------------------------------------
+
+JO.TERM
+Name: 'JO.TERM'   Type: 'PRG'              MD5: 058678c927d269a2d80b81aaf03108a4
+ Raw Type: $82          Start: T$05S$02 Sec Count: 18        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+C1.ML.1.5
+Name: 'C1.ML.1.5'   Type: 'PRG'            MD5: 13780e279deae7a787bd5a6616a6d0d5
+ Raw Type: $82          Start: T$1FS$01 Sec Count: 13        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

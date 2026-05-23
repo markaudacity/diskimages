@@ -1,0 +1,50 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 22, 2026 at 19:01
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+4 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "DISK CHECK      " 01 2A
+2    "DRIVE CLEAN"      PRG
+2    "HEAD ALIGNMENT"   PRG
+4    "DISK TIMER"       PRG
+4    "DISK TIMER.Z"     PRG
+651 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+DRIVE CLEAN
+Name: 'DRIVE CLEAN'   Type: 'PRG'          MD5: 70fa3908faa62b2f4bf264fb3c61e1d3
+ Raw Type: $82          Start: T$11S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HEAD ALIGNMENT
+Name: 'HEAD ALIGNMENT'   Type: 'PRG'       MD5: 48419ad4bf39ab82dd476f1c391d9097
+ Raw Type: $82          Start: T$11S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK TIMER
+Name: 'DISK TIMER'   Type: 'PRG'           MD5: fb2a70f0162ce316324c6b3dd559e530
+ Raw Type: $82          Start: T$11S$02 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK TIMER.Z
+Name: 'DISK TIMER.Z'   Type: 'PRG'         MD5: 7fdae1be864139b16706ffe8e7605244
+ Raw Type: $82          Start: T$11S$04 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

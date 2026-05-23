@@ -1,0 +1,78 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 22, 2026 at 18:40
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+8 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "MODEM MASTER    " MM 2A
+2    "MODEM MASTER"     PRG<
+1    "PRESETS"          SEQ
+6    "PHONEBOOK"        SEQ
+81   "PGM"              PRG<
+1    "----------------" PRG<
+23   "MASTERMODEM DEMO" PRG
+10   "LANGUAGE"         SEQ
+20   "OTHER"            SEQ
+518 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+MODEM MASTER
+Name: 'MODEM MASTER'   Type: 'PRG'         MD5: e4f43f1f5cbfdeb8ac3e777d9e59cc77
+ Raw Type: $C2          Start: T$11S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PRESETS
+Name: 'PRESETS'   Type: 'SEQ'              MD5: fad376ce45cce06a426d4e031121f9a0
+ Raw Type: $81          Start: T$11S$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PHONEBOOK
+Name: 'PHONEBOOK'   Type: 'SEQ'            MD5: a10927e339277bed6df02fdfa2567dfa
+ Raw Type: $81          Start: T$11S$02 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PGM
+Name: 'PGM'   Type: 'PRG'                  MD5: fbb036fe5593163d2c793ddd983f4e67
+ Raw Type: $C2          Start: T$11S$05 Sec Count: 81        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'PRG'     MD5: 7bcc514b432d397ef4965655e5e7f3ee
+ Raw Type: $C2          Start: T$13S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MASTERMODEM DEMO
+Name: 'MASTERMODEM DEMO'   Type: 'PRG'     MD5: c146380ed57746bad7d6ad6b7222f45e
+ Raw Type: $82          Start: T$13S$01 Sec Count: 23        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LANGUAGE
+Name: 'LANGUAGE'   Type: 'SEQ'             MD5: b8a30b1433fe9fc896aa685638faa320
+ Raw Type: $81          Start: T$14S$03 Sec Count: 10        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+OTHER
+Name: 'OTHER'   Type: 'SEQ'                MD5: 345b76c5537c871bac4b270bb6e79c9a
+ Raw Type: $81          Start: T$14S$08 Sec Count: 20        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

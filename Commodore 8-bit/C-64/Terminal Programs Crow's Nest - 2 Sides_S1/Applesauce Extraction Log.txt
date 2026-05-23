@@ -1,0 +1,204 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 22, 2026 at 18:44
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+26 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "COMM TERM III   " T1 2A
+77   "COMM TERM III"    PRG<
+19   "VER3.ML"          PRG<
+3    "PROT"             SEQ<
+0    "@@@@@@@@@@@@@@@@" USR
+35   "CT3.DOC"          SEQ<
+0    "@@@@@@@@@@@@@@@@" USR
+0    "LOAD'*',8  (RUN)" USR
+0    "@@@@@@@@@@@@@@@@" USR
+0    "CURSOR DOWN TO  " USR
+0    "BUFFER UTILITIES" USR
+0    "    (RETURN)"     USR
+0    "CURSOR DOWN TO  " USR
+0    "LOAD BUFFER     " USR
+0    "    (RETURN)    " USR
+0    "TYPE  'CT3.DOC' " USR
+0    "    (RETURN)    " USR
+0    "THEN PRINT OUT  " USR
+0    "TO LEARN ALL THE" USR
+0    "FEATURES OF THIS" USR
+0    "FINE ASCII TERM " USR
+0    "PROGRAM.        " USR
+0    "@@@@@@@@@@@@@@@@" USR
+0    "  SUPPORT THE   " USR
+0    "  FREEWARE  "     USR
+0    "  CONCEPT! "      USR
+0    "@@@@@@@@@@@@@@@@" USR
+530 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+COMM TERM III
+Name: 'COMM TERM III'   Type: 'PRG'        MD5: ee8c814d04e4137eefb5c0db7ddacfdc
+ Raw Type: $C2          Start: T$11S$00 Sec Count: 77        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+VER3.ML
+Name: 'VER3.ML'   Type: 'PRG'              MD5: 18c3d026ea5fcb53ee4b8a778409690a
+ Raw Type: $C2          Start: T$13S$00 Sec Count: 19        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PROT
+Name: 'PROT'   Type: 'SEQ'                 MD5: bbfc39aaaf582de59be086eed0611d68
+ Raw Type: $C1          Start: T$14S$00 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+@@@@@@@@@@@@@@@@
+Name: '@@@@@@@@@@@@@@@@'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CT3.DOC
+Name: 'CT3.DOC'   Type: 'SEQ'              MD5: 832756ebc4df8a5b35d3da06d56787c7
+ Raw Type: $C1          Start: T$14S$02 Sec Count: 35        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+@@@@@@@@@@@@@@@@
+Name: '@@@@@@@@@@@@@@@@'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LOAD'*',8  (RUN)
+Name: 'LOAD'*',8  (RUN)'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+@@@@@@@@@@@@@@@@
+Name: '@@@@@@@@@@@@@@@@'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CURSOR DOWN TO  
+Name: 'CURSOR DOWN TO  '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BUFFER UTILITIES
+Name: 'BUFFER UTILITIES'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+    (RETURN)
+Name: '    (RETURN)'   Type: 'USR'                                         MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CURSOR DOWN TO  
+Name: 'CURSOR DOWN TO  '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LOAD BUFFER     
+Name: 'LOAD BUFFER     '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+    (RETURN)    
+Name: '    (RETURN)    '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TYPE  'CT3.DOC' 
+Name: 'TYPE  'CT3.DOC' '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+    (RETURN)    
+Name: '    (RETURN)    '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+THEN PRINT OUT  
+Name: 'THEN PRINT OUT  '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TO LEARN ALL THE
+Name: 'TO LEARN ALL THE'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FEATURES OF THIS
+Name: 'FEATURES OF THIS'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FINE ASCII TERM 
+Name: 'FINE ASCII TERM '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PROGRAM.        
+Name: 'PROGRAM.        '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+@@@@@@@@@@@@@@@@
+Name: '@@@@@@@@@@@@@@@@'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+  SUPPORT THE   
+Name: '  SUPPORT THE   '   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+  FREEWARE  
+Name: '  FREEWARE  '   Type: 'USR'                                         MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+  CONCEPT! 
+Name: '  CONCEPT! '   Type: 'USR'                                          MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+@@@@@@@@@@@@@@@@
+Name: '@@@@@@@@@@@@@@@@'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

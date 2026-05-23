@@ -1,0 +1,120 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 22, 2026 at 18:24
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+14 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "SMART 64 TERM +3" 64 2A
+2    "BOOT"             PRG
+4    "LOGO"             PRG
+4    "COLR"             PRG
+6    "PHTM"             PRG
+1    "SPRITES"          PRG
+2    "RTB"              PRG
+1    "LD2"              PRG
+1    "LD3"              PRG
+4    "LOG2"             PRG
+4    "CLR2"             PRG
+77   "S64T"             PRG
+68   "S64F"             PRG
+17   "SMART64.BUILD"    PRG
+14   "SMART64.CHANGE"   PRG
+459 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+BOOT
+Name: 'BOOT'   Type: 'PRG'                 MD5: 6286fb7503c49223b005ebac83abfb8c
+ Raw Type: $82          Start: T$11S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LOGO
+Name: 'LOGO'   Type: 'PRG'                 MD5: 6e44a9e11f095224b45f1e80f4f009cf
+ Raw Type: $82          Start: T$11S$01 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COLR
+Name: 'COLR'   Type: 'PRG'                 MD5: aaaeb8495cf05e96010d419e333eada0
+ Raw Type: $82          Start: T$11S$03 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PHTM
+Name: 'PHTM'   Type: 'PRG'                 MD5: 84251a18fa441050f7e667434878495d
+ Raw Type: $82          Start: T$11S$05 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPRITES
+Name: 'SPRITES'   Type: 'PRG'              MD5: 36a201a775be99314160893b763e02a9
+ Raw Type: $82          Start: T$11S$08 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+RTB
+Name: 'RTB'   Type: 'PRG'                  MD5: 706d1c912278b5d6b7f10b825b633971
+ Raw Type: $82          Start: T$11S$09 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LD2
+Name: 'LD2'   Type: 'PRG'                  MD5: abbd74fdc525d1abae50afc30195a464
+ Raw Type: $82          Start: T$11S$12 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LD3
+Name: 'LD3'   Type: 'PRG'                  MD5: 1ec5cfbf2a837ed0f6fbe549bef49198
+ Raw Type: $82          Start: T$11S$14 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LOG2
+Name: 'LOG2'   Type: 'PRG'                 MD5: 5a6b55532e8ff48b8aea15f82720bfd1
+ Raw Type: $82          Start: T$13S$00 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CLR2
+Name: 'CLR2'   Type: 'PRG'                 MD5: 7bd156b915474a6205ffe2f8c2277dd1
+ Raw Type: $82          Start: T$13S$02 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+S64T
+Name: 'S64T'   Type: 'PRG'                 MD5: 95b1d4645f0102a884faeb0f1202a30a
+ Raw Type: $82          Start: T$13S$04 Sec Count: 77        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+S64F
+Name: 'S64F'   Type: 'PRG'                 MD5: d84af118ec64bc6db509cd91361cf51f
+ Raw Type: $82          Start: T$10S$00 Sec Count: 68        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SMART64.BUILD
+Name: 'SMART64.BUILD'   Type: 'PRG'        MD5: 35cb89070e58c4f22787c212fd09d4a5
+ Raw Type: $82          Start: T$0DS$00 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SMART64.CHANGE
+Name: 'SMART64.CHANGE'   Type: 'PRG'       MD5: cf94fe40a0dbd64651eddeae40f69917
+ Raw Type: $82          Start: T$17S$05 Sec Count: 14        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

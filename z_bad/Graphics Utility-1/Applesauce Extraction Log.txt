@@ -1,0 +1,319 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 22, 2026 at 17:51
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+32 files were detected on the disk.
+The following errors were encountered:
+
+BOOT has 1 bad sector(s).
+BOOT1 has 1 bad sector(s).
+C64 SCREEN DUMP has 1 bad sector(s).
+VIC SCREEN DUMP has 1 bad sector(s).
+UTIL.C.CC00 has 1 bad sector(s).
+UTIL.C.7C00 has 1 bad sector(s).
+UTIL.C.C000 has 1 bad sector(s).
+UTIL.C.9C00 has 1 bad sector(s).
+UTIL.V.3D00 has 1 bad sector(s).
+TIL.V.7D00 has 1 bad sector(s).
+UTIL.V.5D00 has 1 bad sector(s).
+JO	/64 has 1 bad sector(s).
+JOY/20 has 1 bad sector(s).
+HI RES LOADER has 1 bad sector(s).
+SPIRAL.1 has 1 bad sector(s).
+DOLLAR has 1 bad sector(s).
+DIP has 1 bad sector(s).
+MUSIC has 1 bad sector(s).
+SINCOS1 has 1 bad sector(s).
+WATCH has 1 bad sector(s).
+NUDE has 1 bad sector(s).
+I/64 has 1 bad sector(s).
+I/20 has 1 bad sector(s).
+INST/TEXT has 1 bad sector(s).
+
+== CATALOG =====================================================================
+
+0 "PRINT UTIL      " SM 2A
+2    "BOOT"             PRG
+2    "BOOT1"            PRG
+7    "C64 SCREEN DUMP"  PRG
+8    "VIC SCREEN DUMP"  PRG
+3    "UTIL.C.CC00"      PRG
+3    "UTIL.C.C800"      PRG
+3    "UTIL.C.7C00"      PRG
+3    "UTIL.C.C000"      PRG
+3    "UTIL.C.9C00"      PRG
+3    "UTIL.V.0E00"      PRG
+3    "UTIL.V.1B00"      PRG
+3    "UTIL.V.3D00"      PRG
+3    "TIL.V.7D00"      PRG
+3    "UTIL.V.5D00"      PRG
+9    "JO	/64"           PRG
+5    "JOY/20"           PRG
+8    "HI RES LOADER"    PRG
+1    "SCREEN"           PRG
+32   "SPIRAL.1"         PRG
+32   "DOLLAR"           PRG
+32   "DIP"              PRG
+32   "MUSIC"            PRG
+32   "MAP"              PRG
+32   "SINCOS1"          PRG
+32   "WATCH"            PRG
+32   "WINSTON"          PRG
+32   "NUDE"             PRG
+3    "UTIL.V.AC00"      PRG
+1    "I"                PRG
+35   "I/64"             PRG
+4    "I/20"             PRG
+76   "INST/TEXT"        PRG
+185 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+BOOT
+Name: 'BOOT'   Type: 'PRG'                 MD5: 1fe58eab96ebb6f1cb0ffa0db0b3eb09
+ Raw Type: $82          Start: T$11S$0A Sec Count: 2         Rel Size: 0        
+
+Bytes 254-507 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+BOOT1
+Name: 'BOOT1'   Type: 'PRG'                MD5: 1fe58eab96ebb6f1cb0ffa0db0b3eb09
+ Raw Type: $82          Start: T$11S$0B Sec Count: 2         Rel Size: 0        
+
+Bytes 254-507 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+C64 SCREEN DUMP
+Name: 'C64 SCREEN DUMP'   Type: 'PRG'      MD5: 46243e31a71e745d7bd5752d2f5ae4aa
+ Raw Type: $82          Start: T$11S$01 Sec Count: 7         Rel Size: 0        
+
+Bytes 254-1777 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+VIC SCREEN DUMP
+Name: 'VIC SCREEN DUMP'   Type: 'PRG'      MD5: 922d7ca7aeff21d02c14bf6d9a5ffc45
+ Raw Type: $82          Start: T$11S$04 Sec Count: 8         Rel Size: 0        
+
+Bytes 508-2031 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+UTIL.C.CC00
+Name: 'UTIL.C.CC00'   Type: 'PRG'          MD5: 4f0188b41b938965335f7b1d5bc1f194
+ Raw Type: $82          Start: T$11S$08 Sec Count: 3         Rel Size: 0        
+
+Bytes 254-761 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+UTIL.C.C800
+Name: 'UTIL.C.C800'   Type: 'PRG'          MD5: 0ead6cb4192ebf8955d9314ef140c32d
+ Raw Type: $82          Start: T$13S$0A Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+UTIL.C.7C00
+Name: 'UTIL.C.7C00'   Type: 'PRG'          MD5: 9f21e314b5e04691da7c909b23bed111
+ Raw Type: $82          Start: T$13S$0C Sec Count: 3         Rel Size: 0        
+
+Bytes 762-761 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+UTIL.C.C000
+Name: 'UTIL.C.C000'   Type: 'PRG'          MD5: 4f0188b41b938965335f7b1d5bc1f194
+ Raw Type: $82          Start: T$13S$0E Sec Count: 3         Rel Size: 0        
+
+Bytes 254-761 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+UTIL.C.9C00
+Name: 'UTIL.C.9C00'   Type: 'PRG'          MD5: 4e0746c8beb6e5e5b7237aadd0676802
+ Raw Type: $82          Start: T$13S$10 Sec Count: 3         Rel Size: 0        
+
+Bytes 762-761 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+UTIL.V.0E00
+Name: 'UTIL.V.0E00'   Type: 'PRG'          MD5: fe78c259c769eac53bd6cbccaa9f5248
+ Raw Type: $82          Start: T$13S$12 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+UTIL.V.1B00
+Name: 'UTIL.V.1B00'   Type: 'PRG'          MD5: 27968f64d39dd45b260a7a008ea0a66a
+ Raw Type: $82          Start: T$13S$03 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+UTIL.V.3D00
+Name: 'UTIL.V.3D00'   Type: 'PRG'          MD5: 22e935e1f50e0fe796388753f94f85f9
+ Raw Type: $82          Start: T$13S$09 Sec Count: 3         Rel Size: 0        
+
+Bytes 508-761 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+TIL.V.7D00
+Name: 'TIL.V.7D00'   Type: 'PRG'          MD5: 4f0188b41b938965335f7b1d5bc1f194
+ Raw Type: $82          Start: T$10S$0A Sec Count: 3         Rel Size: 0        
+
+Bytes 254-761 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+UTIL.V.5D00
+Name: 'UTIL.V.5D00'   Type: 'PRG'          MD5: 4f0188b41b938965335f7b1d5bc1f194
+ Raw Type: $82          Start: T$10S$0B Sec Count: 3         Rel Size: 0        
+
+Bytes 254-761 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+JO	/64
+Name: 'JO	/64'   Type: 'PRG'               MD5: 4d4d41cec6ceb2db3b487d5e6cedf513
+ Raw Type: $82          Start: T$10S$0D Sec Count: 9         Rel Size: 0        
+
+Bytes 254-2285 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+JOY/20
+Name: 'JOY/20'   Type: 'PRG'               MD5: b91392a20a93b5a34596c5456a068e89
+ Raw Type: $82          Start: T$10S$12 Sec Count: 5         Rel Size: 0        
+
+Bytes 254-1269 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+HI RES LOADER
+Name: 'HI RES LOADER'   Type: 'PRG'        MD5: 928244c3f65f9af84c37211eef229e38
+ Raw Type: $82          Start: T$14S$0B Sec Count: 8         Rel Size: 0        
+
+Bytes 762-2031 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+SCREEN
+Name: 'SCREEN'   Type: 'PRG'               MD5: 134c04a10be1a4a78b0f1fa5c89848d4
+ Raw Type: $82          Start: T$14S$0F Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPIRAL.1
+Name: 'SPIRAL.1'   Type: 'PRG'             MD5: ce66f40090d1f0cf8259e2119868b1b1
+ Raw Type: $82          Start: T$14S$10 Sec Count: 32        Rel Size: 0        
+
+Bytes 2286-8127 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+DOLLAR
+Name: 'DOLLAR'   Type: 'PRG'               MD5: 5e8e0b58bd7ccb257bbcfb325109d9b0
+ Raw Type: $82          Start: T$0FS$0A Sec Count: 32        Rel Size: 0        
+
+Bytes 254-8127 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+DIP
+Name: 'DIP'   Type: 'PRG'                  MD5: 5e8e0b58bd7ccb257bbcfb325109d9b0
+ Raw Type: $82          Start: T$0ES$0C Sec Count: 32        Rel Size: 0        
+
+Bytes 254-8127 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+MUSIC
+Name: 'MUSIC'   Type: 'PRG'                MD5: 84953e04ddc19b67462b2b27a3d2d93d
+ Raw Type: $82          Start: T$16S$0C Sec Count: 32        Rel Size: 0        
+
+Bytes 6096-8127 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+MAP
+Name: 'MAP'   Type: 'PRG'                  MD5: 3a2ddeadcc3ea4e5ee5d914da22d7114
+ Raw Type: $82          Start: T$17S$09 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SINCOS1
+Name: 'SINCOS1'   Type: 'PRG'              MD5: 0020b51279b5e65242f95536231bc75f
+ Raw Type: $82          Start: T$0CS$0A Sec Count: 32        Rel Size: 0        
+
+Bytes 1524-8127 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+WATCH
+Name: 'WATCH'   Type: 'PRG'                MD5: 84b73b6c69c1fb7695fb8c36bce8af79
+ Raw Type: $82          Start: T$0BS$0C Sec Count: 32        Rel Size: 0        
+
+Bytes 2540-8127 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+WINSTON
+Name: 'WINSTON'   Type: 'PRG'              MD5: 8bbd57ec4d3096504b73a8ecf18edb6b
+ Raw Type: $82          Start: T$19S$10 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+NUDE
+Name: 'NUDE'   Type: 'PRG'                 MD5: 094f38182071dfb09223913ef3713d3d
+ Raw Type: $82          Start: T$09S$0A Sec Count: 32        Rel Size: 0        
+
+Bytes 2286-8127 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+UTIL.V.AC00
+Name: 'UTIL.V.AC00'   Type: 'PRG'          MD5: 48c94cf05d26ad6340a1952e91f1468d
+ Raw Type: $82          Start: T$1BS$0E Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+I
+Name: 'I'   Type: 'PRG'                    MD5: 0403ad070c3f6b7314487de23add8e85
+ Raw Type: $82          Start: T$08S$06 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+I/64
+Name: 'I/64'   Type: 'PRG'                 MD5: b01e577bc1d3d574025ca95c7610758e
+ Raw Type: $82          Start: T$1BS$06 Sec Count: 35        Rel Size: 0        
+
+Bytes 8890-8889 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+I/20
+Name: 'I/20'   Type: 'PRG'                 MD5: 14403684f2922521215f3eecb17f6a9c
+ Raw Type: $82          Start: T$08S$02 Sec Count: 4         Rel Size: 0        
+
+Bytes 1016-1015 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+INST/TEXT
+Name: 'INST/TEXT'   Type: 'PRG'            MD5: 7b2953f8d3f6612dcba9bedbf0e868d1
+ Raw Type: $82          Start: T$1BS$04 Sec Count: 76        Rel Size: 0        
+
+Bytes 19304-19303 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+

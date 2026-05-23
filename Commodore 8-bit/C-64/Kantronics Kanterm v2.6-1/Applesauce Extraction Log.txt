@@ -1,0 +1,54 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 22, 2026 at 17:40
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+4 files were detected on the disk.
+The following errors were encountered:
+
+KANTERM-64 has 1 bad sector(s).
+
+== CATALOG =====================================================================
+
+0 "KANTERM MASTER  " NC 2A
+183  "KANTERM-128"      PRG
+115  "KANTERM-64"       PRG
+1    "UR-CALL"          SEQ
+1    "BUFFERS"          SEQ
+324 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+KANTERM-128
+Name: 'KANTERM-128'   Type: 'PRG'          MD5: 8705fc2f36ae16c0b387593f67e5f4a4
+ Raw Type: $82          Start: T$0ES$00 Sec Count: 183       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+KANTERM-64
+Name: 'KANTERM-64'   Type: 'PRG'           MD5: a9410181f7b88af852e7c24e0b5c31ee
+ Raw Type: $82          Start: T$06S$05 Sec Count: 115       Rel Size: 0        
+
+Bytes 29210-29209 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+UR-CALL
+Name: 'UR-CALL'   Type: 'SEQ'              MD5: 7d76a3da3bf38943d50be2374570f7cd
+ Raw Type: $81          Start: T$10S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BUFFERS
+Name: 'BUFFERS'   Type: 'SEQ'              MD5: b6c31a4f0752227d500971796111e1d4
+ Raw Type: $81          Start: T$10S$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
