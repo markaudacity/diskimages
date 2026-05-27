@@ -1,0 +1,64 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 27, 2026 at 00:46
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+6 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "PUBLIC DOMAIN   " 01 2A
+29   "COMPACT.C64"      PRG
+31   "COMPARE.64"       PRG
+28   "DCOMPACT.C64"     PRG
+7    "DISKCERT.C64"     PRG
+55   "LIBRARY7.C64"     PRG
+96   "LYNX.C64"         PRG
+418 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+COMPACT.C64
+Name: 'COMPACT.C64'   Type: 'PRG'          MD5: 9c5c7ff66d8e387b6f609c396f719ce6
+ Raw Type: $82          Start: T$11S$00 Sec Count: 29        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COMPARE.64
+Name: 'COMPARE.64'   Type: 'PRG'           MD5: 93c740c0b07857fc076537fc4e6445fd
+ Raw Type: $82          Start: T$13S$00 Sec Count: 31        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DCOMPACT.C64
+Name: 'DCOMPACT.C64'   Type: 'PRG'         MD5: 5bbc53dfa1e39b75478d04553d9add3e
+ Raw Type: $82          Start: T$10S$02 Sec Count: 28        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISKCERT.C64
+Name: 'DISKCERT.C64'   Type: 'PRG'         MD5: 034a3353d5aa4a72772ab4190763e26f
+ Raw Type: $82          Start: T$14S$02 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LIBRARY7.C64
+Name: 'LIBRARY7.C64'   Type: 'PRG'         MD5: b24b9092f31820590b37a8ac32ac8761
+ Raw Type: $82          Start: T$0FS$05 Sec Count: 55        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LYNX.C64
+Name: 'LYNX.C64'   Type: 'PRG'             MD5: 93b1b15228df36097157485b07baa253
+ Raw Type: $82          Start: T$15S$00 Sec Count: 96        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

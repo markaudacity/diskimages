@@ -1,0 +1,2775 @@
+
+
+
+                              Introduction to Programming 1
+          
+          
+                               BEGINNING DATA BASE DESIGN 
+          
+                               Loading time:  1-2 minutes
+           
+          
+          
+                                 INTRODUCTION & HOOKUP
+          
+          Now that you have your Personal Computer and know basically
+          how to operate it, the next step is learning how to put its
+          power to work for you.  This Programming Kit opens the world
+          of programming to you and introduces you to the concepts of
+          DATA BASE DESIGN.
+          
+          By DATA BASE DESIGN, we mean putting together information in
+          a way that you can use later.  This program takes you
+          through the actual design of a data base system for your
+          Commodore 64. The program can store, retrieve and print out
+          anything from mailing lists to a date reminder.
+          
+          There are two versions of DATA BASE DESIGN included as part
+          of this program package:
+          
+                  Version 1 - Basic Program             "D/B1"
+          
+                  Version 2 - Enhanced Program          "D/B2"
+          
+          
+          We will cover multi-dimension string arrays, FOR/NEXT loops,
+          subroutines, menus, special input routines, disk storage,
+          sorting techniques, and more. We will also cover our 8-step
+          approach to program design and how to apply these steps to
+          future program designs.
+          
+          
+          Before you begin, you may want to go through your Commodore
+          64 User Guide just for review. When you're ready to start,
+          hook up your computer, including your disk drive and
+          printer.
+          
+          
+          HOW TO USE THE DATA BASE SYSTEM
+          
+          Initializing your data disk
+          
+          Before a menu appears on your screen, you will be asked "Do
+          You Want To Initialize The System? (Y/N)". Because you are
+          starting with no data stored on a blank disk, you must type
+          "Y."  Later, when you have data stored on the disk, type "N."
+          
+          If you typed "Y", the computer will ask if you are sure this
+          is what you want. Type "Y", if you're sure, "N" if you're
+          not.
+          
+          
+
+
+                                       1
+
+
+
+
+
+          Later, when you type "N", you will be instructed to insert
+          the disk which holds your own data.  When you type -C-, the
+          computer will start reading your data from the disk.
+          
+          Now it starts to get exciting--here comes our menu!
+ 
+         
+           VIEW/MODIFY INFORMATION
+    
+          Press l, VIEW/MODIFY INFORMATION.  Then press the RETURN
+          key.
+          
+          You will view a list of general information.
+          
+          1.  To fill in the blanks, Press -Y- in response to
+          CHANGES?(Y/N).  Enter l in response to WHICH ITEM? Now,
+          enter the type of data you will be storing, such as
+          addresses, recipes, and so on (30 characters maximum). Then
+          press RETURN.
+          
+          2.  Press -Y- again, then enter 2 in response to WHICH ITEM?
+          Enter any comments you wish.  Then press RETURN.
+          
+          3.  Press -Y- then enter 3 in response to WHICH ITEM?  The
+          last date you used this system should be entered--for
+          example, today's date.  Enter today's date, then press
+          RETURN. Now press -N- in response to CHANGES? (Y/N); then,
+          press -M- to return to the menu.
+          
+          
+          ENTERING ITEMS
+          
+          When the menu is displayed on the screen, press 2 to ENTER
+          NEW ITEMS.  You will see the item number and line number.
+          The system automatically starts this section with the next
+          ITEM to be filled in with data.  Example:  if you previously
+          entered 20 ITEMS, ITEM 21 will be first when entering this
+          section. If you make any errors, don't worry. You can easily
+          correct them later.
+          
+          1.  At the bottom you will see INPUT LINE 1?  Type line 1 of
+          your item, then press RETURN.
+          
+          
+          2.  Next, at the bottom, you will see INPUT LINE 2? Enter
+          line 2, then press RETURN.
+          
+          3.  Continue entering lines as requested by the system.
+          
+          NOTE: Be sure to answer every question in the general
+          information display. Additionally, as you enter your data,
+          each line of each record must have at least one character on
+          it. If you have no information to enter on a line, type an N
+          (for none) on that line. A STRING TOO LONG situation may
+          result if you do not fill in all blank lines.
+          
+          
+          
+          
+
+                                       2
+
+
+
+
+
+              EXAMPLE: CORRECT               INCORRECT
+          
+            123) l John Doe             123) l John Doe
+                 2 l00 Main St.              2 l00 Main St.
+                 3 N                         3
+          
+          When you see CHANGES?(Y/N) at the bottom, you have entered a
+          complete record. Look it over.  If there are any errors,
+          press -Y- in response to CHANGES?(Y/N). Enter the line
+          number to be changed, then enter the correction.  Press
+          RETURN.
+          
+          If everything is correct, press -N- in response to
+          CHANGES?(Y/N).  The next item number will appear.
+          When you want to return to the Menu, press RETURN without
+          entering any data in response to LINE 1?
+    
+          
+          VIEW/MODIFY BY ITEM NUMBER
+          
+          When the menu is displayed on the screen, press menu item 3
+          to VIEW/MODIFY BY ITEM NUMBER.  Input the item number you
+          would like to view/modify.  It will be listed, followed by a
+          number of subsequent items.
+          
+          To make changes, press -Y- in response to CHANGES(Y/N).
+          Enter the record number, then the line number. Then, enter
+          the replacement line.  Press RETURN.
+          
+          Next, you will see Next Page or Menu?  Press -P- to view the
+          next page of items or-M- to return to the Menu.
+          
+          
+          VIEW/MODIFY BY ITEM ELEMENT (ENHANCED VERSION)
+          
+          When the menu is displayed on the screen, press 4 to
+          VIEW/MODIFY BY ITEM ELEMENT.  When the computer asks you to
+          input an item or name, you can enter up to 30 characters.
+          When requested, input the line you want the computer to
+          search.  This option can be used to search by full words or
+          word fragments (numbers too).  Say you would like to
+          retrieve all of your addresses in Chicago.  Enter CHICAGO or
+          any word fragment such as CHI. (Longer search words result
+          in faster searches.)
+          
+          
+          NOTE: As the computer searches through records, the number
+          of the record currently being searched is displayed at the
+          bottom of your screen.
+          
+          After the computer ends the search, you will see LIST?(Y/N).
+          Press -Y- to see a list, or -N- if you don't.
+          
+          After the listing of each group of items, you will see
+          CHANGES? (Y/N).  Press -Y- to make changes to a record or
+          -N- for no changes.  If you press -Y- the computer will ask
+          you to enter the record number, then the line number.  Next,
+          enter the new line the way you want it to appear.  Press RETURN.
+          
+
+                                       3
+
+
+
+
+
+          After pressing -N- for CHANGES? (Y/N), you will see either
+          PRESS-M-FOR MENU or PRESS -C- TO CONTINUE.  Pressing -M-
+          will return you to the Menu.  If the PRESS -C- instruction
+          appears, this means the computer has retrieved more records
+          that it can display on a single screen. Pressing -C- will
+          list the next page of records.
+          
+          X-SEARCH OR "CROSS SEARCH" (ENHANCED VERSION)
+          
+          When you return to the Menu after doing a search by ITEM
+          ELEMENT, you will see X-SEARCH? (Y/N).  Press -Y- to do a
+          cross search, or -N- if you don't want to cross search.
+          
+          What does X-SEARCH do?  X-SEARCH, also called CROSS SEARCH,
+          is a tool for narrowing down your search for records.  It
+          allows you to repeat a search through records you have just
+          retrieved from your entire list.
+          
+          EXAMPLE: Let's say you have 80 addresses in the system.  To
+          pick out all the people you know in Chicago, use Menu Item
+          4, VIEW/MODIFY BY ITEM ELEMENT. Enter CHICAGO for ITEM NAME,
+          then enter the line the city should be in (usually line 3).
+    
+          You will see the number of matches the computer has found
+          listed at the bottom (say 30).  Now to search this list of
+          30 addresses further, press -N- in response to LIST?(Y/N).
+          
+          NOTE: Press -Y- if you would like to view the list.
+          
+          Press -Y- again in response to X-SEARCH?(Y/N).
+          
+          Now, suppose you would like to view only your Chicago
+          friends who live on Western Avenue use Menu Item 4 again,
+          type in "Western"; then, press RETURN. When the computer
+          asks, enter the line number your street name is in.  Now,
+          the computer will search your list of Chicago addresses for
+          your Chicago friends living on Western Avenue.  After the
+          search is over, LIST?Y/N) will appear.  Press -Y- if you
+          want the list and -N- if you don't.
+          
+          You can X-SEARCH a list as many times as you want,
+          narrowing your list down to the specific records
+          you want to view.
+          
+          
+          PRINTING (ENHANCED VERSION)
+          
+          If you want a printed copy of your records, use Option 5 to
+          transfer or to "dump" your records to the printer.
+          
+          In response to the warning: "Is your printer connected?"
+          check your printer connection, press -Y- if it is connected
+          and -N- if it is not.
+          
+          Next, in response to ALL AMOUNTS OR LAST SORT?(A/L), select
+          which group of amounts you want to print;
+          
+                  All Amounts:  Print all the records in your Data
+                                Set.
+          
+                                       4
+
+  
+  
+
+
+                   Last Sort:  Print only the records found in the last
+                                search you made using Menu Item 4.
+          
+          If you want to stop in the middle of the print routine,
+          press the [F1] key. The printing stops after the computer
+          completes the record currently being printed.
+          
+          NOTE: Keep the [F1] key pressed until the printing stops.
+          
+          
+          STORING DATA
+          
+          When you are finished with your data base design and want to
+          save it to disk, press menu item 4 on the basic program or 6
+          on the enhanced program.
+          
+          The screen prompt reads "Do You Want To Save Your Data On
+          DISK?(Y/N)".  Type Y to save your data, and N if you don't.
+          If you type N, the program ends.
+          
+          The screen prompt reads "Insert Data Disk Into the Disk
+          Drive ...Then Press -C- To Continue."  Put your data disk
+          into the disk drive, close the protective gate; then press
+          C.
+          
+          The computer now starts writing your data onto your data
+          disk.  The menu item being saved is shown on the screen.
+          Make sure your disk has been formatted. Your disk drive
+          manual may refer to formatting as "newing a disk.|" 
+         
+          These terms are interchangable for the process of
+          setting up a blank disk for your use.
+          
+          After the computer stores your data, the program ends.
+          
+          NOTE: D/B1 and D/B2 can each contain 100 items with 8 lines
+          per item. Later, when you write the DATA BASE DESIGN for
+          yourself, you'll be able to pick the number of items and
+          lines per item.
+          
+          
+          BEFORE WE BEGIN PROGRAMMING. . .
+          
+          This Programmming Kit is made up of the following BASIC
+          commands and functions.
+          
+          
+                   ABS               IF                PRINT
+                   CHR$              INPUT             PRINT#
+                   CLR               INPUT #           REM
+                   CLOSE             LEN               SPC
+                   DIM               LEFT$             STR$
+                   FOR               NEXT              TAB
+                   GET               ON                TI
+                   GOSUB             OPEN              VAL
+                   GOTO              POKE
+          
+          Your most important resource while going through this manual
+          is your Commodore 64 or 128 Users Manual.
+
+                                       5
+
+
+
+
+
+          If you ever have a question on a "Basic" command,
+          check the index of your Users Manual.
+          
+          Your manual tells you what each basic command does and how
+          it executes it. This programming kit, on the other hand,
+          shows you how to put these commands together into a working
+          program.
+          
+          
+          NOTE: We suggest you purchase the "C-64 Programming
+          Reference Guide" published by SAMS at your local book
+          store.
+          
+          We will be using a "Top Down" design approach for our Data
+          Base Design program. By "Top Down" we mean we'll start with
+          the general ideas and objectives of our program and work
+          down to the specific basic commands to accomplish what we
+          want to do.  There are eight steps to our method of "Top
+          Down" program design:
+          
+                1.  General Concept
+                2.  Displays
+                3.  Flow Chart
+                4.  Algorithms
+                5.  Writing the Program
+                6.  Typing in the Program
+                7.  Debugging the Program
+                8.  Modifying the Program
+          
+          Each of these steps will be discussed in detail as we go
+          through DATA BASE DESIGN.
+          
+          
+          VERSION 1:  BASIC PROGRAM
+          
+          General Concept
+
+          A Program is the set of instructions that tells the computer
+          what to do. For this step, we write out on paper what we would
+          like our program to do (sometimes this covers many pages).
+          
+                  1.  We want to set up our own data base format.
+          
+                  2.  We want a menu-driven program.
+          
+                  3.  We want to enter our data into the system.
+          
+                  4.  We want to view and/or modify the stored data.
+          
+                  5.  We want to keep track of the last revision date
+                      and any general information.
+          
+                  6.  We want our Data Base Design to store data on
+                      disk or cassette (and retrieve it, too!)
+          
+          Displays
+          
+          At last!  Now it's time to design the displays for your Data
+          Base Design!  Draw a square on a piece of graph paper. Let's
+          go over some items we want to include:
+                                       6
+
+
+
+
+
+                  1.  Menu Display
+          
+                      a)  A title for the menu.
+          
+                      b)  Menu items properly spaced and easy to
+                          read.
+          
+                      c)  Directions or prompts in a common
+                          location.
+          
+                  2.  View Data Display
+          
+                      a)  Requested data in the upper 4/5ths of the
+                          display.
+          
+                      b)  Directions or prompts in a common location
+                          (the lower 1/5 of the display).
+          
+          Let's set up our displays with the approximate print
+          locations on our drawing. Don't be afraid to use your
+          eraser.  You want to produce a drawing that looks good and
+          works well.
+          
+                             [SEE FIGURES 1 & 2]
+          
+          You can draw the Data Storing/Retrieving display by copying
+          the display from the DATA BASE DESIGN programs we have
+          provided as a sample.
+          
+          
+          Flow Charts
+          
+          We must now decide on the general flow of our program...what
+          will happen and when.  A flow chart quickly and easily lets
+          you visualize program flow.  It is a map of the program you
+          are about to create.
+          
+          First, you need to plan what specific tasks our main program
+          must do to manipulate data.
+          
+                These tasks are:
+   
+                  1.  Initialize the screen.
+          
+                  2.  Define our variables.
+          
+                  3.  Define our data base parameters.
+          
+                  4.  Initialize the data base (if needed).
+          
+                  5.  Read in data base information from disk.
+          
+                  6.  Create and print a menu.
+          
+                  7.  Write the instructions that make the menu work.
+          
+                  8.  Enter new items.
+          
+                  9.  View/Modify by Item Number.
+          
+                                       7
+
+
+
+
+
+                 10.  View/Modify General Information.
+          
+                 11.  Store our data on disk.
+          
+                 12.  End the program.
+          
+          That's it for now.  Don't be worried about twelve tasks. When
+          we're finished, twelve tasks will be easy for you.
+          
+          Next, we must draw the flow chart. The Flow Chart
+          illustration is shown in Figure 3.
+          
+                                [SEE FIGURE 3]
+          
+          Algorithms
+          
+          What is an algorithm (pronounced Al-go-rhythm)?  It's a
+          sequence of mathematical or logical steps that calculate or
+          execute a given task.  We will use BASIC commands to make
+          our computer perform the tasks we have outlined in the
+          algorithm.
+          
+          You have already decided  our main algorithm by the flow
+          charts made in the previous section.  All we do now is break
+          each task in the main algorithm into a simple algorithm of
+          its own.
+          
+                   1.  Initializing the screen
+          
+                       a)  Clear the display.
+          
+                       b)  Change to the upper/lower case mode.
+          
+                       c)  Disable the SHIFT/COMMODORE KEY combination.
+          
+                       d)  Define display color and print colors.
+          
+                   2.  Defining the variables
+          
+                       a)  Define all the variables we will use for
+                           the cursor and general information.
+          
+                   3.  Defining data base parameters
+          
+                       a)  Define the size of the data array we need.
+          
+                       b)  Define the number of lines per item.
+
+                       c)  Define the maximum number of items.
+          
+                       d)  Define the maximum number of lines.
+          
+                       e)  Define the starting record number.
+          
+                       f)  Define the number of records displayed on
+                           the screen.
+          
+
+
+
+                                       8
+
+
+
+
+
+                   4.  Initializing the data base
+          
+                       a)  Set the current item to be read to be the
+                           first item.
+          
+                   5.  Reading the data base information
+          
+                       a)  Open your data file.
+          
+                       b)  Read in the current item to be read, lines
+                           per item, items per screen, maximum records
+                           that can be read and the general information.
+          
+                       c)  Read in the data base items and lines.
+          
+                       d)  Print the current record being read.
+          
+                       e)  Close the file.
+          
+                   6.  Printing our menu on the screen
+          
+                   7.  Menu Driver
+          
+                       a)  Receive the user's response.
+          
+                       b)  Use an ON command to take us to the menu
+                           item we want the computer to perform.
+          
+                   8.  Entering new items
+          
+                       a)  Determine the next item to be read.
+          
+                       b)  Receive input from the first line.
+          
+                       c)  Branch back to the menu if the input for
+                           line one is" "(Null, no input).
+          
+                       d)  Receive input for the remaining lines.
+          
+                       e)  Make changes if necessary.
+          
+                       f)  Branch back to 8a.
+          
+                   9.  View/Modify by item number
+          
+                       a)  Determine the beginning item number.
+          
+                       b)  Display a defined number of items on the
+                           screen (we decided on that number in
+                           algorithm 3).
+          
+                       c)  Make changes if necessary.
+          
+                       d)  Determine whether more items exist after
+                           those listed on the display.  If more items
+                           exist, branch to algorithm 6.
+ 
+ 
+
+
+                                       9
+
+
+ 
+
+
+                       e)  Determine whether the user wishes to view
+                           more items (branch back to 9b) or view the
+                           menu (branch to algorithm 6).
+          
+                 10.   View/modify general information
+          
+                       a)  Print out the general information.
+          
+                       b)  Determine whether changes need to be made.
+          
+                       c)  If no changes are needed, branch to the
+                           menu (algorithm 6).
+          
+                       d)  Make the changes and branch back to 10a.)
+          
+                 11.   Storing data
+          
+                       a)  Determine if data is to be stored.
+          
+                       b)  If data is not to be stored, branch to
+                           algorithm 12.
+          
+                       c)  Open your data file.
+          
+                       d)  Store the next item to be read, lines per
+                           item, items per screen and the general
+                           information.
+          
+                       e)  Write the data base items and lines into
+                           our data file.
+          
+                       f)  Print the current record being stored.
+          
+                       g)  Close the file.
+          
+                       h)  Branch to algorithm 12.
+          
+                 12.   Ending the run
+          
+                       a)  Print an END RUN  statement.
+          
+                       b)  Branch into an infinite loop.
+          
+          Writing the Program
+          
+          Now we're ready to write out our program on paper. First, we
+          must decide on the variables you will need.  Let's look
+          through our algorithms, choose some variables and compare
+          them with those that follow below:
+          
+              ap       -numerical value of menu choice
+          
+              c$       -GET command input string
+          
+              d        -input number variable
+          
+              dd       -input number variable
+          
+
+
+                                       10
+
+
+
+
+
+              dd$ (100,8)  -data storage array
+          
+              e$       -erasing character string
+          
+              f        -current item to be listed
+          
+              g        -for next loop counter
+
+              i        -for next loop counter
+          
+              j        -for next loop counter
+          
+              k        -current item being viewed
+          
+              l        -number of lines per item
+          
+              lr       -largest numbers of items
+          
+              m        -number of items on the screen at one time
+          
+              mp       -screen clearing flag
+          
+              pp       -input number variable
+          
+              p$       -cursor control variable
+          
+              pi$      -cursor control variable
+          
+              ri$      -revision control variable
+          
+              s$       -cursor control variable
+          
+              tp       -jiffy clock working variable
+          
+              t$       -input string variable
+          
+              t% (101)    -sort/search array
+          
+              x        -next item to be added
+          
+              xx       -input number variable
+          
+              yi$      -general information comment variable
+          
+              zi$      -general information subject variable
+          
+          How did you do?  Even though their logic may be the same,
+          different programmers usually come up with somewhat
+          different variables.  We did use "%" after one array because
+          we are using integers (no values in that array will contain
+          decimals) and "%" will save storage space.  See your
+          Commodore Users Guide for more on this.
+          
+          We're now ready to write our basic Data Base Design program.
+          Study each explanation line together with the corresponding
+          program listing line.  Look at each basic command and each
+          function in that program listing line before moving on to
+          the next line.  Make sure you understand why the command or
+          function is in that line and what it does.
+
+                                       11
+
+
+
+
+
+          Don't be afraid to turn to your Users Guide if a
+          question still remains.  Take your time, and you'll
+          get this program easily.
+          
+          
+          PROGRAM EXPLANATION LINES - BASIC VERSION
+          
+            1.  INITIALIZE THE SCREEN
+          
+          
+              LINE NO.        ACTION THE COMPUTER TAKES
+          
+                 100          Labels Programming Kit
+          
+                 110          Labels Data Base Design
+
+                 120          Clears screen, switches to lower
+                              and disables the SHIFT/COMMODOR KEY
+                              combination.
+          
+                 130          Clears any old variables, changes
+                              border and display to black, and
+                              characters to white.
+          
+          2.  DEFINING THE VARIABLES
+          
+                 150-160      Defines cursor positioning array
+          
+                 180          Defines a blank string to write
+                              over any messages that might have been
+                              previously written.
+          
+                 190          Initializes the general information
+                              variables
+          
+          3.  DEFINE THE DATA BASE VARIABLES
+          
+                140          Defines the dimension of your data
+                             holding array and our search array
+          
+                460          Sets lines per item to be 8.  Sets items
+                             per screen display at 2.  Sets the item
+                             limit to be 100.  Sets x (the next item
+                             number to be read) to be 1.
+          
+                                                Maximum items
+                              Lines per          per System
+                                Item                Load
+          
+                                 1                   800
+                                 2                   400
+                                 3                   266
+                                 4                   200
+                                 5                   160
+                                 6                   133
+                                 7                   114
+                                 8                   100
+          
+
+
+                                       12
+
+
+
+
+
+          NOTE: If you wish to change the number of lines per item
+          after you get both the basic and enhanced programs running,
+          change the variable in line 460 to the following values:
+          
+          1= number        m= items       ir=next        x=next item
+          of lines           per          number of      number to
+          per item         display        records        be read
+          
+          
+          Number of    1 = 8        m = 2        ir = 100     x = 1 
+          Lines       should be    should be     should be    should be
+          
+            1           1 = 1        m = 10      ir = 800       x = 1
+            2           1 = 2        m = 6       ir = 400       x = 1
+            3           1 = 3        m = 5       ir = 260       x = 1
+            4           1 = 4        m = 4       ir = 200       x = 1
+            5           1 = 5        m = 3       ir = 160       x = 1
+            6           1 = 6        m = 3       ir = 130       x = 1
+            7           1 = 7        m = 2       ir = 110       x = 1
+            8           1 = 8        m = 2       ir = 100       x = 1
+          
+          ...and the variables in line 140 should be changed to the
+          following values.
+
+               Number of      d$(100.8)        1%(101)
+               Lines per      should be        should be
+                 item         changed to       changed to
+          
+                  1          d$(800,1)         t%(801)
+                  2          d$(400,4)         t%(401)
+                  3          d$(260,3)         t%(261)
+                  4          d$(200,4)         t%(201)
+                  5          d$(160,5)         t%(161)
+                  6          d$(130,6)         t%(131)
+                  7          d$(110,7)         t%(111)
+                  8          d$(100,8)         t%(101)
+          
+          For example, if we wanted a mailing list four lines long,
+          lines 140 and 460 would look like this:
+          
+                140        dimd$(200,4),t%(201)
+          
+                460        1 = 4:m = 4:Ir = 200: x = 1
+          
+          4.  INITIALIZE THE DATA BASE
+          
+             LINE NO.         ACTION THE  COMPUTER TAKES
+          
+                300           Labels the array initialization section
+          
+                310           Prints "YOUR DATA BASE DESIGN" centered
+                              and eight lines from the top of the display
+          
+                320           Prints (Your Name) Data Base two lines
+                              below the statement listed on line 310
+          
+                330           Prints "Intialize `the System?(Y/N)"
+                              on display line 21
+          
+
+                                       13
+
+
+
+
+
+                340           Clears out the keyboard buffer
+          
+                350           Receives a response from the user
+          
+                360           If the response is "Y", branches
+                              to 390
+          
+                370           If the response is "N", branches
+                              to 480
+          
+                380           If the response was neither "Y" or
+                              "N", branches to 340 to get a correct
+                              response
+          
+                390- 410      Erases any previous messages displayed
+                              on display line 21.  The computer asks
+                              the user if he is sure he wants to
+                              start his records from the beginning.
+          
+                420           Receives a response from the user
+          
+                430           Erases the message that was printed
+                              by lines 390-410
+          
+                440           If the response if "N", branches to
+                              310
+          
+                450           If the response is anything but "Y",
+                              branches to 390
+          
+                460           Sets lines per item to be 8.  Sets
+                              items per screen at 2.  Sets the item
+                              limit to be 100.  Initializes x (the
+                              current number of items) to be 1
+          
+                470           Clears the screen and branch to
+                              610
+          
+                480           Labels the data retrieval routine
+          
+                490           Clears the screen
+           
+          
+          5.  READ DATA BASE INFORMATION
+          
+          
+                LINE NO.      ACTION THE COMPUTER TAKES
+          
+                500-510       Prints "INSERTS THE DATA DISK"
+                              and press -C- to continue on display
+                              line 21
+                520           Clears out the keyboard buffer
+          
+                530           Receives a response from the
+                              user
+          
+
+
+
+
+                                       14
+
+
+
+
+
+                540           Clears the screen and prints
+                              "*** READING DATA FROM DISK ***"
+          
+                550           Opens the sequential file
+                              "data" on disk
+          
+                560           Reads x,l,m,ir,zi$,yi$,ri$,
+                              from the file
+          
+                590           Creates a nested loop (one loop
+                              within another) to read all the
+                              information from "data" file on disk.
+                              Line 590 also prints the item number
+                              currently being read
+          
+                600           Closes the file and clears the
+                              display
+          
+          
+          6.  PRINT YOUR MENU ON THE SCREEN
+          
+          
+                610           Labels your "Data Base Design Menu"
+                              section
+          
+                620           Sets your display clearing flag to
+                              zero
+          
+                630-690       Clears the display and prints the
+                              menu
+          
+          7.  MENU INSTRUCTIONS
+          
+                790           Erases any messages in display line
+                              21
+          
+                800           Prints "What Would You Like To Do?"
+                              on display line 22
+          
+                810           Clears out the keyboard buffer
+ 
+                820           Receives a response
+          
+                830           Erases the message on display line 22
+          
+                840           Determines the numerical value of the
+                              response.  If ap is greater than 4,
+                              branches to 790
+          
+                850           Erases any message on display line 22
+          
+                860           Branches to the line number which
+                              corresponds to value of ap
+          
+                870           Branches to 630
+          
+ 
+
+
+
+                                       15
+
+
+
+
+
+         8.  ENTER NEW ITEMS
+          
+                LINE NO.      ACTION THE COMPUTER TAKES
+          
+                880           Labels the section which inserts new
+                              items
+          
+                890           If x is larger than the item limit,
+                              branches to 1180
+          
+                900           Clears the display
+          
+                910           Prints the next new item number
+          
+                930           Creates a loop to accept the data
+                              for each item
+          
+                940           Prints the current line number on
+                              display, line 19
+          
+                950           Erases any message on display,
+                              line 21, Prints "INPUT LINE" and current
+                              line number on display, line 21
+          
+                960           Sets t$ to""(the null string).
+                              Receives input for the item line.
+                              Prints it on display line 22
+          
+                970           Places the input in the corresponding
+                              element of your data storage array and
+                              erases any statement on display lines 21
+                              and 22
+          
+                980           If the current line number is 1 and
+                              t$ is still ""(the null string),
+                              branches to 610
+          
+                990           Prints the data entered into t$
+                              on display, line 19
+          
+               1000           Moves the cursor to display line 24.
+                              Repeats the loop begun in 930
+          
+               1010           Erases any statements in display, lines
+                              21 and 22.  Ask the user if changes need
+                              to be made
+          
+               1020           Receives a response from the user
+          
+               1030           Erases statement in display, line 21
+
+               1040           If the user response is "Y", branches
+                              to 1070
+         
+               1050           If the user response is "N", and the
+                              display clearing flag is not equal to 1,
+                              branches to 1170
+          
+               1060           Branches to 1010
+          
+                                       16
+
+
+
+
+
+               1070           Prints "WHICH LINE NUMBER?" on
+                              display line 21 and inputs a number
+          
+               1080           Erases all statements on display
+                              lines 21 and 22
+          
+               1100           If the number entered is smaller than
+                              1 or larger than the maximum number of
+                              lines per item, branches to 1070
+          
+               1110           Erases lines 21 and 22 of the display
+          
+               1120           Prints "ENTER NEW LINE" and the
+                              current line number
+          
+               1130           Set t$ equal to "" (null string). Receives
+                              input for t$.  Places the character string
+                              in t$ into the proper data array element
+          
+               1140           Erases the line on the display that
+                              is to be changed
+          
+               1150           Prints the correct character string
+                              in place of the incorrect string
+          
+               1160           Branches to 1010
+          
+               1170           Increments the current new item
+                              pointer by 1.  Moves the cursor to
+                              screen line 24
+          
+               1180           If x is smaller than the item limit,
+                              branches to 910
+          
+               1190-1200      Prints an item limit message and sets
+                              the variable tp to the current time on
+                              the jiffy clock
+          
+               1210           Delays until the difference between tp
+                              and ti is greater than 600 before moving
+                              on to the next statement
+          
+               1220           Branches to 610
+          
+          
+          9.  VIEW/MODIFY BY ITEM NUMBER
+          
+             LINE NO.         ACTION THE COMPUTER TAKES
+          
+               1230           Labels the View/Modify By Item Number
+                              section
+          
+               1260           Prints "Input Item Number?" on display
+                              line 21
+          
+               1270           Receives input for the first item to
+                              be viewed and erases statements on
+                              display lines 21 and 22.  If d is
+                              smaller than 1 or larger than the
+                              current number of items, branches to 630
+                                       17
+
+
+
+
+
+               1280           Sets pp equal to d
+          
+               1290           Places the item number and preceding
+                              item number into elements 1 and 2 of t%
+                              array
+          
+               1300           Sets k equal to m minus 1 and sets
+                              f equal to 1
+          
+               1310           If screen clearing flag is not equal
+                              to 1, clears the display and sets the
+                              display clearing flag to 0
+          
+               1320           If k is still equal to 1, branches to
+                              610
+          
+               1330           Sets k equal to k minus m.  Sets j
+                              equal to zero
+          
+               1340           Creates a loop to move thru the non
+                              zero elements in t%.  If any value in
+                              the array is larger than the number of
+                              items currently being stored, branches
+                              to 1440
+          
+               1350           Increment j by 1.  If the currently
+                              viewed element in t% is equal to 0,
+                              branches to 1440
+          
+               1360           Prints the item number to be viewed
+          
+               1370-1390      Creates a loop to print all lines
+                              of the item to be viewed.  Repeats loop
+                              in 1340 until all the lines are printed
+          
+               1400           Sets the display clearing flag to 1
+          
+               1410           Prints "Changes?(Y/N)" on line 21
+          
+               1420           Receives a response from the user
+          
+               1430           If the user's response is "Y",
+                              branches to 1610
+          
+               1440           If the user's response is "N"
+                              and k is smaller than or equal to zero
+                              and ap is not equal to 3, branches to
+                              1740
+          
+               1450           If the user's response is "N" and
+                              is greater than zero, branches to 1580
+          
+               1460           If the user's response is "N", the
+                              menu choice is 3 and the number in the
+                              search array are larger than the number
+                              of items currently being stored,
+                              branches to 1740
+          
+
+
+                                       18
+
+
+
+
+
+               1470           If the user's response if "N", the
+                              view/modify option was chosen before and
+                              the item to be viewed is not the last
+                              one, branches to 1490
+          
+               1480           Branches to 1410
+          
+               1490           Prints, "Next Page or Menu?(P/M)"
+                              on display, line 21.  Set display
+                              clearing flag to zero
+          
+               1500           Receives the user's response
+          
+               1510           If the user`s response is equal to
+                              "M", branches to 610
+          
+               1520           If the user's response is equal to
+                              "P", branches to 1540
+          
+               1540           Increases pp by m  Sets d equal to
+                              pp  If d is larger than the current
+                              number of items, branches to 610
+          
+               1550           Branches to 1290
+          
+               1580           Erases any statements on display,
+                              line 21.  Prints "Press-C- To Continue"
+                              on display, line 21
+           
+               1590           Receives the user's response.  If
+                              the response is "C", clears the display,
+                              increase f by the value of m and branch
+                              to 1310
+          
+               1600           Branches to 1590
+          
+               1610           Sets the display flag to 1
+          
+               1620           Prints "INPUT ITEM NUMBER"
+                              on line 21 of display
+          
+               1630           Receives input for dd, erase
+                              any statements on lines 21 and 22 of
+                              display.  If dd is larger than the
+                              current number of items or smaller than
+        
+               1650           Prints "Which Line Numger?" on    
+
+               1650           Prints "Which Line Nu
+                              variable xx
+
+               1660           Erases Lines 21 and 22 of the display
+
+               1670           If xx is smaller than 1 or larger than
+                              the number fof lines per item, branches
+                              to 1650        
+
+
+
+
+                                       19
+
+
+
+
+
+
+                    1680     Prints "Enter New Line" (the line
+                             number). "For Item 2" and the line
+                             number on line 21 of the display
+          
+                    1690     Receives input for corrected line.
+                             Erases lines 21 and 22 of the display
+          
+                    1700     Places the entered character string
+                             into the proper data array element
+          
+                    1710     Sets xx to 1
+          
+                    1720     Sets the display clearing flag/increment
+                             k by the value of m and branches to 1310
+          
+                    1730     Branches to 610
+          
+                    1740     Erases lines 21 and 22 of display.
+                             Prints "PRESS-M-FOR MENU"
+          
+                    1750     Receives user's response.  If the
+                             user's response is "M", branches to 610
+          
+                    1760     Branches to 1750
+          
+          
+          10.  VIEW/MODIFY GENERAL INFORMATION
+          
+        									 LINE NO.   ACTION THE COMPUTER TAKES
+          
+                    2040     Labels General Information Section
+          
+                    2050-   
+                    2080     Prints the general information
+          
+                    2090     Prints "Changes?(Y/N)"
+          
+                    2100     Receives the user's response
+          
+                    2110     If the user's response is "Y", branches
+                             to 2100
+          
+                    2120     If the user's response if "N", branches
+                             to 2220
+          
+                    2130     Branches to 2090
+          
+                    2140     Prints "Which Item? (1-3)" on line 21
+                             of display
+          
+                    2150     Receives the user's response
+          
+                    2160     If the user's response is not "1",
+                             "2" or "3", the computer branches to
+                             2150
+          
+                    2170     Prints "Input New Item", the user's
+                             response on line 21 of display
+          
+                                       20
+
+
+
+
+
+                    2180     If the user's response is "1", receives
+                             input for zi$
+          
+                    2190     If the user's response is "2", receives
+                             input for yi$
+          
+                    2200     If the user's response is "3", receives
+                             input for ri$
+          
+                    2210     Branches to 2050
+          
+                    2220     Erases line 21 of the screen.  Prints
+                             "PRESS-M-FOR MENU" on line 21 of the
+                             display
+          
+                    2230     Clears the keyboard buffer
+          
+                    2240     Receives the user's response
+          
+                    2250     Clears display and branches to 610
+          
+          
+          11.  STORE DATA
+          
+          
+                  LINE NO.     ACTION THE COMPUTER TAKES
+          
+                    2460       Labels Data Storage/Program End
+                               Section
+          
+                    2470       Prints "DO YOU WANT TO PUT DATA
+                               ON DISK" on line 22 of the display
+          
+                    2480       Receives the user's response
+          
+                    2490       Erases line 22 of the display
+          
+                    2500       If user's response is anything     
+                               except "Y", branches to 2470
+                   
+                    2540-      Clears the display and print
+                    2550       "PUT YOUR DATA DISK IN THE DISK
+                               DRIVE"...Then Press-C- 
+          
+                    2560       Clears out the keyboard buffer
+          
+                    2570       Receives the user's response
+         
+                    2580       Erases lines 21 and 22 of the
+                               display and prints "WRITING DATA TO
+                               DISK" on line 21 of the display
+          
+                    2590       Opens the sequential file ("data")
+                               on disk and sets c$ equal to","
+          
+                    2600       Writes out the general information
+                               to the file named "data"
+          
+
+
+                                       21
+
+
+
+
+
+                    2610-      Writes all the data previously
+                    2650       typed into the file named "data"
+                               and closes the file
+          
+                    2660       Erases line 21 of the screen and
+                               prints "YOUR DATA IS STORED ON DISK"
+       
+                    2670       Branches to 2520
+        
+          12. END RUN
+          
+                    2520       Prints "END OF RUN" on line 11 of the
+                               screen
+          
+                    2530       Branches to 2530
+          
+          
+          Typing the Program
+          
+          Now that you have the program figured out, enter the
+          complete BASIC program listed in the program listing
+          booklet.
+          
+          NOTE: After you have typed in the program, save it on your
+          own disk. (Use SAVE "D/B2",8.) See your computer manual for
+          details on saving.
+          
+          
+          Debugging
+          
+          Most computer programs have bugs (problems) in them at
+          first.  Debugging is what the programmer (that's you!) does
+          to get those bugs out.
+          
+          Debugging usually involves reviewing your program in detail
+          until you are satisfied with it.
+          
+          Now that you have your program safely stored on disk, it's
+          time to try it out.  Type RUN, then press RETURN.
+          
+          If it works the first time, you're a programming whiz!  Very
+          seldom does a computer program work perfectly the first time
+          (or even the 10th time).
+ 
+          To debug your program, use your computer's editing
+          capabilities and make your program work.
+          
+          NOTE: See your computer manual on how to work the list,
+          insert, delete, and cursor movement commands.
+          
+          If you get an error code, LIST the line in the code and
+          correct any problems.
+          
+          NOTE: The error code explanation in your computer manual
+          helps.
+          
+          Some bugs may not be obvious. The only way to find such
+          errors is by testing the program while looking for anything
+          that doesn't make sense.
+          
+                                       22
+
+
+
+
+
+          Some common bugs are:
+          
+                  *Missing punctuation in print statements
+          
+                  *Missing lines
+          
+                  *Forgetting to type in a line from your written
+                   version
+
+          Again, take your time, read these and the Commodore
+          instructions, be careful and have fun. You're well on your
+          way to being a top notch programmer!
+         
+          Modifying the Program
+          
+          Now that we have a running program, it's time to do what
+          most programmers do: modify our program. (That's why we try
+          to leave space between line numbers). Here are some
+          modifications you can make to your basic data base.
+          
+                 l.  You might like to view or modify your data by
+                     item element.
+          
+                 2.  A cross-search option might be nice.
+          
+                 3.  Dump all your items to the printer, or maybe just
+                     the items the computer searched for last.
+          
+                 4.  You may also want to do an input subroutine using
+                     the GET command.  It's more versatile and you
+                     don't have to worry about "redo" appearing on the
+                     screen at any time.
+          
+          VERSION 11: ENHANCED PROGRAM
+          
+          General Concept
+          
+                  Believe it or not, you have already dealt with our
+                  general concept.  In thinking of modifications for
+                  the basic program, you have in effect, created the
+                  concepts for the enhanced version.  So...on to Step 2!
+          
+          Displays
+          
+                  Your displays from the basic version are fine.
+                  Because  of this, and the internal modifications in
+                  your Data Base Design, we are leaving the displays
+                  as they are.  If you wish to alter the displays
+                  later, go right ahead.
+  
+          Flow Charts
+          
+                  Since there are no drastic changes in our program
+                  other than the insertion of our four modifications,
+                  we need only insert these modifications in the basic
+                  version flow chart.  Figure 4 shows the flow chart
+                  for the Enhanced Program.
+          
+                                    [SEE FIGURE 4]
+
+                                       23
+          
+
+
+
+
+          NOTE:  For simplicity we have omitted the input routine from
+          the flow chart.
+          
+          Algorithms
+          
+                  l.  View/Modify by Item Element
+          
+                      a)  Receive the name or word string the user
+                          wishes to search for
+          
+                      b)  Receive the line number where this name or
+                          word string is located
+        
+                      c)  Use a FOR/NEXT loop to move to each item,
+                          comparing the name or word string with the
+                          character string in the chosen line number.
+                          If a match occurs, the item number is inserted
+                          into the search array
+          
+                      d)  If the search array is empty (no match
+                          occurs) the computer branches to the menu
+          
+                      e)  If one or more matches occur, determine
+                          whether the items are to be listed
+          
+                      f)  If the matched items are to be listed,list
+                          them, making any necessary changes
+          
+                      g)  Enable the X-SEARCH flag and branch to the menu
+          
+              2.  Cross-search
+          
+                      a)  If the cross-search flag is enabled,
+                          determine if you want the X-SEARCH to
+                          be performed
+         
+                      b)  If the cross-search is to be performed, only
+                          items currently in the search array are
+                          compared for matches (when the user searches
+                          by item element)
+          
+                      c)  If the user chooses any other menu option,
+                          the cross-search flag is disabled and all
+                          searches are performed in the normal manner.
+         
+              3.  Dump records to the printer
+          
+                      a)  Make sure the printer is connected
+          
+                      b)  Determine whether all records, or last
+                          sorted records are to be printed.
+          
+                      c)  Print a title from the general information
+                          section
+          
+                      d)  Display the item currently being printed
+          
+                      e)  Print that item on the printer
+          
+
+                                       24
+
+
+
+
+
+                      f)  Perform d) and e) above until the
+                          computer prints all of the records you want
+          
+                      g)  Print the number of items that were printed
+          
+                      h)  Branch to the menu
+      
+              4.  Input Routine
+          
+                      a)  Place the cursor in the beginning location
+          
+                      b)  Set the line string (we'll call it t$) to
+                          ""(the null string)
+          
+                      c)  Receive a character from the user
+       
+                      d)  If the character is the return key or the
+                          length of our line string is larger than 29
+                          characters, return to the main program
+          
+                      e)  If the character from the user is the
+                          delete key and the length of t$ is larger
+                          than 1, remove a character from t$ (our line
+                          string) and print the new t$ string and
+                          prompt
+          
+                      f)  If the received character is a character you
+                          programmed the computer to accept, add the
+                          character to start your line string and branch
+                          back to c)
+          
+          You've now completed all the algorithms we set out to cover
+          for the enhanced version.  Look them over to be sure.
+          
+          Writing the Program
+          
+          In your modification, you need to come up with more
+          variables and arrays. Let's look through the last batch of
+          algorithms and develop more variables to help program this
+          modification.
+          
+                          cc$   =  holds "es" when printing "Matches"
+          
+                          ct    =  printed items counter
+          
+                          h$    =  input subroutine cursor
+          
+                          11    =  all/last sort print flag
+          
+                          ls    = length of search by item element
+          
+                          sl    =  line to be search when search by
+                                   item element
+          
+                          na$   =  element to be searched for, when
+                                   searching by item
+          
+
+
+
+                                       25
+
+
+
+
+
+                          0     =  For-Next loop counter location
+          
+                          q     =  For-Next loop counter
+          
+                          s     =  X-search flag
+          
+               This Programming Kit comes complete with an enhanced
+               program listing (take out your programming listing
+               booklet) and a line-by-line explanation of that basic
+               program.  Study each explanation line together with the
+               corresponding program listing line.  Look at each basic
+               command and function in that program listing line.
+               Make sure you understand why the command or function is
+               in that line and what it does before you go on to the
+               next line.  Don't be afraid to turn to your Commodore
+               User's Guide if a question still remains.
+          
+          
+          VIEW/MODIFY BY ITEM ELEMENT
+          
+          
+               LINE NO.          ACTION THE COMPUTER TAKES
+          
+                  670-           Adds the enhanced menu items to
+                  690            the menu
+          
+                  l770           Labels the Search by Element Section
+          
+                  l780           Prints "INPUT SEARCH ITEM" on line 21
+                                 of display
+          
+                  1790           Calls the input subroutine, sets na$
+                                 to the received input, erases lines
+                                 21 and 22 of the display, and sets ls
+                                 to the length of na$
+ 
+                  1800           Prints "WHICH LINE NUMBER" on line 21
+                                 display
+          
+                  1810           Calls the input subroutine, sets sl
+                                 to the numerical value of t$ and
+                                 erases lines 21 and 22 of the display
+          
+                  1820           If sl is smaller than 1 or larger
+                                 than the number of lines per item,
+                                 branches to 1800
+          
+                  1830           Erases lines 21 and 22 on
+          
+                  1840           Creates a loop to search through all
+                                 current items.  If the x-search flag 
+                                 is equal to zero, sets i equal q
+          
+                  1850           If the x-search flag is equal to 1, i
+                                 will be equal to the value located in
+                                 the searching array.  If the value in
+                                 the searching array is zero, branches
+                                 to 1930
+          
+ 
+                                       26
+
+
+
+
+
+                  1860           Prints the number of the current item
+                                 being searched (print on line 22 of
+                                 the display)
+          
+                  1870           T$ is set to the string in the line
+                                 of the item currently being searched
+          
+                  1880           Creates a loop to look at each
+                                 character string in the tested line
+          
+                  1890           If the character string being
+                                 searched for is equal to the current
+                                 string being viewed, branches to 1910
+          
+                  1900           Increments o, repeats loop until the
+                                 loop requirements are met.  Branches
+                                 to 1920
+          
+                  1910           Increments k by 1 and inserts the
+                                 item number (that contains the
+                                 matched character string) into the
+                                 search/sort array
+          
+                  1920           Repeats the loop until the loop
+                                 requirements are met
+          
+                  1930           After the search is over, sets the
+                                 next element in the search array to 0
+          
+                  1940           Sets the x-search flag to 1
+          
+                  1950           Sets cc$ to "es".  If the number
+                                 of items on the search array is less
+                                 than 2, changes cc$ to"" (null
+                                 string)
+
+                  1960           Sets c$ to "Match" and cc$.  Erases
+                                 line 22 of the display.  Prints the
+                                 number of matches found on the same
+                                 line
+          
+                  1970           Sets tp to the time on the jiffy
+                                 clock.  If ap is equal to 4 and k is
+                                 larger than l, sets the x-( ) search flag
+                                 to 1
+          
+                  1980           If the difference between the jiffy
+                                 clock timer and tp is smaller than
+                                 200, branches back to 1980
+          
+                  1990           If there are no matches, sets the
+                                 x-search flag to zero and branches to
+                                 610
+          
+                  2000           Prints "LIST?(Y/N)" on line 23 of
+                                 display.  Receives the user`s
+                                 response.
+          
+
+
+                                       27
+
+
+
+
+
+                  2010           If the user's response if "Y", sets
+                                 the listing starting point to 1 and
+                                 branches to 1310 
+          
+                  2020           If the user's response is "N",
+                                 branches to 610
+          
+                  2030           Branches to 2000
+          
+              CROSS-SEARCH
+          
+                  700            If ap is not equal to 4, sets the
+                                 x-search flag to 0
+          
+                  710            If the x-search flag is not equal
+                                 to zero or ap is not equal to 4,
+                                 branches to 780
+          
+                  720            Prints "X-SEARCH?(Y/N)" on line 22 of
+                                 the display
+          
+                  730            Receives a response from the user
+          
+                  740            If the user's response is "Y",
+                                 branches to 770
+          
+                  750            If the user's response if "N", sets
+                                 the x-search flag to zero, erases line
+                                 22 on the display. Branches to 780
+          
+                  760            Branches to 720
+          
+                  770            Erases lines 21 and 22 of display
+          
+                  780            If the x-search flag is equal to 1,
+                                 prints "X-SEARCH"
+          
+                  1240           If the x-search flag is equal to l, 
+                                 branches to 1260
+          
+                  1250           Sets the x-search flag to zero
+          
+          DUMP RECORDS TO THE PRINTER
+          
+                  2260           Labels the Item Printing Section
+          
+                  2270           Prints "IS YOUR PRINTER CONNECTED
+                                 (Y/N)?" on line 22 of display
+          
+                  2280           Receives user`s response.  If the
+                                 user's response is not a "Y" or "N",
+                                 branches to 2280
+          
+                  2290           If the response if "N", sets the
+                                 x-search flag to zero and branches to
+                                 610
+          
+
+
+
+                                       28
+
+
+
+
+
+                  2300           Prints "All Records Or Last Sort?
+                                 (A/L)" on line 22 of display. Sets 11
+                                 to zero
+          
+                  2310           Receives user's response.  If the
+                                 user's response is not "1", or "a",
+                                 branches back to 2310
+          
+                  2320           If the user's response is "1", sets
+                                 11 to 1
+          
+                  2330           Prints "Printing records" on line
+                                 22 of display.  Opens a channel to
+                                 the printer, sending upper/ lower
+                                 case.  Prints 2 blank lines
+          
+                  2340           Prints 2 blank lines.  Prints the
+                                 subject header from general
+                                 information (centered in the middle
+                                 of the page)
+          
+                  2350           Prints 3 blank lines
+          
+                  2360           Sets the printed record count to
+                                 zero.  Creates a loop to move down
+                                 the entire list of current items
+          
+                  2370           Sets i to the value of q.  If ll
+                                 is 1, sets the current element value
+                                 in the search/sort array t% to 1.  If
+                                 the value in the current element in
+                                 the t% array is zero, branches to
+                                 2440
+          
+                   2380          Receives user response.  If
+                                 response is "" (null string) set c$
+                                 to "$"
+          
+                   2390          If c$ is "F1", branches to 2440
+          
+                   2400          Prints the item currently being
+                                 printed on line 22 of the display
+          
+                   2410- 2430    Prints the lines of the current
+                                 item on the printer.  Prints 2 blank
+                                 lines
+          
+                   2440          Prints 2 blank lines, the record
+                                 count and "RECORD PRINTED"
+
+                   2450          Closes the line to the printer. Sets
+                                 the x-search flag to zero and branch to 610
+          
+               INPUT ROUTINE
+          
+                   170           Defines your input routine prompt
+          
+                   200           Branches to 310
+          
+
+                                       29
+
+
+
+
+
+                   210           Labels input Subroutine
+          
+                   220           Erases line 22 of the display.
+                                 Prints your input cursor on line 22.
+                                 Set t$ = ""(null string)
+          
+                   230           Receives a keyboard response
+          
+                   240           If the keyboard response is the
+                                 return key, or t$ is more than 29
+                                 character long, returns from the
+                                 input routine
+          
+                   250           If the keyboard response is the
+                                 delete key and t$ has at least one
+                                 character in length, removes the 
+                                 right-most character from t$ and
+                                 branches to 290
+          
+                   260           If the response is greater than ""
+                                 and less than  "<--", branches to 280
+          
+                   270           If the response is greater than
+                                 "A" or less than "Z", branches to 290
+          
+                   280           If the keyboard response is not
+                                 equal to ", ",", or the return key
+                                 (34), adds the character to t$
+          
+                   290           Prints t$ and the cursor on line
+                                 22.  Branches to 230
+          
+                   790           If the x-search is equal to 0,
+                                 erases line 21 of the display
+        
+                   840           Sets ap to the numerical value of
+                                 c$.  If ap is larger than 6,
+                                 branches to 710
+          
+                   850           If ap is not equal to 4, erases
+                                 line 21 on the display
+          
+                   860           Calls the input subroutine
+          
+                   1090          Finds the numerical value of the
+                                 string t$
+          
+                   1130          Calls the input subroutine.  Places
+                                 the character string from t$ into
+                                 the proper data array element
+          
+                   1270          Calls the input routine.  Determines
+                                 the numerical value of t$.  Erases
+                                 lines 21 and 22 on the display.  If
+                                 the value derived from t$ is smaller
+                                 than 1 or larger than the current
+                                 number of stored items, branches to
+                                 630
+          
+
+                                       30
+
+
+
+
+
+                    1400         Sets the display clearing flag to 1.
+                                 Sets the x-search flag to 1
+          
+                    1630         Calls the input subroutine. Determines
+                                 the numerical value of t$.  Erases lines
+                                 21 and 22 of the display.  If the
+                                 numerical value of t$ is smaller than
+                                 1 or larger than the current number of
+                                 items, branches to 1620
+          
+                    1650         Prints "WHICH LINE NUMBER" on line 21
+                                 of the display
+          
+                    1690         Calls the input subroutine. Sets d$
+                                 to the value of t$. Erases lines 21
+                                 and 22 of the display
+          
+                    2180         If c$ is equal to "1", calls the
+                                 input subroutine and sets the comment
+                                 variable to the input string t$
+          
+                    2190         If c$ is equal to "2", calls the
+                                 input subroutine and sets the comment
+                                 variable to the input string t$
+          
+                    2200         If c$ is equal to "3", calls the
+                                 input subroutine and sets the revision
+                                 date variable to the input string t$
+          
+          Typing the Program
+          
+          Now that you have the program figured out, turn on your
+          computer (check ALL connections!) and type in the complete
+          basic program as listed in the file labeled "Enhanced
+          Program".
+          
+          Debugging
+          
+          Well, your enhanced program has now been written and typed.
+          Now, go back and follow the debugging principles discussed
+          earlier.  Once you're finished debugging the program, you'll
+          have your own data base system.
+          
+          
+          Modifying the Program
+          
+          We don't have any more modifications for you.  With a little
+          effort, you can think of dozens of other improvements all on
+          your own!
+          
+          
+          Here are some more suggestions:
+          
+                  *Move a line of one item to the line of another
+          
+                  *Sort items alphabetically or numerically
+          
+                  *Store records on relative files
+          
+
+                                       31
+
+
+
+
+
+                  *Perform calculations between values in item lines
+          
+                  *Produce variable line items
+          
+                  *Append lines to other items
+          
+                  *Merge items
+          
+                  *Split items
+          
+          NOTE: Searching and sorting are among the most common
+          programming processes. Searching is a systematic examination
+          of information in a given field of interest, like going
+          through a list to find a key word.  Sorting is the process
+          of arranging data into some order, like putting a list or
+          file cards in alphabetical order. Mathematicians and
+          computer scientists have spent thousands of research hours
+          and have written thousands of books and papers on sorting
+          and searching techniques.  Your local computer store, book
+          store or public library has additional information.
+          
+          
+          Odds and Ends
+          
+          While explaining the procedure for data base design, we have
+          left in our program certain statements and commands that
+          help show the processes being performed.  Some of these
+          statements are no longer necessary and may be taken out.
+          You can learn a lot by looking through your now-completed
+          program and weeding out these statements and commands. We
+          leave this as an exercise for you.
+          
+         
+          What's next? We hope you'll take the ideas from this
+          programming kit and apply them to programs of your own.
+          When you have mastered this one, we recommend you try the
+          other Melody Hall Programming kit: INTRODUCTION TO
+          PROGRAMMING 2.  You'll learn even more about the art
+          of programming.
+          
+          
+          Troubleshooting
+          
+                System will not LOAD       *Check computer hookup
+                                           *Try to load backup version
+          
+                System will not SAVE       *Check computer hookup
+          
+                System Glitch-Screen       *Reload program
+                                            blanks out, program lost
+                                            (sometimes due to power
+                                            fluctuation)
+          
+                Bad SAVE-Loss of Data      *Reconstruct data from
+                                            last good save
+          
+                Data will not load into    *Be sure you are using the
+                the system                  correct data cassette or disk
+          
+
+                                       32
+
+
+
+
+                Syntax Error               *Make sure lines are typed
+                                            correctly
+          
+                                           *Check punctuation
+          
+                String too long            *Make sure all the lines of
+                                            every item are not blank
+          
+                Device not present         *Printer not hooked on
+                                            Drive not hooked on
+          
+                Bad Subscript              *Find an array with a
+                                            number value larger than
+                                            the specified range
+          
+                Device not present         *Turn on the required
+                                            input/output devices
+                                            disk or tape
+          
+                File not open              *The file specified
+                                            must first be opened
+          
+                File open                  *The file requested is
+                                            already open.  Close the
+                                            file before reopening
+          
+                Illegal Quantity           *Find a number that is
+                                            outside the allowable
+          
+                Next without For           *Find a NEXT statement
+                                            that is out of place
+          
+                Out of Memory              *Find any misplaced
+                                            GOSUP's or redefine
+                                            smaller arrays
+          
+                Undef'd Statement          *Find a GOTO or
+                                            GOSUB statement which
+                                            attempts to define a line
+                                            that doesn't exist    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       33
+
+
+
+
+
+     VERSION 1 - BASIC PROGRAM      "D/B1"
+     
+     100 REM"**** PROGRAMMING KIT 1 ****"
+     110 REM"**** DATA BASE DESIGN ****"
+     120 PRINT"[CLR]";CHR$(14);CHR$(8)
+     130 CLR:POKE53280,0:POKE53281,0:PRINTCHR$(5)
+     140 DIMD$(100,8),T%(101)
+     150 P$="[HOME][21 DOWN]":P1$=P$+"[DOWN]"
+     160 S$="[HOME][24 DOWN]"
+     180 E$="[39 SPACES]"
+     190 ZI$="INSERT DATA":RI$="INSERT DATE":YI$=ZI$
+     300 REM"**** INITIALIZE DATAARRAY ****"
+     310 PRINT"[CLR][8 DOWN]";TAB(6);"*** YOUR DATABASE DESIGN ***"
+     320 PRINT"[DOWN]";TAB(10);"(C)1983 MELODY HALL CORP."
+     330 PRINTP$;"INITIALIZE THE SYSTEM ?(Y/N)"
+     340 GETC$:IFC$<>""THEN340
+     350 GETC$:IFC$=""THEN350
+     360 IFC$="Y"THENGOTO390
+     370 IFC$="N"THENGOTO480
+     380 GOTO340
+     390 PRINTP$;E$:PRINTP$;"THIS WILL START YOUR DATA RECORDS"
+     400 PRINT"FROM THE BEGINNING....ARE YOU SURE THIS"
+     410 PRINT"IS WHAT YOU WANT?(Y/N)"
+     420 GETC$:IFC$=""THENGOTO420
+     430 PRINTP$;"[2 UP]";E$:PRINTE$:PRINTE$
+     440 IFC$="N"THENPRINT"[CLR]":GOTO310
+     450 IFC$<>"Y"THENGOTO390
+     460 L=8:M=2:LR=100:X=1
+     470 PRINT"[CLR]":GOTO610
+     480 REM "**** READ IN STORED DATA ****"
+     490 PRINT"[CLR]"
+     500 PRINT;P1$;"INSERT DATA DISK INTO DISC DRIVE..."
+     510 PRINT"...THEN PRESS -C- TO CONTINUE"
+     520 GETC$:IFC$<>""THEN520
+     530 GETC$:IFC$=""THENGOTO530
+     540 PRINT"[CLR]";P$;"*** READING DATA FROM DISK ***"
+     550 OPEN2,8,2,"DATA,S,R"
+     560 INPUT#2,X,L,M,LR,ZI$,YI$,RI$
+     570 FORI=1TOX-1
+     580 FORJ=1TOL
+     590 PRINTP$;TAB(32);"#";I:INPUT#2,D$(I,J):NEXTJ:NEXTI
+     600 CLOSE2:PRINT"[CLR]"
+     610 REM"**** DATABASE DESIGNMENU ****"
+     620 MP=0
+     630 PRINT"[CLR]******** YOURDATABASE DESIGN ********"
+     640 PRINT"[2 DOWN]1. VIEW/MODIFY INFORMATION"
+     650 PRINT"[DOWN]2. ENTER NEW ITEMS"
+     660 PRINT"[DOWN]3. VIEW/MODIFY BY ITEM NUMBER "
+     690 PRINT"[DOWN]4. END RUN
+     790 PRINTP$;E$
+     800 PRINTP$;"[DOWN]WHAT WOULD YOU LIKE TO DO?"
+     810 GETC$:IFC$<>""THEN810 
+     820 GETC$:IFC$=""THEN820
+     830 PRINTP$;"[DOWN]";E$
+     840 AP=VAL(C$):IFAP>4THEN790
+     850 PRINTP$;E$
+     860 ONAPGOTO2040,880,1230,2460
+
+
+
+                                       34
+
+
+
+
+
+     870 GOTO630 
+     880 REM"**** INSERTNEWITEM****"
+     890 IFX>LRTHEN1180
+     900 PRINT"[CLR]"
+     910 PRINT"[HOME][19 DOWN]";TAB(4-LEN(STR$(X)));X
+     930 FORXX=1TOL
+     940 PRINT"[HOME][19 DOWN]";TAB(5);"[RVS ON]";XX;"[RVS OFF]"
+     950 PRINTP$;E$:PRINTP$;"INPUT LINE";XX;"?"
+     960 T$="":INPUTT$
+     970 D$(X,XX)=T$:PRINTP$;E$:PRINTE$
+     980 IFXX=1ANDT$=""THEN610
+     990 PRINT"[HOME][19 DOWN]";TAB(7);T$
+     1000 PRINTS$:NEXTXX
+     1010 PRINTP$;E$:PRINTP$;"CHANGES?(Y/N)":PRINTP1$;E$
+     1020 GETC$:IFC$=""THEN1020
+     1030 PRINTP$;E$
+     1040 IF C$="Y"THEN1070
+     1050 IF C$="N"THEN1170
+     1060 GOTO1010
+     1070 PRINTP$;"WHICH LINE NUMBER?":INPUTXX
+     1080 PRINTP$;E$:PRINTE$
+     1100 IFXX<1ORXX>LTHEN1070
+     1110 PRINTP$;E$:PRINTE$
+     1120 PRINTP$;"ENTER NEW LINE";XX;"?"
+     1130 T$="":INPUTT$:D$(X,XX)=T$:PRINTP$;E$:PRINTE$
+     1140 PRINTLEFT$(S$,19-ABS(L-XX));TAB(7);"[32 SPACES]"
+     1150 PRINTLEFT$(S$,19-ABS(L-XX));TAB(7);T$
+     1160 GOTO1010
+     1170 X=X+1:PRINTS$
+     1180 IFX<=LRTHENGOTO910
+     1190 PRINTS$;P$;"ALL";LR;"RECORDS ARE INPUTED...NO MORE "
+     1200 PRINT"ON THIS SYSTEM LOAD!":TP=TI
+     1210 IFTI-TP<600THEN1210
+     1220 GOTO610
+     1230 REM"**** VIEW/MODIFY SECTION ****"
+     1260 PRINTP$;"INPUT ITEM NUMBER?"
+     1270 INPUTD:PRINTP$;E$:PRINTE$:IFD<1ORD>X-1THEN630
+     1280 PP=D
+     1290 FORK=0TOM-1:T%(K+1)=D+K:NEXTK
+     1300 K=M-1:F=1
+     1310 IFMP<>1THENPRINT"[CLR]":MP=0
+     1320 IFK=0THENGOTO610
+     1330 K=K-M:J=0
+     1340 FORI=FTOF+M-1:IFT%(I)>X-1THEN1440
+     1350 J=J+1:IFT%(I)=0THEN1400
+     1360 PRINTLEFT$(S$,((J-1)*(L+1)+1));TAB(4-LEN(STR$(T%(I))));T%(I)
+     1370 FORG=1TOL
+     1380 PRINTLEFT$(S$,((J-1)*(L+1)+(G-1)+1));TAB(5);"[RVS ON]";G;
+          "[RVS OFF]";D$(T%(I),G)
+     1390 NEXTG:NEXTI
+     1400 MP=1
+     1410 PRINTP$;"CHANGES?(Y/N)":PRINTP1$;E$
+     1420 GETC$:IFC$=""THEN1420
+     1430 IFC$="Y"THEN1610
+     1440 IFC$="N"ANDK<=0ANDAP<>3THEN1740
+     1450 IFC$="N"ANDK>0THEN1580
+     1460 IFC$="N"ANDAP=3AND(T%(I)>X-1 ORT%(I-1)>X-2)THEN1740
+
+
+
+                                       35
+
+
+
+
+
+     1470 IFC$="N"ANDAP=3ANDT%(I)<=X-1THEN1490
+     1480 GOTO1410
+     1490 PRINTP$;"NEXT PAGE OR MENU?(P/M)":MP=0
+     1500 GETC$:IFC$=""THEN1500
+     1510 IFC$="M"THENGOTO610
+     1520 IFC$="P"THEN1540
+     1530 GOTO1490
+     1540 PP=PP+M:D=PP:IFD>X-1THENGOTO610
+     1550 GOTO1290
+     1580 PRINTP$;E$:PRINTP$;"PRESS -C- TO CONTINUE"
+     1590 GETC$:IFC$="C"THENPRINT"[CLR]":F=F+M:GOTO1310
+     1600 GOTO1590
+     1610 MP=1
+     1620 PRINTP$;"INPUT ITEM NUMBER"
+     1630 INPUTDD:PRINTP$;E$:PRINTE$:IFDD>XORDD<1THEN1620
+     1650 PRINTP$;"WHICH LINE NUMBER?[9 SPACES]":INPUTXX
+     1660 PRINTP$;E$:PRINTE$
+     1670 IFXX<1ORXX>LTHEN1650
+     1680 PRINTP$;"ENTER NEW LINE";XX;"FOR ITEM";DD;"?"
+     1690 INPUTD$:PRINTP$;E$:PRINTP1$;E$
+     1700 LD=LEN(D$):D$(DD,XX)=D$+LEFT$(E$,30-LD)
+     1710 XX=1
+     1720 MP=1:K=K+M:GOTO1310
+     1740 PRINTP$;E$:PRINTP$;"PRESS -M- FOR MENU"
+     1750 GETC$:IFC$="M"THEN610
+     1760 GOTO1750
+     2040 REM"**** VIEW/MODIFY GENERAL INFO ****"
+     2050 PRINT"[CLR][DOWN]";TAB(7);"***GENERALINFORMATION***"
+     2060 PRINT"[3 DOWN] 1.SUBJECT:";ZI$
+     2070 PRINT"[HOME][8 DOWN] 2.COMMENTS: ";YI$
+     2080 PRINT"[HOME][11 DOWN] 3.LAST REVISION DATE: ";RI$
+     2090 PRINTP$;"CHANGES?(Y/N)"
+     2100 GETC$:IFC$=""THEN2100
+     2110 IFC$="Y"THEN2140
+     2120 IFC$="N"THEN2220 
+     2130 GOTO2090
+     2140 PRINTP$;"WHICH ITEM?(1-3)"
+     2150 GETC$:IFC$=""THEN2150
+     2160 IFC$<>"1"ANDC$<>"2"ANDC$<>"3"THEN2150
+     2170 PRINTP$;"INPUT NEW ITEM ";C$;"[3 SPACES]"
+     2180 IFC$="1"THENINPUTZI$
+     2190 IFC$="2"THENINPUTYI$
+     2200 IFC$="3"THENINPUTRI$
+     2210 GOTO2050
+     2220 PRINTP$;E$:PRINTP$;"PRESS -M- FOR MENU"
+     2230 GETC$:IFC$<>""THEN2230
+     2240 GETC$:IFC$=""THENGOTO2240
+     2250 PRINT"[HOME]":GOTO610
+     2460 REM"**** DATASTORAGE AND PROGRAM END ****"
+     2470 PRINTP1$;"DO YOU WANT TO PUT DATA ON DISK?(Y/N)"
+     2480 GETC$:IFC$=""THEN2480
+     2490 PRINTP1$;E$
+     2500 IFC$="Y"THEN2540
+     2510 IFC$<>"N"THEN2470
+     2520 PRINT"[CLR][11 DOWN]";TAB(10);"***END OF RUN***"
+     2530 GOTO2530
+     2540 PRINT"[CLR]";P$;"PUT YOUR DATA DISK IN THE DISK DRIVE..."
+
+
+
+                                       36
+
+
+
+
+
+     2550 PRINT"...THEN PRESS -C-...."
+     2560 GETC$:IFC$<>""THEN2560
+     2570 GETC$:IFC$=""THEN2570
+     2580 PRINTP$;E$:PRINTE$:PRINTE$;P$;"*** WRITINGDATATODISK ***[HOME]"
+     2590 OPEN2,8,2,"@:DATA,S,W":C$=","
+     2600 PRINT#2,X;C$;L;C$;M;C$;LR;C$;ZI$;C$;YI$;C$;RI$
+     2610 FORI=1TOX-1
+     2620 PRINTP$;TAB(30);"#";I
+     2630 FORJ=1TOL
+     2640 PRINT#2,D$(I,J);C$
+     2650 NEXTJ:NEXTI:CLOSE2
+     2670 GOTO2520
+     
+     
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       37
+
+
+
+
+
+     VERSION 2 - ENHANCED PROGRAM    "D/B2"
+     
+     
+     100 REM"**** PROGRAMMING KIT 1 ****"
+     110 REM"**** DATA BASE DESIGN ****"
+     120 PRINT"[CLR]";CHR$(14);CHR$(8)
+     130 CLR:POKE53280,0:POKE53281,0:PRINTCHR$(5)
+     140 DIMD$(100,8),T%(101)
+     150 P$="[HOME][21 DOWN]":P1$=P$+"[DOWN]"
+     160 S$="[HOME][24 DOWN]"
+     170 H$="[RVS ON] [RVS OFF]"
+     180 E$="[39 SPACES]"
+     190 ZI$="INSERT DATA":RI$="INSERT DATE":YI$=ZI$
+     200 GOTO310
+     210 REM"**** INPUTSUBROUTINE ****"
+     220 PRINTP1$;E$:PRINTP1$;H$:T$=""
+     230 GETC$:IFC$=""THEN230
+     240 IFC$=CHR$(13)ORLEN(T$)>29THENRETURN
+     250 IFC$=CHR$(20)ANDLEN(T$)>0THENT$=LEFT$(T$,LEN(T$)-1):GOTO290
+     260 IFC$=>" "ANDC$=<"_"THEN280
+     270 IFC$<"A"ORC$>"Z"THEN290
+     280 IFC$<>":"ANDC$<>","ANDC$<>";"ANDC$<>CHR$(34)THENT$=T$+C$
+     290 PRINTP1$;T$;H$;"[RVS OFF] ":GOTO230
+     300 REM"**** INITIALIZE DATAARRAY ****"
+     310 PRINT"[CLR][8 DOWN]";TAB(6);"*** YOUR DATABASE DESIGN ***"
+     320 PRINT"[DOWN]";TAB(10);"(C)1983 MELODY HALL CORP."
+     330 PRINTP$;"INITIALIZE THE SYSTEM ?(Y/N)"
+     340 GETC$:IFC$<>""THEN340
+     350 GETC$:IFC$=""THEN350
+     360 IFC$="Y"THENGOTO390
+     370 IFC$="N"THENGOTO480
+     380 GOTO340
+     390 PRINTP$;E$:PRINTP$;"THIS WILL START YOUR DATA RECORDS"
+     400 PRINT"FROM THE BEGINNING....ARE YOU SURE THIS"
+     410 PRINT"IS WHAT YOU WANT?(Y/N)"
+     420 GETC$:IFC$=""THENGOTO420
+     430 PRINTP$;E$:PRINTE$:PRINTE$
+     440 IFC$="N"THENPRINT"[CLR]":GOTO310
+     450 IFC$<>"Y"THENGOTO390
+     460 L=8:M=2:LR=100:X=1
+     470 PRINT"[CLR]":GOTO610
+     480 REM"**** READ IN STORED DATA ****"
+     490 PRINT"[CLR]"
+     500 PRINT;P1$;"INSERT DATA DISK INTO DISC DRIVE..."
+     510 PRINT"...THEN PRESS -C- TO CONTINUE"
+     520 GETC$:IFC$<>""THEN520
+     530 GETC$:IFC$=""THENGOTO530
+     540 PRINT"[CLR]";P$;"*** READING DATA FROM DISK ***"
+     550 OPEN2,8,2,"DATA,S,R"
+     560 INPUT#2,X,L,M,LR,ZI$,YI$,RI$
+     570 FORI=1TOX-1
+     580 FORJ=1TOL
+     590 PRINTP$;TAB(32);"#";I:INPUT#2,D$(I,J):NEXTJ:NEXTI
+     600 CLOSE2:PRINT"[CLR]"
+     610 REM"**** DATABASE DESIGN MENU ****"
+     620 MP=0
+     630 PRINT"[CLR]******** YOURDATABASE DESIGN ********"
+
+
+
+                                       38
+
+
+
+
+
+     640 PRINT"[2 DOWN]1. VIEW/MODIFY INFORMATION"
+     650 PRINT"[DOWN]2. ENTER NEW ITEMS"
+     660 PRINT"[DOWN]3. VIEW/MODIFY BY ITEM NUMBER "
+     670 PRINT"[DOWN]4. VIEW/MODIFY BY ITEM ELEMENT"
+     680 PRINT"[DOWN]5. DUMP RECORDS TO PRINTER"
+     690 PRINT"[DOWN]6. END RUN
+     700 IFAP<>4THENS=0
+     710 IFS<>1ORAP<>4THEN780
+     720 PRINTP1$;"X-SEARCH?(Y/N)"
+     730 GETC$:IFC$=""THEN730
+     740 IFC$="Y"THEN770
+     750 IFC$="N"THENS=0:PRINTP$"[DOWN]";E$:GOTO780
+     760 GOTO720
+     770 PRINTP$;E$:PRINTE$
+     780 IFS=1THENPRINTP$;TAB(31);"[RVS ON]X-SEARCH[RVS OFF]"
+     790 IFS=0THENPRINTP$;E$
+     800 PRINTP1$;"WHAT WOULD YOU LIKE TO DO?"
+     810 GETC$:IFC$<>""THEN810 
+     820 GETC$:IFC$=""THEN820
+     830 PRINTP1$;E$
+     840 AP=VAL(C$):IFAP>6THEN710
+     850 IFAP<>4THENPRINTP$;E$
+     860 ONAPGOTO2040,880,1230,1770,2260,2460
+     870 GOTO630 
+     880 REM"**** INSERTNEWITEM****"
+     890 IFX>LRTHEN1180
+     900 PRINT"[CLR]"
+     910 PRINT"[HOME][19 DOWN]";TAB(4-LEN(STR$(X)));X
+     930 FORXX=1TOL
+     940 PRINT"[HOME][19 DOWN]";TAB(5);"[RVS ON]";XX;"[RVS OFF]"
+     950 PRINTP$;E$:PRINTP$;"INPUT LINE";XX;"?"
+     960 GOSUB220
+     970 D$(X,XX)=T$:PRINTP$;E$:PRINTE$
+     980 IFXX=1ANDT$=""THEN610
+     990 PRINT"[HOME][19 DOWN]";TAB(7);T$
+     1000 PRINTS$:NEXTXX
+     1010 PRINTP$;E$:PRINTP$;"CHANGES?(Y/N)":PRINTP1$;E$
+     1020 GETC$:IFC$=""THEN1020
+     1030 PRINTP$;E$
+     1040 IFC$="Y"THEN1070
+     1050 IFC$="N"ANDMP<>1THEN1170
+     1060 GOTO1010
+     1070 PRINTP$;"WHICH LINE NUMBER?":GOSUB220
+     1080 PRINTP$;E$:PRINTE$
+     1090 XX=VAL(T$)
+     1100 IFXX<1ORXX>LTHEN1070
+     1110 PRINTP$;E$:PRINTE$
+     1120 PRINTP$;"ENTER NEW LINE";XX;"?"
+     1130 GOSUB220:D$(X,XX)=T$:PRINTP$;E$:PRINTE$
+     1140 PRINTLEFT$(S$,19-ABS(L-XX));TAB(7);"[32 SPACES]"
+     1150 PRINTLEFT$(S$,19-ABS(L-XX));TAB(7);T$
+     1160 GOTO1010
+     1170 X=X+1:PRINTS$
+     1180 IFX<=LRTHENGOTO910
+     1190 PRINTS$;P$;"ALL";LR;"RECORDS ARE INPUTED...NO MORE "
+     1200 PRINT"ON THIS SYSTEM LOAD!":TP=TI
+     1210 IFTI-TP<600THEN1210
+
+
+
+                                       39
+
+
+
+
+
+     1220 S=0:GOTO610
+     1230 REM "**** VIEW/MODIFY SECTION ****"
+     1240 IFS=1THEN1260
+     1250 S=0
+     1260 PRINTP$;"INPUT ITEM NUMBER?"
+     1270 GOSUB220:D=VAL(T$):PRINTP$;E$:PRINTE$:IFD<1ORD>X-1THEN630
+     1280 PP=D
+     1290 FORK=0TOM-1:T%(K+1)=D+K:NEXTK
+     1300 K=M-1:F=1
+     1310 IFMP<>1THENPRINT"[CLR]":MP=0
+     1320 IFK=0THENS=0:GOTO610
+     1330 K=K-M:J=0
+     1340 FORI=FTOF+M-1:IFT%(I)>X-1THEN1440
+     1350 J=J+1:IFT%(I)=0THEN1400
+     1360 PRINTLEFT$(S$,((J-1)*(L+1)+1));TAB(4-LEN(STR$(T%(I))));T%(I)
+     1370 FORG=1TOL
+     1380 PRINTLEFT$(S$,((J-1)*(L+1)+(G-1)+1));TAB(5);"[RVS ON]";G;
+          "[RVS OFF]";D$(T%(I),G)
+     1390 NEXTG:NEXTI
+     1400 MP=1:S=1
+     1410 PRINTP$;"CHANGES?(Y/N)":PRINTP1$;E$:S=1
+     1420 GETC$:IFC$=""THEN1420
+     1430 IFC$="Y"THEN1610
+     1440 IFC$="N"ANDK<=0ANDAP<>3THEN1740
+     1450 IFC$="N"ANDK>0THEN1580
+     1460 IF C$="N"ANDAP=3AND(T%(I)>X-1ORT%(I-1)>X-2)THEN1740
+     1470 IFC$="N"ANDAP=3ANDT%(I)<=X-1THEN1490
+     1480 GOTO1410
+     1490 PRINTP$;"NEXT PAGE OR MENU?(P/M)":MP=0
+     1500 GETC$:IFC$=""THEN1500
+     1510 IFC$="M"THENS=0:GOTO610
+     1520 IFC$="P"THEN1540
+     1530 GOTO1490
+     1540 PP=PP+M:D=PP:IFD>X-1THENS=0:GOTO610
+     1550 GOTO1290
+     1580 PRINTP$;E$:PRINTP$;"PRESS -C- TO CONTINUE"
+     1590 GETC$:IFC$="C"THENPRINT"[CLR]":F=F+M:GOTO1310
+     1600 GOTO1590
+     1610 MP=1
+     1620 PRINTP$;"INPUT ITEM NUMBER"
+     1630 GOSUB220:DD=VAL(T$):PRINTP$;E$:PRINT"[DOWN]";E$:IFDD>
+          X ORDD<1THEN1620
+     1650 PRINTP$;"WHICH LINE NUMBER?[9 SPACES]":GOSUB220:XX=VAL(T$)
+     1660 PRINTP$;E$:PRINTE$
+     1670 IFXX<1ORXX>LTHEN1650
+     1680 PRINTP$;"ENTER NEW LINE";XX;"FOR ITEM";DD;"?"
+     1690 GOSUB220:D$=T$:PRINTP$;E$:PRINTP1$;E$
+     1700 LD=LEN(D$):D$(DD,XX)=D$+LEFT$(E$,30-LD)
+     1710 XX=1
+     1720 MP=1:K=K+M:GOTO1310
+     1740 PRINTP$;E$:PRINTP$;"PRESS -M- FOR MENU"
+     1750 GETC$:IFC$="M"THEN610
+     1760 GOTO1750
+     1770 REM"**** SEARCHBYELEMENT****"
+     1780 PRINTP$;"INPUT SEARCH ITEM?"
+     1790 GOSUB220:NA$=T$:PRINTP$;E$:PRINTE$:LS=LEN(NA$)
+     1800 PRINTP$;"WHICH LINE NUMBER?"
+
+
+
+                                       40
+
+
+
+
+
+     1810 GOSUB220:SL=VAL(T$):PRINTP$;E$:PRINTE$
+     1820 IFSL<1ORSL>LTHEN1800
+     1830 PRINTP$;E$:PRINTE$:PRINTE$;P1$;"***SEARCHING***":K=0
+     1840 FORQ=1TOX-1:IFS=0THENI=Q
+     1850 IFS=1THENI=T%(Q):IFI=0THEN1930
+     1860 PRINTP1$;TAB(16);"#";I
+     1870 D$=D$(I,SL)
+     1880 FORO=1TO31-LS
+     1890 IFNA$=MID$(D$,O,LS)THEN1910
+     1900 NEXTO:GOTO1920
+     1910 K=K+1:T%(K)=I
+     1920 NEXTQ
+     1930 T%(K+1)=0
+     1940 S=1
+     1950 CC$="ES":IFK<2THENCC$=""
+     1960 C$="MATCH"+CC$:PRINTP1$;E$;P1$;K;C$;" FOUND*":PRINTP1$;"*"
+     1970 TP=TI:IFAP=4ANDK>1THENS=1
+     1980 IFTI-TP<200THEN1980
+     1990 IFK<1THENS=0:GOTO610
+     2000 PRINTP1$;"[DOWN]LIST?(Y/N)[15 SPACES]":GETC$:IFC$=""THEN2000
+     2010 IFC$="Y"THENF=1:GOTO1310
+     2020 IFC$="N"THENGOTO610
+     2030 GOTO2000
+     2040 REM"**** VIEW/MODIFY GENERAL INFO ****"
+     2050 PRINT"[CLR][DOWN]";TAB(7);"***GENERALINFORMATION***"
+     2060 PRINT"[3 DOWN] 1.SUBJECT:";ZI$
+     2070 PRINT"[HOME][8 DOWN] 2.COMMENTS: ";YI$
+     2080 PRINT"[HOME][11 DOWN] 3.LAST REVISION DATE: ";RI$
+     2090 PRINTP$;"CHANGES?(Y/N)"
+     2100 GETC$:IFC$=""THEN2100
+     2110 IFC$="Y"THEN2140
+     2120 IFC$="N"THEN2220 
+     2130 GOTO2090
+     2140 PRINTP$;"WHICH ITEM?(1-3)"
+     2150 GETC$:IFC$=""THEN2150
+     2160 IFC$<>"1"ANDC$<>"2"ANDC$<>"3"THEN2150
+     2170 PRINTP$;"INPUT NEW ITEM ";C$;"[3 SPACES]"
+     2180 IFC$="1"THENGOSUB220:ZI$=T$
+     2190 IFC$="2"THENGOSUB220:YI$=T$
+     2200 IFC$="3"THENGOSUB220:RI$=T$
+     2210 GOTO2050
+     2220 PRINTP$;E$:PRINTP$;"PRESS -M- FOR MENU"
+     2230 GETC$:IFC$<>""THEN2230
+     2240 GETC$:IFC$=""THENGOTO2240
+     2250 PRINT"[HOME]":S=0:GOTO610
+     2260 REM"**** ITEM PRINTING SECTION ****"
+     2270 PRINTP1$;"IS YOUR PRINTER CONNECTED?(Y/N)"
+     2280 GETC$:IFC$<>"Y"ANDC$<>"N"THEN2280
+     2290 IFC$="N"THENS=0:GOTO610
+     2300 PRINTP1$;"ALL RECORDS OR LAST SORT?(A/L)[4 SPACES]":LL=0
+     2310 GETC$:IFC$<>"L"ANDC$<>"A" THEN2310
+     2320 IFC$="L"THENLL=1
+     2330 PRINTP1$;E$;P$;"[DOWN]***PRINTINGRECORDS***":OPEN5,4,7
+          :PRINT#5:PRINT#5
+     2340 PRINT#5:PRINT#5:PRINT#5,"";SPC((40-LEN(ZI$))/2);ZI$
+     2350 PRINT#5:PRINT#5:PRINT#5
+     2360 CT=0:FORQ=1TOX-1
+
+
+
+                                       41
+
+
+
+
+
+     2370 GETC$:IFC$="[F1]"THEN2440
+     2380 IFC$<>""THEN2370
+     2390 I=Q:IFLL=1THENI=T%(Q):IFI=0THEN2440
+     2400 PRINTP1$;TAB(24);"#";I:CT=CT+1
+     2410 FORJ=1TOL:IFJ=1THENPRINT#5,"";SPC(4-LEN(STR$(I)));I;J;D$
+          (I,J):GOTO2430
+     2420 PRINT#5,"";SPC(7-LEN(STR$(J)));J;D$(I,J)
+     2430 NEXTJ:PRINT#5:PRINT#5:NEXTQ
+     2440 PRINT#5:PRINT#5,CT;"RECORDS PRINTED"
+     2450 CLOSE5:S=0:GOTO610
+     2460 REM"**** DATASTORAGE AND PROGRAM END ****"
+     2470 PRINTP1$;"DO YOU WANT TO PUT DATA ON DISK?(Y/N)"
+     2480 GETC$:IFC$=""THEN2480
+     2490 PRINTP1$;E$
+     2500 IFC$="Y"THEN2540
+     2510 IFC$<>"N"THEN2470
+     2520 PRINT"[CLR][11 DOWN]";TAB(10);"***END OF RUN***"
+     2530 GOTO2530
+     2540 PRINT"[CLR]";P$;"PUT YOUR DATA DISK IN THE DISK DRIVE..."
+     2550 PRINT"...THEN PRESS -C-...."
+     2560 GETC$:IFC$<>""THEN2560
+     2570 GETC$:IFC$=""THEN2570
+     2580 PRINTP$;E$:PRINTE$:PRINTE$;P$;"*** WRITINGDATATODISK ***[HOME]"
+     2590 OPEN2,8,2,"@:DATA,S,W":C$=","
+     2600 PRINT#2,X;C$;L;C$;M;C$;LR;C$;ZI$;C$;YI$;C$;RI$
+     2610 FORI=1TOX-1
+     2620 PRINTP$;TAB(30);"#";I
+     2630 FORJ=1TOL
+     2640 PRINT#2,D$(I,J);C$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       42
+
+
+
+
+     1400 MP=1:S=1
+     1410 PRINTP$;"CHANGES?(Y/N)":PRINTP1$;E$:S=1
+     1420 GETC$:IFC$=""THEN$

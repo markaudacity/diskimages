@@ -1,0 +1,71 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 27, 2026 at 00:33
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+7 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "PROGRAMMING 1   " MH 2A
+5    "BOOT"             PRG
+24   "GUNTER"           PRG
+407  "INSTRUCTIONS"     SEQ
+19   "D/B1"             PRG
+26   "D/B2"             PRG
+1    "DATABASE"         PRG
+1    "MI7-1.0"          PRG
+180 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+BOOT
+Name: 'BOOT'   Type: 'PRG'                 MD5: 116bcbca9ec633850f9d2adf511008b7
+ Raw Type: $82          Start: T$11S$00 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GUNTER
+Name: 'GUNTER'   Type: 'PRG'               MD5: 88075d96740e57978420237a58145bb9
+ Raw Type: $82          Start: T$11S$01 Sec Count: 24        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+INSTRUCTIONS
+Name: 'INSTRUCTIONS'   Type: 'SEQ'         MD5: f189d7976650ac3e8ad3e5a9bd09a074
+ Raw Type: $81          Start: T$13S$00 Sec Count: 407       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+D/B1
+Name: 'D/B1'   Type: 'PRG'                 MD5: 5f080a318f3c34adf9ede7049f9640a2
+ Raw Type: $82          Start: T$0BS$00 Sec Count: 19        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+D/B2
+Name: 'D/B2'   Type: 'PRG'                 MD5: 981bd3e0f0379d9c4dd99e2fb1a9c066
+ Raw Type: $82          Start: T$0AS$01 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DATABASE
+Name: 'DATABASE'   Type: 'PRG'             MD5: e79e735d13ffe034bdc7340a7cf8457d
+ Raw Type: $82          Start: T$09S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MI7-1.0
+Name: 'MI7-1.0'   Type: 'PRG'              MD5: b9189a7409d5bc68d8dabf56600e176a
+ Raw Type: $82          Start: T$09S$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

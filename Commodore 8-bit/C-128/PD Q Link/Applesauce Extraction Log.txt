@@ -1,0 +1,36 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 27, 2026 at 00:39
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+2 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "PUBLIC DOMAIN   " 00 2A
+139  "CODESTAR"         PRG
+101  "SDA128.SDA"       PRG
+424 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+CODESTAR
+Name: 'CODESTAR'   Type: 'PRG'             MD5: 26125ec119af470bf41d266ca96bb3f4
+ Raw Type: $82          Start: T$11S$00 Sec Count: 139       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SDA128.SDA
+Name: 'SDA128.SDA'   Type: 'PRG'           MD5: ebe972e6efc9d12eef11ebdd88a1ba87
+ Raw Type: $82          Start: T$13S$00 Sec Count: 101       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
