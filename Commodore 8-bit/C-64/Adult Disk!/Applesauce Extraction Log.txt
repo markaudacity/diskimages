@@ -1,0 +1,127 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 26, 2026 at 20:49
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+15 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "POO             " PO 2A
+33   "TIT ATTACK"       PRG
+107  "FABULUS WANDA"    PRG
+1    "M-JACKSON"        PRG
+13   "PT.1"             PRG
+39   "PT.2"             PRG
+45   "SEXACUDA"         PRG
+5    "MENU"             PRG
+32   "HIRES NUDE"       PRG
+5    "PICTURE BOOT"     PRG
+32   "HIRES MADONNA"    PRG
+2    "STROKER 64"       PRG
+43   "STROKER2"         PRG
+24   "DIRTY MOVIE"      PRG
+1    "STROKER1"         PRG
+98   "PORNO MOVIE"      PRG
+182 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+TIT ATTACK
+Name: 'TIT ATTACK'   Type: 'PRG'           MD5: 0e5796f99387149384a69b1af9e73a69
+ Raw Type: $82          Start: T$11S$00 Sec Count: 33        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FABULUS WANDA
+Name: 'FABULUS WANDA'   Type: 'PRG'        MD5: 09da2c44fd0b03309243c1d9041c61dc
+ Raw Type: $82          Start: T$13S$00 Sec Count: 107       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+M-JACKSON
+Name: 'M-JACKSON'   Type: 'PRG'            MD5: 50f47c9cbbd29ba533a98b06d819d774
+ Raw Type: $82          Start: T$10S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PT.1
+Name: 'PT.1'   Type: 'PRG'                 MD5: 0342a3b9eb9534908dfee1673d6e96dd
+ Raw Type: $82          Start: T$10S$04 Sec Count: 13        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PT.2
+Name: 'PT.2'   Type: 'PRG'                 MD5: 61acbdd3129b1f0df20e5451be33a231
+ Raw Type: $82          Start: T$0FS$01 Sec Count: 39        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SEXACUDA
+Name: 'SEXACUDA'   Type: 'PRG'             MD5: 17884335eb88d21836adac5ebb8cdf70
+ Raw Type: $82          Start: T$0DS$00 Sec Count: 45        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MENU
+Name: 'MENU'   Type: 'PRG'                 MD5: b8060af5ae326bed7a540904a28daaf0
+ Raw Type: $82          Start: T$18S$06 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HIRES NUDE
+Name: 'HIRES NUDE'   Type: 'PRG'           MD5: e4593bbd190bd95479302d5b84f29d42
+ Raw Type: $82          Start: T$18S$09 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PICTURE BOOT
+Name: 'PICTURE BOOT'   Type: 'PRG'         MD5: e57b88461534f515968d2e69e927c963
+ Raw Type: $82          Start: T$0BS$00 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HIRES MADONNA
+Name: 'HIRES MADONNA'   Type: 'PRG'        MD5: 24f272c51d3eae0df9335e77c0dd7cc8
+ Raw Type: $82          Start: T$0BS$02 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STROKER 64
+Name: 'STROKER 64'   Type: 'PRG'           MD5: b534403420855dc0f1933128428335a4
+ Raw Type: $82          Start: T$1AS$10 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STROKER2
+Name: 'STROKER2'   Type: 'PRG'             MD5: c408275dc824ea70c8aa600e5f9625a8
+ Raw Type: $82          Start: T$1AS$11 Sec Count: 43        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DIRTY MOVIE
+Name: 'DIRTY MOVIE'   Type: 'PRG'          MD5: 08bb899cd2e3ca822810e33deef5aafc
+ Raw Type: $82          Start: T$09S$0A Sec Count: 24        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STROKER1
+Name: 'STROKER1'   Type: 'PRG'             MD5: 4d8aa5456f577e30178c8d7d023bca66
+ Raw Type: $82          Start: T$08S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PORNO MOVIE
+Name: 'PORNO MOVIE'   Type: 'PRG'          MD5: 66054d4afe366d7d13922760da902c19
+ Raw Type: $82          Start: T$08S$01 Sec Count: 98        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
