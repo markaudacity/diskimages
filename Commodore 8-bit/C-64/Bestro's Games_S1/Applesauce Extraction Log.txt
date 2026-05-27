@@ -1,0 +1,120 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 27, 2026 at 00:10
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+14 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "BESTRO'S        " G0 0 
+26   "CHAMP WRESTLING"  PRG
+2    "18"               PRG
+25   "17"               PRG
+17   "16"               PRG
+17   "15"               PRG
+19   "01"               PRG
+69   "00"               PRG
+1    "%"                PRG
+194  "R.HORROR SHOW"    PRG
+0    "````````````````" SEQ
+2    ".ENCOUNTER"       PRG
+134  "ENC.A"            PRG
+0    "````````````````" SEQ
+122  "SCROLLS OF ABAD." PRG
+36 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+CHAMP WRESTLING
+Name: 'CHAMP WRESTLING'   Type: 'PRG'      MD5: 624ea518d406ac031e8b82cd58f1c6dc
+ Raw Type: $82          Start: T$0BS$09 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+18
+Name: '18'   Type: 'PRG'                   MD5: 60dd51c55f123b7b90f00b1366175f71
+ Raw Type: $82          Start: T$1DS$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+17
+Name: '17'   Type: 'PRG'                   MD5: d90ba37c2ddd9763725809e5b4a4e7e7
+ Raw Type: $82          Start: T$07S$02 Sec Count: 25        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+16
+Name: '16'   Type: 'PRG'                   MD5: f4b50273cf91a37a0f5c0c53c873d61b
+ Raw Type: $82          Start: T$08S$02 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+15
+Name: '15'   Type: 'PRG'                   MD5: 3b54626c72ad6f0b74219708ebbd2400
+ Raw Type: $82          Start: T$09S$09 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+01
+Name: '01'   Type: 'PRG'                   MD5: 7ec1f203fc060deb3c110cf2561b58f2
+ Raw Type: $82          Start: T$09S$00 Sec Count: 19        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+00
+Name: '00'   Type: 'PRG'                   MD5: 65402fa2a28fb2d0e5644d7a3700404a
+ Raw Type: $82          Start: T$19S$01 Sec Count: 69        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+%
+Name: '%'   Type: 'PRG'                    MD5: 139d19dd34240b4bf954d0a66ec3ea19
+ Raw Type: $82          Start: T$19S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+R.HORROR SHOW
+Name: 'R.HORROR SHOW'   Type: 'PRG'        MD5: cdae0ae6b14220c6751bd1a0ba3957d6
+ Raw Type: $82          Start: T$11S$00 Sec Count: 194       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+````````````````
+Name: '````````````````'   Type: 'SEQ'                                     MD5: 
+ Raw Type: $81          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.ENCOUNTER
+Name: '.ENCOUNTER'   Type: 'PRG'           MD5: 83cea6e8ce701af57071d251421f08dc
+ Raw Type: $82          Start: T$13S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ENC.A
+Name: 'ENC.A'   Type: 'PRG'                MD5: c36c2a5e1d9c727deed69e543dc6cda8
+ Raw Type: $82          Start: T$13S$01 Sec Count: 134       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+````````````````
+Name: '````````````````'   Type: 'SEQ'                                     MD5: 
+ Raw Type: $81          Start: T$12S$12 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SCROLLS OF ABAD.
+Name: 'SCROLLS OF ABAD.'   Type: 'PRG'     MD5: ffd1ae5dd2ff49f8545748b54debaa96
+ Raw Type: $82          Start: T$1ES$00 Sec Count: 122       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,57 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 27, 2026 at 00:26
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+5 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "PUBLIC DOMAIN   " 01 2A
+57   "STUNT RIDER"      PRG
+78   "NIGHT FLIGHT"     PRG
+34   "DEFCON"           PRG
+18   "COMMODORE CMD"    PRG
+5    "DOC FILE"         SEQ
+961 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+STUNT RIDER
+Name: 'STUNT RIDER'   Type: 'PRG'          MD5: f0b786b7552b499e5dd217954e070758
+ Raw Type: $82          Start: T$11S$00 Sec Count: 57        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+NIGHT FLIGHT
+Name: 'NIGHT FLIGHT'   Type: 'PRG'         MD5: 1b49c1d40187ff81ac9d46caa5b907fc
+ Raw Type: $82          Start: T$13S$00 Sec Count: 78        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DEFCON
+Name: 'DEFCON'   Type: 'PRG'               MD5: 5d95b1b19f36adaf20f676053516f27f
+ Raw Type: $82          Start: T$0FS$04 Sec Count: 34        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COMMODORE CMD
+Name: 'COMMODORE CMD'   Type: 'PRG'        MD5: 0aaa8e7ec496cb3fa524ecb1c23b6b42
+ Raw Type: $82          Start: T$0DS$00 Sec Count: 18        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DOC FILE
+Name: 'DOC FILE'   Type: 'SEQ'             MD5: a4136bff10708db6a9a367961f4766b3
+ Raw Type: $81          Start: T$17S$00 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

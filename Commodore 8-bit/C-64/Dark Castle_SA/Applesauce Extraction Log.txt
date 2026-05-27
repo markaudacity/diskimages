@@ -1,0 +1,239 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 27, 2026 at 00:03
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+31 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "DARK            " A  2A
+1    "BOOT"             PRG
+6    "FAST"             PRG
+15   "PRESENTS"         PRG
+33   "TC1"              PRG
+94   "TC2"              PRG
+17   ".HGB"             PRG
+33   "DCP1"             PRG
+6    "DCP2"             PRG
+2    "DLOAD"            PRG
+7    "SOUND"            PRG
+4    ".STL"             PRG
+3    ".STA"             PRG
+66   ".OPT"             PRG
+2    ".FLT"             PRG
+17   ".HGW"             PRG
+4    "CRED1"            PRG
+24   "C2"               PRG
+48   "I"                PRG
+9    "IC"               PRG
+83   ".GHA"             PRG
+42   "TCOD"             PRG
+12   "TCHR"             PRG
+9    "TCLR"             PRG
+4    "THRB"             PRG
+4    "THRW"             PRG
+11   "TSCR"             PRG
+24   "TBAD"             PRG
+3    ".ROC"             PRG
+6    "REQA.CHR"         PRG
+6    "REQB.CHR"         PRG
+1    "SCORES"           PRG
+68 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+BOOT
+Name: 'BOOT'   Type: 'PRG'                 MD5: bde332b94b39fd0f3a04fa8e11f0564d
+ Raw Type: $82          Start: T$12S$08 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FAST
+Name: 'FAST'   Type: 'PRG'                 MD5: 5c0b59ec96e7eef6903cdb9522eafa9c
+ Raw Type: $82          Start: T$11S$01 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PRESENTS
+Name: 'PRESENTS'   Type: 'PRG'             MD5: 39d448e444530fafc5df167043ce4a03
+ Raw Type: $82          Start: T$11S$02 Sec Count: 15        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TC1
+Name: 'TC1'   Type: 'PRG'                  MD5: b5cff9fc23a21972f05f7edc8093d787
+ Raw Type: $82          Start: T$13S$00 Sec Count: 33        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TC2
+Name: 'TC2'   Type: 'PRG'                  MD5: b47a6064e43688bba8fec900889d2ae0
+ Raw Type: $82          Start: T$10S$00 Sec Count: 94        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.HGB
+Name: '.HGB'   Type: 'PRG'                 MD5: eabd15d1cb420a47724145ac188760f9
+ Raw Type: $82          Start: T$14S$01 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DCP1
+Name: 'DCP1'   Type: 'PRG'                 MD5: ecee4b23f10f73b2d7f40275e4d34c66
+ Raw Type: $82          Start: T$15S$02 Sec Count: 33        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DCP2
+Name: 'DCP2'   Type: 'PRG'                 MD5: 39deffc569d88c7f295992c3a1af539b
+ Raw Type: $82          Start: T$17S$00 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DLOAD
+Name: 'DLOAD'   Type: 'PRG'                MD5: b08de368d6a4da4f2d9e0f138b8cd28e
+ Raw Type: $82          Start: T$17S$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND
+Name: 'SOUND'   Type: 'PRG'                MD5: 5e99e71397dccc3085b89b9b4712fce1
+ Raw Type: $82          Start: T$17S$07 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.STL
+Name: '.STL'   Type: 'PRG'                 MD5: 0ebe7074c6f51a81c299d156206d118c
+ Raw Type: $82          Start: T$0CS$00 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.STA
+Name: '.STA'   Type: 'PRG'                 MD5: 070daebc5ecb039688fe1240f4c4618b
+ Raw Type: $82          Start: T$0CS$03 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.OPT
+Name: '.OPT'   Type: 'PRG'                 MD5: b4f4e0d07cbe3ffe8f6756f0b6b01977
+ Raw Type: $82          Start: T$0CS$05 Sec Count: 66        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.FLT
+Name: '.FLT'   Type: 'PRG'                 MD5: 380e0c3f6415639d22c95cdd803ddaba
+ Raw Type: $82          Start: T$18S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.HGW
+Name: '.HGW'   Type: 'PRG'                 MD5: 126165f7ab26b12f0f34a8cdbf348f29
+ Raw Type: $82          Start: T$18S$01 Sec Count: 17        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CRED1
+Name: 'CRED1'   Type: 'PRG'                MD5: 4d8e627078f33e0ea17cb0b4744a5d02
+ Raw Type: $82          Start: T$19S$00 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+C2
+Name: 'C2'   Type: 'PRG'                   MD5: e030a65e256c978da95981a5e0914f18
+ Raw Type: $82          Start: T$19S$02 Sec Count: 24        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+I
+Name: 'I'   Type: 'PRG'                    MD5: a0af60ac7fc544250bf5cdca98d3adf6
+ Raw Type: $82          Start: T$1AS$00 Sec Count: 48        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+IC
+Name: 'IC'   Type: 'PRG'                   MD5: 05a652d05dbc995a62654402bcdb9038
+ Raw Type: $82          Start: T$08S$00 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.GHA
+Name: '.GHA'   Type: 'PRG'                 MD5: 977a475834f6dea9ec52452398911536
+ Raw Type: $82          Start: T$08S$02 Sec Count: 83        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TCOD
+Name: 'TCOD'   Type: 'PRG'                 MD5: f805dc7f2e2b6a5ced8095c3dfd34840
+ Raw Type: $82          Start: T$1DS$00 Sec Count: 42        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TCHR
+Name: 'TCHR'   Type: 'PRG'                 MD5: c51490660549cb69d92897029de805a4
+ Raw Type: $82          Start: T$1FS$03 Sec Count: 12        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TCLR
+Name: 'TCLR'   Type: 'PRG'                 MD5: f62f37e32d105582fafcf035c207275e
+ Raw Type: $82          Start: T$04S$00 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+THRB
+Name: 'THRB'   Type: 'PRG'                 MD5: 60743ca1897712d0356afa084e350247
+ Raw Type: $82          Start: T$04S$05 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+THRW
+Name: 'THRW'   Type: 'PRG'                 MD5: 33f32bd103bec68a2ac2976453d377af
+ Raw Type: $82          Start: T$20S$00 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSCR
+Name: 'TSCR'   Type: 'PRG'                 MD5: dd3645eebf84b6dd85721b5523dc2fc1
+ Raw Type: $82          Start: T$20S$02 Sec Count: 11        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TBAD
+Name: 'TBAD'   Type: 'PRG'                 MD5: 39ee498013f04e2c4b9b794118e43b94
+ Raw Type: $82          Start: T$03S$00 Sec Count: 24        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.ROC
+Name: '.ROC'   Type: 'PRG'                 MD5: 5fcbeae4bce2f2e881bba2a155f5bb2f
+ Raw Type: $82          Start: T$21S$00 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+REQA.CHR
+Name: 'REQA.CHR'   Type: 'PRG'             MD5: 863cf648f9c7a447999c7783b97e9696
+ Raw Type: $82          Start: T$21S$01 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+REQB.CHR
+Name: 'REQB.CHR'   Type: 'PRG'             MD5: 8a4effb6b08904cda636458ef4407928
+ Raw Type: $82          Start: T$21S$05 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SCORES
+Name: 'SCORES'   Type: 'PRG'               MD5: ee1754d5d4eb5b92ec3ab0cdd77cb1e5
+ Raw Type: $82          Start: T$02S$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

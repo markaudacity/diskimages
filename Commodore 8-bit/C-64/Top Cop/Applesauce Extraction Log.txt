@@ -1,0 +1,71 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 27, 2026 at 00:00
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+7 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "TOP COP         " 03 2A
+12   "MENU"             PRG
+231  "DESERT FOX"       PRG
+181  "FLESH 4 FANTASY"  PRG
+22   "HOWARD"           PRG
+16   "MAXHEADROOM"      PRG
+154  "WILLOW PATTERN"   PRG
+15   "COL 80"           PRG
+32 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+MENU
+Name: 'MENU'   Type: 'PRG'                 MD5: d0c0e4f3c36344834bebf6687d075654
+ Raw Type: $82          Start: T$11S$00 Sec Count: 12        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DESERT FOX
+Name: 'DESERT FOX'   Type: 'PRG'           MD5: 3e845eff4a8aafeb54f10a0a7c44855a
+ Raw Type: $82          Start: T$11S$01 Sec Count: 231       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FLESH 4 FANTASY
+Name: 'FLESH 4 FANTASY'   Type: 'PRG'      MD5: d8330a9d2ef718e2d9c965baf0d7e55b
+ Raw Type: $82          Start: T$13S$00 Sec Count: 181       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HOWARD
+Name: 'HOWARD'   Type: 'PRG'               MD5: a0f2b32a20fb8b06b17f27e29092b5bb
+ Raw Type: $82          Start: T$1CS$07 Sec Count: 22        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MAXHEADROOM
+Name: 'MAXHEADROOM'   Type: 'PRG'          MD5: 851cd107b9f5c88a6362c305926258a6
+ Raw Type: $82          Start: T$1DS$09 Sec Count: 16        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+WILLOW PATTERN
+Name: 'WILLOW PATTERN'   Type: 'PRG'       MD5: 83a351343ca91fcb95c2fddcf12b075a
+ Raw Type: $82          Start: T$06S$02 Sec Count: 154       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COL 80
+Name: 'COL 80'   Type: 'PRG'               MD5: acf79032a2a59d36e99f7d7343d663d0
+ Raw Type: $82          Start: T$21S$00 Sec Count: 15        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

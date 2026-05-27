@@ -1,0 +1,176 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 27, 2026 at 00:21
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+22 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "C128PROG        " 00 2A
+195  "ZBBS.LBR"         PRG
+21   "ZBBSFILE.LBR"     PRG
+20   "128LBR.UTL"       PRG
+61   "XLINK.LBR"        PRG
+1    ".SET-UP.BBS"      SEQ
+1    ".BRDS.BBS"        SEQ
+1    ".G-F.BBS"         SEQ
+1    ".# C/U.BBS"       SEQ
+1    ".HI/LOW.BBS"      SEQ
+1    ".BORDERS.BBS"     SEQ
+1    ".STORY.BBS"       SEQ
+2    ".M-MENU.BBS"      SEQ
+2    ".NU-MENU.BBS"     SEQ
+2    ".BM-MENU.BBS"     SEQ
+7    ".HELP-M.BBS"      SEQ
+1    ".HELP-N.BBS"      SEQ
+1    ".HELP-MB.BBS"     SEQ
+1    ".NEW.BBS"         SEQ
+1    ".ON.BBS"          SEQ
+1    ".NEWS.BBS"        SEQ
+3    ".INFO.BBS"        SEQ
+2    ".BBS.BBS"         SEQ
+337 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+ZBBS.LBR
+Name: 'ZBBS.LBR'   Type: 'PRG'             MD5: 1c5449e578f8d34e87188ab94bbf076d
+ Raw Type: $82          Start: T$11S$00 Sec Count: 195       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ZBBSFILE.LBR
+Name: 'ZBBSFILE.LBR'   Type: 'PRG'         MD5: 0b8a4aece5fc4772b855b19c15550f2d
+ Raw Type: $82          Start: T$13S$00 Sec Count: 21        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+128LBR.UTL
+Name: '128LBR.UTL'   Type: 'PRG'           MD5: a1e43cbf0fc5ed378dd5d81d1ad9cc66
+ Raw Type: $82          Start: T$14S$00 Sec Count: 20        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+XLINK.LBR
+Name: 'XLINK.LBR'   Type: 'PRG'            MD5: 76836c10f4cc4aa3684ac1578e178704
+ Raw Type: $82          Start: T$16S$00 Sec Count: 61        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.SET-UP.BBS
+Name: '.SET-UP.BBS'   Type: 'SEQ'          MD5: b752d010642839116ee852a7b03bd713
+ Raw Type: $81          Start: T$19S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.BRDS.BBS
+Name: '.BRDS.BBS'   Type: 'SEQ'            MD5: 9ddc4437d1e3d5b3d7f319154e385087
+ Raw Type: $81          Start: T$19S$05 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.G-F.BBS
+Name: '.G-F.BBS'   Type: 'SEQ'             MD5: d2ffa6ed13b15f906cff081c1df3520f
+ Raw Type: $81          Start: T$19S$06 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.# C/U.BBS
+Name: '.# C/U.BBS'   Type: 'SEQ'           MD5: 0eef118aa8b4967b7f9d7b343c34753b
+ Raw Type: $81          Start: T$19S$07 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.HI/LOW.BBS
+Name: '.HI/LOW.BBS'   Type: 'SEQ'          MD5: a8e9d11da940474a1eb1d8a584dff6df
+ Raw Type: $81          Start: T$19S$0B Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.BORDERS.BBS
+Name: '.BORDERS.BBS'   Type: 'SEQ'         MD5: 8a159c65ae52edb8ae5f1d2c87715c9c
+ Raw Type: $81          Start: T$19S$0C Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.STORY.BBS
+Name: '.STORY.BBS'   Type: 'SEQ'           MD5: 6f0e767fe35a7a5fc93423e55c208982
+ Raw Type: $81          Start: T$19S$0D Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.M-MENU.BBS
+Name: '.M-MENU.BBS'   Type: 'SEQ'          MD5: 44bffca1a2c3872d28bf71737a73f5ea
+ Raw Type: $81          Start: T$19S$11 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.NU-MENU.BBS
+Name: '.NU-MENU.BBS'   Type: 'SEQ'         MD5: 94caed43fd418c6fb2bf4cfb7020ef0d
+ Raw Type: $81          Start: T$1AS$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.BM-MENU.BBS
+Name: '.BM-MENU.BBS'   Type: 'SEQ'         MD5: 7ee69037cb9b59a15dc728c00e399d89
+ Raw Type: $81          Start: T$1AS$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.HELP-M.BBS
+Name: '.HELP-M.BBS'   Type: 'SEQ'          MD5: 9f6b72fe5f63fd7d501985a6faa95a3e
+ Raw Type: $81          Start: T$1AS$02 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.HELP-N.BBS
+Name: '.HELP-N.BBS'   Type: 'SEQ'          MD5: a798fd858ce5401587955e59c645017a
+ Raw Type: $81          Start: T$1AS$0A Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.HELP-MB.BBS
+Name: '.HELP-MB.BBS'   Type: 'SEQ'         MD5: 3ccaa1ef1c090aeac4506518a520991b
+ Raw Type: $81          Start: T$1AS$0B Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.NEW.BBS
+Name: '.NEW.BBS'   Type: 'SEQ'             MD5: 7204c5c7d78c0c9969eab2f575937bc3
+ Raw Type: $81          Start: T$1AS$0C Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.ON.BBS
+Name: '.ON.BBS'   Type: 'SEQ'              MD5: 32793cb04bf92fcd5727e2fc411b0796
+ Raw Type: $81          Start: T$1AS$0D Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.NEWS.BBS
+Name: '.NEWS.BBS'   Type: 'SEQ'            MD5: 9d9408b2b23c1716571812f8d3a22e6e
+ Raw Type: $81          Start: T$1AS$10 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.INFO.BBS
+Name: '.INFO.BBS'   Type: 'SEQ'            MD5: 8e06b7450ec60319ad5ecbd501c38920
+ Raw Type: $81          Start: T$1AS$11 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+.BBS.BBS
+Name: '.BBS.BBS'   Type: 'SEQ'             MD5: eba110d383dade3b89ce7e1bc83189df
+ Raw Type: $81          Start: T$1BS$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

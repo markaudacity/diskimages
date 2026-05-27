@@ -1,0 +1,138 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 26, 2026 at 23:13
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+16 files were detected on the disk.
+The following errors were encountered:
+
+KANTERM-64 has 1 bad sector(s).
+
+== CATALOG =====================================================================
+
+0 "KANTERM MASTER  " NC 2A
+183  "KANTERM-128"      PRG
+115  "KANTERM-64"       PRG
+1    "UR-CALL"          SEQ
+1    "BUFFERS"          SEQ
+0    "NYFILE001833"    *SEQ
+0    "MYFILE062031"    *SEQ
+113  "MYFILE063753"     SEQ
+0    "MYFILE081118"    *SEQ
+1    "MYFILE000049"     SEQ
+15   "MYFILE003147"     SEQ
+1    "MYFILE000209"     SEQ
+6    "MYFILE000323"     SEQ
+1    "MYFILE003447"     SEQ
+0    "^^^^^^^^020649"  *SEQ
+66   "MYFILE002211"     SEQ
+0    "MYFILE025030"    *SEQ
+0 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+KANTERM-128
+Name: 'KANTERM-128'   Type: 'PRG'          MD5: 1f2079d67b84996142434221aeb665e4
+ Raw Type: $82          Start: T$0ES$00 Sec Count: 183       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+KANTERM-64
+Name: 'KANTERM-64'   Type: 'PRG'           MD5: a025ad9df46c97852c941b7c210dd914
+ Raw Type: $82          Start: T$06S$05 Sec Count: 115       Rel Size: 0        
+
+Bytes 22352-29209 are empty due to bad sector (T$00 S$00).
+
+--------------------------------------------------------------------------------
+
+UR-CALL
+Name: 'UR-CALL'   Type: 'SEQ'              MD5: 868f7f33b9f4678ab1e367ed8c089aa6
+ Raw Type: $81          Start: T$10S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BUFFERS
+Name: 'BUFFERS'   Type: 'SEQ'              MD5: 359b0d5edb89a46f6c85470229f77b95
+ Raw Type: $81          Start: T$1BS$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+NYFILE001833
+Name: 'NYFILE001833'   Type: 'SEQ'                                         MD5: 
+ Raw Type: $01          Start: T$10S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE062031
+Name: 'MYFILE062031'   Type: 'SEQ'                                         MD5: 
+ Raw Type: $01          Start: T$14S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE063753
+Name: 'MYFILE063753'   Type: 'SEQ'         MD5: 246d61d8419ceb35209d59ba888a46e2
+ Raw Type: $81          Start: T$0FS$00 Sec Count: 113       Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE081118
+Name: 'MYFILE081118'   Type: 'SEQ'                                         MD5: 
+ Raw Type: $01          Start: T$10S$01 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE000049
+Name: 'MYFILE000049'   Type: 'SEQ'         MD5: 489c182d54668a4836bcd88b27dbc4b7
+ Raw Type: $81          Start: T$19S$05 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE003147
+Name: 'MYFILE003147'   Type: 'SEQ'         MD5: 01ff351d901cc3fd0744c99fc389e7c9
+ Raw Type: $81          Start: T$19S$00 Sec Count: 15        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE000209
+Name: 'MYFILE000209'   Type: 'SEQ'         MD5: fc6262fb73f156e21e71d41cfb6494a8
+ Raw Type: $81          Start: T$1AS$05 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE000323
+Name: 'MYFILE000323'   Type: 'SEQ'         MD5: b56c41e6e7371d40d2d68939a98ec424
+ Raw Type: $81          Start: T$1AS$0A Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE003447
+Name: 'MYFILE003447'   Type: 'SEQ'         MD5: 9d2da5a96dfafbdf2d11a3eb8409b926
+ Raw Type: $81          Start: T$1BS$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+^^^^^^^^020649
+Name: '^^^^^^^^020649'   Type: 'SEQ'                                       MD5: 
+ Raw Type: $01          Start: T$19S$06 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE002211
+Name: 'MYFILE002211'   Type: 'SEQ'         MD5: 0c114262e73b1a86946779d98e639e3a
+ Raw Type: $81          Start: T$1BS$02 Sec Count: 66        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MYFILE025030
+Name: 'MYFILE025030'   Type: 'SEQ'                                         MD5: 
+ Raw Type: $01          Start: T$1ES$0B Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,491 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 27, 2026 at 00:18
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+67 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "X-RATED GRAPHICS" XX 2A
+2    "TITLE"            PRG
+2    "CREDITS"          PRG
+2    "GIRL1"            PRG
+2    "GIRL2"            PRG
+2    "GIRL3"            PRG
+2    "GIRL4"            PRG
+2    "GIRL5"            PRG
+2    "GIRL6"            PRG
+2    "GIRL7"            PRG
+2    "GIRL8"            PRG
+2    "GIRL9"            PRG
+2    "GIRL10"           PRG
+2    "GIRL11"           PRG
+2    "GIRL12"           PRG
+2    "GIRL13"           PRG
+2    "GIRL14"           PRG
+2    "GIRL15"           PRG
+2    "GIRL16"           PRG
+2    "GIRL17"           PRG
+2    "GIRL18"           PRG
+2    "GIRL19"           PRG
+2    "GIRL20"           PRG
+2    "GIRL21"           PRG
+2    "GIRL22"           PRG
+2    "GIRL23"           PRG
+2    "GIRL24"           PRG
+2    "GIRL25"           PRG
+2    "GIRL26"           PRG
+2    "GIRL27"           PRG
+2    "GIRL28"           PRG
+2    "GIRL29"           PRG
+2    "GIRL30"           PRG
+2    "TSHIRT1"          PRG
+2    "TSHIRT2"          PRG
+2    "TSHIRT3"          PRG
+2    "TSHIRT4"          PRG
+2    "TSHIRT5"          PRG
+2    "TSHIRT6"          PRG
+2    "TSHIRT7"          PRG
+2    "TSHIRT8"          PRG
+2    "TSHIRT9"          PRG
+2    "TSHIRT10"         PRG
+2    "GRAPHIC1"         PRG
+2    "GRAPHIC2"         PRG
+2    "GRAPHIC3"         PRG
+2    "GRAPHIC4"         PRG
+2    "GRAPHIC5"         PRG
+2    "GRAPHIC6"         PRG
+2    "GRAPHIC7"         PRG
+2    "GRAPHIC8"         PRG
+2    "COUPLE1"          PRG
+2    "COUPLE2"          PRG
+2    "COUPLE3"          PRG
+2    "COUPLE4"          PRG
+2    "COUPLE5"          PRG
+2    "COUPLE6"          PRG
+2    "COUPLE7"          PRG
+2    "COUPLE8"          PRG
+2    "COUPLE9"          PRG
+2    "COUPLE10"         PRG
+2    "COMING SOON"      PRG
+32   "RIBALD1"          PRG
+32   "RIBALD2"          PRG
+32   "RIBALD3"          PRG
+32   "RIBALD4"          PRG
+32   "RIBALD5"          PRG
+35   "INSTRUCTIONS"     PRG
+347 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+TITLE
+Name: 'TITLE'   Type: 'PRG'                MD5: 3d56605903de8ac4af0d72a099e25527
+ Raw Type: $82          Start: T$11S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CREDITS
+Name: 'CREDITS'   Type: 'PRG'              MD5: 2eee5810a314f380a697f634fca796a8
+ Raw Type: $82          Start: T$11S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL1
+Name: 'GIRL1'   Type: 'PRG'                MD5: 524a4cbdcc43f78685912bcde416d2fe
+ Raw Type: $82          Start: T$11S$02 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL2
+Name: 'GIRL2'   Type: 'PRG'                MD5: 0642e59af9c8d1661626d325d61c6a9d
+ Raw Type: $82          Start: T$11S$03 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL3
+Name: 'GIRL3'   Type: 'PRG'                MD5: 950487b94f69a965110e7740d4bed410
+ Raw Type: $82          Start: T$11S$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL4
+Name: 'GIRL4'   Type: 'PRG'                MD5: 9a2605a77be1fa55eb71bf7911dbde22
+ Raw Type: $82          Start: T$11S$05 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL5
+Name: 'GIRL5'   Type: 'PRG'                MD5: 31584f1abfcb9007392f1d6265ec5e5a
+ Raw Type: $82          Start: T$11S$06 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL6
+Name: 'GIRL6'   Type: 'PRG'                MD5: 68602a9dec8042066aecffe539a3d1df
+ Raw Type: $82          Start: T$11S$07 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL7
+Name: 'GIRL7'   Type: 'PRG'                MD5: 2be86262c4658f9f17e4412ffcf1f9fe
+ Raw Type: $82          Start: T$11S$08 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL8
+Name: 'GIRL8'   Type: 'PRG'                MD5: 13d04417ca6fa424d9229315269116bd
+ Raw Type: $82          Start: T$11S$09 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL9
+Name: 'GIRL9'   Type: 'PRG'                MD5: ee7af335fe1255b0015a2ae517df20ab
+ Raw Type: $82          Start: T$11S$14 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL10
+Name: 'GIRL10'   Type: 'PRG'               MD5: 5391c13b97b93dc39d95a7b143474cb2
+ Raw Type: $82          Start: T$13S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL11
+Name: 'GIRL11'   Type: 'PRG'               MD5: 569553b3f8ac517c761a3bb8a30f7bd7
+ Raw Type: $82          Start: T$13S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL12
+Name: 'GIRL12'   Type: 'PRG'               MD5: f645073434879eb95fd19a73cbecccfa
+ Raw Type: $82          Start: T$13S$02 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL13
+Name: 'GIRL13'   Type: 'PRG'               MD5: 4852ae23a9955a7401370534def591d6
+ Raw Type: $82          Start: T$13S$03 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL14
+Name: 'GIRL14'   Type: 'PRG'               MD5: e3c8472101037fedd74329d58b40f87a
+ Raw Type: $82          Start: T$13S$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL15
+Name: 'GIRL15'   Type: 'PRG'               MD5: 2fd92ece81a58dc5a9eb8945ff5c8dae
+ Raw Type: $82          Start: T$13S$05 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL16
+Name: 'GIRL16'   Type: 'PRG'               MD5: d8c83b9f82ffa81ce3e0abf717a38354
+ Raw Type: $82          Start: T$13S$06 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL17
+Name: 'GIRL17'   Type: 'PRG'               MD5: bb9df267c38f5827bca7e37469079ace
+ Raw Type: $82          Start: T$13S$07 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL18
+Name: 'GIRL18'   Type: 'PRG'               MD5: 5a35ad8b873efd3233b173299783dba1
+ Raw Type: $82          Start: T$13S$08 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL19
+Name: 'GIRL19'   Type: 'PRG'               MD5: 0d03075a132a0e593f2db6a44a3f23f2
+ Raw Type: $82          Start: T$13S$09 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL20
+Name: 'GIRL20'   Type: 'PRG'               MD5: 16a676e1a485784b7cc0e4475cb70f91
+ Raw Type: $82          Start: T$10S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL21
+Name: 'GIRL21'   Type: 'PRG'               MD5: 9612792e2b9a98528776f9d11c0c52b7
+ Raw Type: $82          Start: T$10S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL22
+Name: 'GIRL22'   Type: 'PRG'               MD5: 10a1a4809a8a49bfc76494f24fac20c9
+ Raw Type: $82          Start: T$10S$02 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL23
+Name: 'GIRL23'   Type: 'PRG'               MD5: d1b82c54c872d78d6cb31bcfc67f2633
+ Raw Type: $82          Start: T$10S$03 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL24
+Name: 'GIRL24'   Type: 'PRG'               MD5: a6fe3649c3d62a7a1787b90266b164bd
+ Raw Type: $82          Start: T$10S$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL25
+Name: 'GIRL25'   Type: 'PRG'               MD5: 22f6a9a91cb814badd3e7bc0bf8c8690
+ Raw Type: $82          Start: T$10S$05 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL26
+Name: 'GIRL26'   Type: 'PRG'               MD5: 21e5428440e35e4d0f8cff61d3b06590
+ Raw Type: $82          Start: T$10S$06 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL27
+Name: 'GIRL27'   Type: 'PRG'               MD5: b4fd34bb3f74e5953b6244cb80036448
+ Raw Type: $82          Start: T$10S$07 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL28
+Name: 'GIRL28'   Type: 'PRG'               MD5: 4063db0d6d935978ac5a333695a4b5fc
+ Raw Type: $82          Start: T$10S$09 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL29
+Name: 'GIRL29'   Type: 'PRG'               MD5: 4bbd9b5c4308733236f13eefd92eced5
+ Raw Type: $82          Start: T$10S$12 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GIRL30
+Name: 'GIRL30'   Type: 'PRG'               MD5: ddf5ff5740bd6e38f107fa26b9f20bb5
+ Raw Type: $82          Start: T$14S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT1
+Name: 'TSHIRT1'   Type: 'PRG'              MD5: ae40f9b8511ff379cf9a9ec2aa230d4e
+ Raw Type: $82          Start: T$14S$02 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT2
+Name: 'TSHIRT2'   Type: 'PRG'              MD5: 1371af6f58087600e90be7965bbad574
+ Raw Type: $82          Start: T$14S$03 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT3
+Name: 'TSHIRT3'   Type: 'PRG'              MD5: 8098d7b53bbef2858da3488549206a7c
+ Raw Type: $82          Start: T$14S$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT4
+Name: 'TSHIRT4'   Type: 'PRG'              MD5: a806fa360add471dee9988bf96e07128
+ Raw Type: $82          Start: T$14S$05 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT5
+Name: 'TSHIRT5'   Type: 'PRG'              MD5: bf1a82a8e96d392e17a5ff0db7f87b8d
+ Raw Type: $82          Start: T$14S$06 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT6
+Name: 'TSHIRT6'   Type: 'PRG'              MD5: 3efdd3daa546f61017d55d565578f2ba
+ Raw Type: $82          Start: T$14S$07 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT7
+Name: 'TSHIRT7'   Type: 'PRG'              MD5: 8cccd7a562f4e309600ca4fc919d0123
+ Raw Type: $82          Start: T$14S$08 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT8
+Name: 'TSHIRT8'   Type: 'PRG'              MD5: 9d3060c63c346e3941a9c4fe076e7f8e
+ Raw Type: $82          Start: T$14S$09 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT9
+Name: 'TSHIRT9'   Type: 'PRG'              MD5: 49407be7cf593be9fca9cbd786b485c4
+ Raw Type: $82          Start: T$0FS$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TSHIRT10
+Name: 'TSHIRT10'   Type: 'PRG'             MD5: 1c5f76758ec522102bf3eafdb01757e9
+ Raw Type: $82          Start: T$0FS$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAPHIC1
+Name: 'GRAPHIC1'   Type: 'PRG'             MD5: 727f3eaeb32bffcc7934f94525262662
+ Raw Type: $82          Start: T$0FS$02 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAPHIC2
+Name: 'GRAPHIC2'   Type: 'PRG'             MD5: 8b1199d28368e4cfa722ec9afe0baf86
+ Raw Type: $82          Start: T$0FS$03 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAPHIC3
+Name: 'GRAPHIC3'   Type: 'PRG'             MD5: 3b847c9d1a05ad420136b7710eb5597a
+ Raw Type: $82          Start: T$0FS$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAPHIC4
+Name: 'GRAPHIC4'   Type: 'PRG'             MD5: 7213e095cdf912faaf9486c7e4dda90f
+ Raw Type: $82          Start: T$0FS$05 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAPHIC5
+Name: 'GRAPHIC5'   Type: 'PRG'             MD5: 0b64e7a08c6a421e1f5865f77c1796ea
+ Raw Type: $82          Start: T$0FS$06 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAPHIC6
+Name: 'GRAPHIC6'   Type: 'PRG'             MD5: 7ea78cfead27d2ff852bac29eb46a273
+ Raw Type: $82          Start: T$0FS$07 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAPHIC7
+Name: 'GRAPHIC7'   Type: 'PRG'             MD5: c4d60678c32869f6b4b01b1335edea7b
+ Raw Type: $82          Start: T$0FS$08 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAPHIC8
+Name: 'GRAPHIC8'   Type: 'PRG'             MD5: f43c067752fbaafa5c3c701a43ff1db1
+ Raw Type: $82          Start: T$0FS$09 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE1
+Name: 'COUPLE1'   Type: 'PRG'              MD5: 2e3a00283a9c325a952276e65c635655
+ Raw Type: $82          Start: T$0FS$14 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE2
+Name: 'COUPLE2'   Type: 'PRG'              MD5: 19d8b4232a5e4e71d53aaf5ded266876
+ Raw Type: $82          Start: T$15S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE3
+Name: 'COUPLE3'   Type: 'PRG'              MD5: 154e9214b38b60c7ff89273027b5ab8c
+ Raw Type: $82          Start: T$15S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE4
+Name: 'COUPLE4'   Type: 'PRG'              MD5: 3918cdccc4486c2f06aff497ee6df150
+ Raw Type: $82          Start: T$15S$02 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE5
+Name: 'COUPLE5'   Type: 'PRG'              MD5: 689312203e510e878ae58e5b972cd5ef
+ Raw Type: $82          Start: T$15S$03 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE6
+Name: 'COUPLE6'   Type: 'PRG'              MD5: 4e8003a3a95aef0b65a366ad3a2088ef
+ Raw Type: $82          Start: T$15S$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE7
+Name: 'COUPLE7'   Type: 'PRG'              MD5: 831dd22894a9358d689264a6f0afe3dd
+ Raw Type: $82          Start: T$15S$05 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE8
+Name: 'COUPLE8'   Type: 'PRG'              MD5: a489d0b71aafe8ef5a8766816b695110
+ Raw Type: $82          Start: T$15S$06 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE9
+Name: 'COUPLE9'   Type: 'PRG'              MD5: e5fede8135d95070cc6ce0e3cbe8c699
+ Raw Type: $82          Start: T$15S$07 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COUPLE10
+Name: 'COUPLE10'   Type: 'PRG'             MD5: 3147b6ce03392fcc3dc8bbaed00bc2d5
+ Raw Type: $82          Start: T$15S$08 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COMING SOON
+Name: 'COMING SOON'   Type: 'PRG'          MD5: ecc6c39ba13c417711b72b077125591e
+ Raw Type: $82          Start: T$15S$09 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+RIBALD1
+Name: 'RIBALD1'   Type: 'PRG'              MD5: 25042751cf1fcb48dda66cb917da7921
+ Raw Type: $82          Start: T$0ES$00 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+RIBALD2
+Name: 'RIBALD2'   Type: 'PRG'              MD5: c77944a5aa35fcbad6d2441acfc47ed8
+ Raw Type: $82          Start: T$16S$01 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+RIBALD3
+Name: 'RIBALD3'   Type: 'PRG'              MD5: f39c244e1ef8d05fa22a812fe14a9601
+ Raw Type: $82          Start: T$0DS$01 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+RIBALD4
+Name: 'RIBALD4'   Type: 'PRG'              MD5: 5b4e699b856bdc56f23962b43777f205
+ Raw Type: $82          Start: T$17S$07 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+RIBALD5
+Name: 'RIBALD5'   Type: 'PRG'              MD5: 07a8fecb1b78030e76b5a75ccdfa0ed0
+ Raw Type: $82          Start: T$0BS$00 Sec Count: 32        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+INSTRUCTIONS
+Name: 'INSTRUCTIONS'   Type: 'PRG'         MD5: d00708b5dac03d5a27338e877f5f44df
+ Raw Type: $82          Start: T$19S$04 Sec Count: 35        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
