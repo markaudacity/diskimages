@@ -1,0 +1,97 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 20:32
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+10 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+GSC_PREVIEW
+
+PREVIEW  BAT            38   8-18-1988   1:16a PREVIEW.BAT
+GSCDEMO        <DIR>        11-21-1986  10:23a GSCDEMO
+
+
+\GSC_PREVIEW\GSCDEMO
+
+PREVIEW  EXE         6,256  11-09-1988   7:05p PREVIEW.EXE
+STDDEMO  EXE        20,096   6-20-1985   7:18a STDDEMO.EXE
+A3DEMO   TXT        14,162   6-21-1985   2:30a A3DEMO.TXT
+APDEMO   TXT        52,162   4-13-1988  10:02a APDEMO.TXT
+CBDEMO   TXT        45,253  11-05-1986   2:07a CBDEMO.TXT
+GBDEMO   TXT        23,171   6-22-1986   1:41p GBDEMO.TXT
+GLDEMO   TXT        22,504   6-22-1986   1:44p GLDEMO.TXT
+PMDEMO   TXT        42,029   7-28-1988   6:05p PMDEMO.TXT
+IVDEMO   TXT        51,473  11-08-1988   1:19p IVDEMO.TXT
+
+
+== FILE DETAILS ================================================================
+
+PREVIEW.BAT
+Short Name: 'PREVIEW '   Type: 'BAT'       MD5: 0b3bbd6524f88e7220a3bc87d6db9382
+1st Clust: $0094      Sectors: 2        File Size: 38            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PREVIEW.EXE
+Short Name: 'PREVIEW '   Type: 'EXE'       MD5: 3918b301c5f7dcf6c98d7df4a89456f7
+1st Clust: $0003      Sectors: 14       File Size: 6256          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+STDDEMO.EXE
+Short Name: 'STDDEMO '   Type: 'EXE'       MD5: ae4b0dd06f0dd6b74a093953e784b838
+1st Clust: $00A8      Sectors: 40       File Size: 20096         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+A3DEMO.TXT
+Short Name: 'A3DEMO  '   Type: 'TXT'       MD5: a9a6e052d7a7c8ecf718d933c0fd4eb6
+1st Clust: $00BD      Sectors: 28       File Size: 14162         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+APDEMO.TXT
+Short Name: 'APDEMO  '   Type: 'TXT'       MD5: 3a8c244221e03e5bce8effdfe1d330af
+1st Clust: $000A      Sectors: 102      File Size: 52162         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CBDEMO.TXT
+Short Name: 'CBDEMO  '   Type: 'TXT'       MD5: 0b46bd86de08a83d15b5c0c6e14e8c05
+1st Clust: $00CB      Sectors: 90       File Size: 45253         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GBDEMO.TXT
+Short Name: 'GBDEMO  '   Type: 'TXT'       MD5: 91f8094c3154b1a943a61726d03b4413
+1st Clust: $0067      Sectors: 46       File Size: 23171         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GLDEMO.TXT
+Short Name: 'GLDEMO  '   Type: 'TXT'       MD5: 1312ed0dbc32a0786eb83b18176ba0c1
+1st Clust: $007E      Sectors: 44       File Size: 22504         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PMDEMO.TXT
+Short Name: 'PMDEMO  '   Type: 'TXT'       MD5: 9c192198ee709df915812e1c6c106484
+1st Clust: $0002      Sectors: 84       File Size: 42029         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+IVDEMO.TXT
+Short Name: 'IVDEMO  '   Type: 'TXT'       MD5: 76011ee8e37d9313902ca3f4af726ac1
+1st Clust: $0095      Sectors: 102      File Size: 51473         Attr: $20      
+
+--------------------------------------------------------------------------------
+
