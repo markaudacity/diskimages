@@ -1,0 +1,9 @@
+* HOSE.CMD
+ERASE
+@ 2,20 SAY 'B E N T O N   F I R E   D E P A R T M E N T'
+@ 4,20 SAY '            Paul Rogers, Chief'
+@ 10,30 SAY 'H O S E   R E C O R D'
+@ 22,20 SAY ' by Curtis Williams -:- Benton IL 62812'
+@ 23,1  SAY ' '
+WAIT
+                                                                                                                                                                                                                                                                                 

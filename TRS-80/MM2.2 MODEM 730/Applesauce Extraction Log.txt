@@ -1,0 +1,41 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.08
+www.applesaucefdc.com
+
+Timestamp: Aug 31, 2026 at 15:51
+
+    Media: 5.25" Floppy Disk
+   Format: TRS-80 Model IV CP/M
+
+== STATUS ======================================================================
+
+3 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+ MDM730   COM        PIP      COM        STAT     COM       
+
+== FILE DETAILS ================================================================
+
+MDM730.COM                                 MD5: 7c74ad36b3d84a723590bcd4ac8a9d09
+
+     User: 0          Records: 146         Blocks: 10       File Size: 18688    
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+PIP.COM                                    MD5: ed658f4379ab0a0e555fa091a44da061
+
+     User: 0          Records: 58          Blocks: 4        File Size: 7424     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+STAT.COM                                   MD5: dc396b8617c04c623383d63ba36c4337
+
+     User: 0          Records: 41          Blocks: 3        File Size: 5248     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+

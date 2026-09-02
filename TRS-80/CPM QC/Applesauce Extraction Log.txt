@@ -1,0 +1,165 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.08
+www.applesaucefdc.com
+
+Timestamp: Aug 31, 2026 at 15:31
+
+    Media: 5.25" Floppy Disk
+   Format: TRS-80 Model IV CP/M
+
+== STATUS ======================================================================
+
+20 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+ GETMOR   OVL        QC       COM        XADD     OVL        QUICK    CFG
+ MENU     MNU        DSTART   OVL        DQMODE   OVL        MENU     OVL
+ SUBMEN   OVL        PARSE    OVL        JUGGLE   OVL        FIELDE   OVL
+ OUTCM1   OVL        OUTGO    OVL        OUTCM2   OVL        XCMD     OVL
+ XEDT     OVL        XGET     OVL        XRPT     OVL        NONAME   SCR
+
+
+== FILE DETAILS ================================================================
+
+GETMOR.OVL                                 MD5: bcd590bc98ca22391f9c12c66322399d
+
+     User: 0          Records: 58          Blocks: 4        File Size: 7424     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+QC.COM                                     MD5: 3c1cb753e660af9fb6d635d86a16cbb9
+
+     User: 0          Records: 257         Blocks: 17       File Size: 32896    
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+XADD.OVL                                   MD5: 4b540a5598017c0d3b5a00ce19a1c8b5
+
+     User: 0          Records: 49          Blocks: 4        File Size: 6272     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+QUICK.CFG                                  MD5: 12554d5c3641e4bcbd33794c3231f455
+
+     User: 0          Records: 2           Blocks: 1        File Size: 256      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+MENU.MNU                                   MD5: f122e5f26fa0b1620441ad7fd117ee56
+
+     User: 0          Records: 60          Blocks: 4        File Size: 7680     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+DSTART.OVL                                 MD5: 866c041e871cf55d2fe8a527fa847812
+
+     User: 0          Records: 14          Blocks: 1        File Size: 1792     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+DQMODE.OVL                                 MD5: aa785f7148d319692c1a72d7939ef2fc
+
+     User: 0          Records: 53          Blocks: 4        File Size: 6784     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+MENU.OVL                                   MD5: f414d5b0e09a1f6a48c0b14a3eed5e3c
+
+     User: 0          Records: 61          Blocks: 4        File Size: 7808     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+SUBMEN.OVL                                 MD5: 1215aa1c83c32f093218b9eca7e2c125
+
+     User: 0          Records: 77          Blocks: 5        File Size: 9856     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+PARSE.OVL                                  MD5: 34a2b06798c0414147d07751e3f63c76
+
+     User: 0          Records: 70          Blocks: 5        File Size: 8960     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+JUGGLE.OVL                                 MD5: 9f6b697a5a30e941f672a45cd7069dd9
+
+     User: 0          Records: 33          Blocks: 3        File Size: 4224     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+FIELDE.OVL                                 MD5: 8a7266b87924ebe25df24c47d054c33e
+
+     User: 0          Records: 86          Blocks: 6        File Size: 11008    
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+OUTCM1.OVL                                 MD5: 68c5101a910d6a704e45add2e31185ab
+
+     User: 0          Records: 53          Blocks: 4        File Size: 6784     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+OUTGO.OVL                                  MD5: ee0ba18b45d23abe876a6e0aca7f669e
+
+     User: 0          Records: 18          Blocks: 2        File Size: 2304     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+OUTCM2.OVL                                 MD5: 5ac9cd43c6b18f98f87da660745979fe
+
+     User: 0          Records: 64          Blocks: 4        File Size: 8192     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+XCMD.OVL                                   MD5: 6e2c0d8eb58f92215214112cce4801f4
+
+     User: 0          Records: 64          Blocks: 4        File Size: 8192     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+XEDT.OVL                                   MD5: 1a5636b318fc0cde2c960bbaea8265c1
+
+     User: 0          Records: 46          Blocks: 3        File Size: 5888     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+XGET.OVL                                   MD5: 1bed226486acac5b45f900e08bf54f93
+
+     User: 0          Records: 85          Blocks: 6        File Size: 10880    
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+XRPT.OVL                                   MD5: 0606cbd170e6f0e8333b1737de976663
+
+     User: 0          Records: 27          Blocks: 2        File Size: 3456     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+NONAME.SCR                                                                 MD5: 
+
+     User: 0          Records: 0           Blocks: 0        File Size: 0        
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+

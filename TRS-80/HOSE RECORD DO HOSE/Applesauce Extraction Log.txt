@@ -1,0 +1,143 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.08
+www.applesaucefdc.com
+
+Timestamp: Aug 31, 2026 at 15:29
+
+    Media: 5.25" Floppy Disk
+   Format: TRS-80 Model IV CP/M
+
+== STATUS ======================================================================
+
+17 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+ DBASEOVR COM        HOSE     DBF        DO       COM        ERRMESS  CMD
+ CONFIG   COM        HOSE     BAK        MAINMENU BAK        DUP      COM
+ MAINMENU CMD        HOSE     CMD        IDNO     NDX        HOSEADD  CMD
+ HOSEADD  BAK        PIP      COM        STAT     COM        SUBMIT   COM
+ SYSGEN   COM       
+
+== FILE DETAILS ================================================================
+
+DBASEOVR.COM                               MD5: f3562b8a00deef21c2186980eec73fef
+
+     User: 0          Records: 314         Blocks: 20       File Size: 40192    
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+HOSE.DBF                                   MD5: 263b45c4b067a5926a95ee907fbb8073
+
+     User: 0          Records: 12          Blocks: 1        File Size: 1536     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+DO.COM                                     MD5: 63ca97cb95e73c93b0c86d9c20f6c763
+
+     User: 0          Records: 152         Blocks: 10       File Size: 19456    
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+ERRMESS.CMD                                MD5: 9598cd52b6fd9b2c4b25e77e7e17381e
+
+     User: 0          Records: 4           Blocks: 1        File Size: 512      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+CONFIG.COM                                 MD5: 906623136be346c5e0d43efaa40cdea3
+
+     User: 0          Records: 91          Blocks: 6        File Size: 11648    
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+HOSE.BAK                                   MD5: 41cc68c2fb5e4595bb6f08afbd8985a6
+
+     User: 0          Records: 4           Blocks: 1        File Size: 512      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+MAINMENU.BAK                               MD5: 556b126057507c4e48a0fc2346a1a53b
+
+     User: 0          Records: 8           Blocks: 1        File Size: 1024     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+DUP.COM                                    MD5: 3ce005679f09b2f080d8f94bf1d36fe4
+
+     User: 0          Records: 54          Blocks: 4        File Size: 6912     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+MAINMENU.CMD                               MD5: a8beff7aace0d82e60f7634643b35f44
+
+     User: 0          Records: 8           Blocks: 1        File Size: 1024     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+HOSE.CMD                                   MD5: 3b81c0240527bb64c84446e458e13373
+
+     User: 0          Records: 4           Blocks: 1        File Size: 512      
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+IDNO.NDX                                   MD5: 16bd19ea187925670fc2167b5030b8c4
+
+     User: 0          Records: 8           Blocks: 1        File Size: 1024     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+HOSEADD.CMD                                MD5: 1f369ea2b1d02642a5dd719d6aa9bb8c
+
+     User: 0          Records: 16          Blocks: 1        File Size: 2048     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+HOSEADD.BAK                                MD5: 3347c5d55e56ce92c0512c778654cfcc
+
+     User: 0          Records: 16          Blocks: 1        File Size: 2048     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+PIP.COM                                    MD5: ed658f4379ab0a0e555fa091a44da061
+
+     User: 0          Records: 58          Blocks: 4        File Size: 7424     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+STAT.COM                                   MD5: dc396b8617c04c623383d63ba36c4337
+
+     User: 0          Records: 41          Blocks: 3        File Size: 5248     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+SUBMIT.COM                                 MD5: 63fd0fc63206adec4e368a61dbdd9e15
+
+     User: 0          Records: 10          Blocks: 1        File Size: 1280     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+
+SYSGEN.COM                                 MD5: abbe9b5a1fb851aa4bf319044d3c4b40
+
+     User: 0          Records: 12          Blocks: 1        File Size: 1536     
+  Created: -                             Modified: -                            
+
+--------------------------------------------------------------------------------
+

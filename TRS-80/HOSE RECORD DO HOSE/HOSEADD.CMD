@@ -1,0 +1,57 @@
+* HOSEADD.CMD
+* Function ...: Add hose records to data file
+* Date .......: September 7, 1991
+*
+ERASE
+USE HOSE INDEX IDNO
+STORE '   ' TO MIDNO
+STORE '        ' TO MDTERCD
+STORE '        ' TO MTEST:DTE
+STORE '          ' TO MINSIDE
+STORE '                    ' TO MMFG
+STORE 0.00 TO MCOSTFT
+STORE '               ' TO MPURCHFR
+STORE '                    ' TO MKIND
+STORE '                    ' TO MCOUP
+STORE '          ' TO MBRAND
+STORE 'T' TO MNEW
+DO WHILE MNEW
+   @ 2,30 SAY ' BENTON FIRE DEPARTMENT'
+   @ 2,67 SAY DATE()
+   @ 4,35 SAY 'ADD HOSE RECORDS'
+   @  7, 9 SAY 'Hose ID Number ... '   GET midno PICTURE '###'
+   @  9, 9 SAY 'Date Received ... '    GET mdtercd
+   @  9,40 SAY 'Inside Dia ... '       GET minside PICTURE '!!!!!!!!!!'
+   @ 11, 9 SAY 'Manufacturer ...... '  GET mfg PICTURE '!!!!!!!!!!!!!!!!!!!!'
+   @ 11,53 SAY 'Cost/Foot .... '       GET mcostft PICTURE '##.##'
+   @ 13, 9 SAY 'Couplings ....... '    GET mcoup PICTURE '!!!!!!!!!!!!!!!!!!!!'
+   @ 13,52 SAY 'Brand .... '           GET mbrand PICTURE '!!!!!!!!!!'
+   @ 15, 9 SAY 'Purchased from ... '   GET mpurchfr PICTURE '!!!!!!!!!!!!!!!'
+   @ 15,47 SAY 'Kind .... '            GET mkind PICTURE '!!!!!!!!!!!!!!!!!!!!'
+   @ 17,29 SAY 'Test date .... '       GET mtest:dte
+   @ 22,25 SAY ' Press Ctrl-W when IDNO is BLANK to EXIT'
+   READ
+   IF MIDNO = ' '
+      ERASE
+      RETURN
+   ENDIF
+   READ
+   APPEND BLANK
+   REPLACE IDNO WITH MIDNO,DTERECD WITH MDTERCD,INSIDE WITH MINSIDE
+   REPLACE MFG WITH MMFG,COST:FT WITH MCOSTFT,PURCH:FR WITH MPURCHFR
+   REPLACE KIND WITH MKIND,TEST:DTE WITH MTEST:DTE,COUPLING WITH MCOUP
+   REPLACE BRAND WITH MBRAND
+   @ 19,25 SAY '   * * *  Record Added  * * *        '
+
+STORE '   '          TO MIDNO
+STORE '        '     TO MDTERCD
+STORE '          '   TO MINSIDE
+STORE '                    ' TO MMFG
+STORE '                    ' TO MKIND
+STORE '                    ' TO MCOUP
+STORE '        '     TO MTEST:DTE
+STORE '          '   TO MBRAND
+ENDDO
+* eop: hoseadd.cmd
+
+FIRE DE

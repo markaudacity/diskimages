@@ -1,0 +1,32 @@
+* MAINMENU.CMD
+* Date ..... September 7, 1991
+* Functin .. Main menu for hose record system
+*
+STORE ' ' TO MCHOICE
+ERASE
+@  1,20 SAY ' B E N T O N   F I R E   D E P A R T M E N T'
+@  7,20 SAY '                Main Menu'
+@ 10,30 SAY ' 1 -> Add New Hose Records'
+@ 11,30 SAY ' 2 -> Edit Hose Records'
+@ 12,30 SAY ' 3 -> Delete Hose Records'
+@ 13,30 SAY ' 4 -> Reports'
+@ 15,30 SAY ' 5 -> Quit'
+@ 17,35 GET MCHOICE
+READ
+DO CASE
+   CASE MCHOICE = '1'
+      DO HOSEADD
+   CASE MCHOICE = '2'
+      DO HOSECHG
+   CASE MCHOICE = '3'
+      DO HOSEDEL
+   CASE MCHOICE = '4'
+      DO HOSERPT
+ENDCASE
+* eop: mainmenu.cmd
+ eop: mainmenu.cmd
+E C O R D'
+@ 22,20 SAY ' by Curtis Williams -:- Benton IL 62812'
+@ 23,1  SAY ' '
+WAIT
+                                                                                                                                                                                                                                                                                 

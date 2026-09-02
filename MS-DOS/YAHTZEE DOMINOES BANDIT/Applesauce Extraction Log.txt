@@ -1,0 +1,200 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.08
+www.applesaucefdc.com
+
+Timestamp: Sep 1, 2026 at 17:05
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+8 files were detected on the disk.
+The following errors were encountered:
+
+The catalog is damaged!
+IBMBIO.COM has 9 bad block(s).
+IBMDOS.COM has 17 bad block(s).
+YAHTZEE.BAS has 10 bad block(s).
+DOMINOES.BAS has 6 bad block(s).
+BANDIT.DAT has 5 bad block(s).
+BANDIT.EXE has 13 bad block(s).
+BANDIT.PIC has 8 bad block(s).
+BASIC.EXE has 36 bad block(s).
+
+== CATALOG =====================================================================
+
+
+
+IBMBIO   COM        16,557   8-19-1986   1:00p IBMBIO.COM
+IBMDOS   COM        28,464   8-19-1986   1:00p IBMDOS.COM
+YAHTZEE  BAS        16,350   4-03-1988  11:15p YAHTZEE.BAS
+DOMINOES BAS        13,056  11-02-1982   9:27a DOMINOES.BAS
+BANDIT   DAT         9,472   3-15-1986  12:00p BANDIT.DAT
+BANDIT   EXE        23,936   3-15-1986  12:00p BANDIT.EXE
+BANDIT   PIC        16,128   3-15-1986  12:00p BANDIT.PIC
+BASIC    EXE        67,520   8-19-1986   1:00p BASIC.EXE
+
+
+== FILE DETAILS ================================================================
+
+IBMBIO.COM
+Short Name: 'IBMBIO  '   Type: 'COM'       MD5: d673c922ae1daaa6f26a70b27e482b48
+1st Clust: $0002      Sectors: 17       File Size: 16557         Attr: $27      
+
+Bytes 0-511 are empty due to bad block 12.
+Bytes 512-1023 are empty due to bad block 13.
+Bytes 1024-1535 are empty due to bad block 14.
+Bytes 1536-2047 are empty due to bad block 15.
+Bytes 2048-2559 are empty due to bad block 16.
+Bytes 2560-3071 are empty due to bad block 17.
+Bytes 7680-8191 are empty due to bad block 27.
+Bytes 8192-8703 are empty due to bad block 28.
+Bytes 8704-16556 are empty due to bad block 0.
+
+--------------------------------------------------------------------------------
+
+IBMDOS.COM
+Short Name: 'IBMDOS  '   Type: 'COM'       MD5: 03003d553ea09a377b90f4207192bec7
+1st Clust: $0013      Sectors: 28       File Size: 28464         Attr: $27      
+
+Bytes 0-511 are empty due to bad block 29.
+Bytes 512-1023 are empty due to bad block 30.
+Bytes 1024-1535 are empty due to bad block 31.
+Bytes 1536-2047 are empty due to bad block 32.
+Bytes 2048-2559 are empty due to bad block 33.
+Bytes 2560-3071 are empty due to bad block 34.
+Bytes 3072-3583 are empty due to bad block 35.
+Bytes 8192-8703 are empty due to bad block 45.
+Bytes 8704-9215 are empty due to bad block 46.
+Bytes 9216-9727 are empty due to bad block 47.
+Bytes 9728-10239 are empty due to bad block 48.
+Bytes 10240-10751 are empty due to bad block 49.
+Bytes 10752-11263 are empty due to bad block 50.
+Bytes 11264-11775 are empty due to bad block 51.
+Bytes 11776-12287 are empty due to bad block 52.
+Bytes 12288-12799 are empty due to bad block 53.
+Bytes 14336-28463 are empty due to bad block 0.
+
+--------------------------------------------------------------------------------
+
+YAHTZEE.BAS
+Short Name: 'YAHTZEE '   Type: 'BAS'       MD5: a2b3121c1f5a8915f271b21e0050dd3d
+1st Clust: $002F      Sectors: 16       File Size: 16350         Attr: $20      
+
+Bytes 3072-3583 are empty due to bad block 63.
+Bytes 3584-4095 are empty due to bad block 64.
+Bytes 4096-4607 are empty due to bad block 65.
+Bytes 4608-5119 are empty due to bad block 66.
+Bytes 5120-5631 are empty due to bad block 67.
+Bytes 5632-6143 are empty due to bad block 68.
+Bytes 6144-6655 are empty due to bad block 69.
+Bytes 6656-7167 are empty due to bad block 70.
+Bytes 7168-7679 are empty due to bad block 71.
+Bytes 8192-16349 are empty due to bad block 0.
+
+--------------------------------------------------------------------------------
+
+DOMINOES.BAS
+Short Name: 'DOMINOES'   Type: 'BAS'       MD5: f9d39d6b0f2c342a6235d60bb4c9e93c
+1st Clust: $003F      Sectors: 13       File Size: 13056         Attr: $20      
+
+Bytes 4096-4607 are empty due to bad block 81.
+Bytes 4608-5119 are empty due to bad block 82.
+Bytes 5120-5631 are empty due to bad block 83.
+Bytes 5632-6143 are empty due to bad block 84.
+Bytes 6144-6655 are empty due to bad block 85.
+Bytes 6656-13055 are empty due to bad block 0.
+
+--------------------------------------------------------------------------------
+
+BANDIT.DAT
+Short Name: 'BANDIT  '   Type: 'DAT'       MD5: 582754850f66714595b19d838e9967df
+1st Clust: $004C      Sectors: 10       File Size: 9472          Attr: $20      
+
+Bytes 0-511 are empty due to bad block 86.
+Bytes 512-1023 are empty due to bad block 87.
+Bytes 1024-1535 are empty due to bad block 88.
+Bytes 1536-2047 are empty due to bad block 89.
+Bytes 5120-9471 are empty due to bad block 0.
+
+--------------------------------------------------------------------------------
+
+BANDIT.EXE
+Short Name: 'BANDIT  '   Type: 'EXE'       MD5: 82cf08f48bcdcc28a61e969ae4d33afa
+1st Clust: $0056      Sectors: 24       File Size: 23936         Attr: $20      
+
+Bytes 1536-2047 are empty due to bad block 99.
+Bytes 2048-2559 are empty due to bad block 100.
+Bytes 2560-3071 are empty due to bad block 101.
+Bytes 3072-3583 are empty due to bad block 102.
+Bytes 3584-4095 are empty due to bad block 103.
+Bytes 4096-4607 are empty due to bad block 104.
+Bytes 4608-5119 are empty due to bad block 105.
+Bytes 5120-5631 are empty due to bad block 106.
+Bytes 5632-6143 are empty due to bad block 107.
+Bytes 10752-11263 are empty due to bad block 117.
+Bytes 11264-11775 are empty due to bad block 118.
+Bytes 11776-12287 are empty due to bad block 119.
+Bytes 12288-23935 are empty due to bad block 0.
+
+--------------------------------------------------------------------------------
+
+BANDIT.PIC
+Short Name: 'BANDIT  '   Type: 'PIC'       MD5: cd56bbd58291115fcfcf218254988b92
+1st Clust: $006E      Sectors: 16       File Size: 16128         Attr: $20      
+
+Bytes 0-511 are empty due to bad block 120.
+Bytes 512-1023 are empty due to bad block 121.
+Bytes 1024-1535 are empty due to bad block 122.
+Bytes 1536-2047 are empty due to bad block 123.
+Bytes 2048-2559 are empty due to bad block 124.
+Bytes 2560-3071 are empty due to bad block 125.
+Bytes 7680-8191 are empty due to bad block 135.
+Bytes 8192-16127 are empty due to bad block 0.
+
+--------------------------------------------------------------------------------
+
+BASIC.EXE
+Short Name: 'BASIC   '   Type: 'EXE'       MD5: d012ba26c0b44a60539214c8e21f88b1
+1st Clust: $007E      Sectors: 66       File Size: 67520         Attr: $20      
+
+Bytes 0-511 are empty due to bad block 136.
+Bytes 512-1023 are empty due to bad block 137.
+Bytes 1024-1535 are empty due to bad block 138.
+Bytes 1536-2047 are empty due to bad block 139.
+Bytes 2048-2559 are empty due to bad block 140.
+Bytes 2560-3071 are empty due to bad block 141.
+Bytes 3072-3583 are empty due to bad block 142.
+Bytes 3584-4095 are empty due to bad block 143.
+Bytes 8704-9215 are empty due to bad block 153.
+Bytes 9216-9727 are empty due to bad block 154.
+Bytes 9728-10239 are empty due to bad block 155.
+Bytes 10240-10751 are empty due to bad block 156.
+Bytes 10752-11263 are empty due to bad block 157.
+Bytes 11264-11775 are empty due to bad block 158.
+Bytes 11776-12287 are empty due to bad block 159.
+Bytes 12288-12799 are empty due to bad block 160.
+Bytes 12800-13311 are empty due to bad block 161.
+Bytes 17920-18431 are empty due to bad block 171.
+Bytes 18432-18943 are empty due to bad block 172.
+Bytes 18944-19455 are empty due to bad block 173.
+Bytes 19456-19967 are empty due to bad block 174.
+Bytes 19968-20479 are empty due to bad block 175.
+Bytes 20480-20991 are empty due to bad block 176.
+Bytes 20992-21503 are empty due to bad block 177.
+Bytes 21504-22015 are empty due to bad block 178.
+Bytes 22016-22527 are empty due to bad block 179.
+Bytes 27136-27647 are empty due to bad block 189.
+Bytes 27648-28159 are empty due to bad block 190.
+Bytes 28160-28671 are empty due to bad block 191.
+Bytes 28672-29183 are empty due to bad block 192.
+Bytes 29184-29695 are empty due to bad block 193.
+Bytes 29696-30207 are empty due to bad block 194.
+Bytes 30208-30719 are empty due to bad block 195.
+Bytes 30720-31231 are empty due to bad block 196.
+Bytes 31232-31743 are empty due to bad block 197.
+Bytes 33792-67519 are empty due to bad block 0.
+
+--------------------------------------------------------------------------------
+

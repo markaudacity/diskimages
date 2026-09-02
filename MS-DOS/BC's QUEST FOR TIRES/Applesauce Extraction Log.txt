@@ -1,0 +1,57 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.08
+www.applesaucefdc.com
+
+Timestamp: Sep 1, 2026 at 17:04
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+5 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+
+
+LOAD                 1,756   9-05-1984  11:19a LOAD
+MAINC    EXE        19,328   1-01-1980   2:26a MAINC.EXE
+MAINR    EXE        19,456   1-01-1980   2:30a MAINR.EXE
+MAINJRC  EXE        19,712   1-01-1980   2:34a MAINJRC.EXE
+MAINJRR  EXE        19,456   1-01-1980   2:38a MAINJRR.EXE
+
+
+== FILE DETAILS ================================================================
+
+LOAD
+Short Name: 'LOAD    '   Type: '   '       MD5: e90a836a50c292ae6cbfee5c55826d5b
+1st Clust: $0002      Sectors: 4        File Size: 1756          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MAINC.EXE
+Short Name: 'MAINC   '   Type: 'EXE'       MD5: f19902a8fe9635b4cdd6fbb81fe9fd36
+1st Clust: $0006      Sectors: 38       File Size: 19328         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MAINR.EXE
+Short Name: 'MAINR   '   Type: 'EXE'       MD5: 457335706b6d7c9f575f778501d5dd1c
+1st Clust: $002C      Sectors: 38       File Size: 19456         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MAINJRC.EXE
+Short Name: 'MAINJRC '   Type: 'EXE'       MD5: 051cf76acb588c16d3f574488e5231b9
+1st Clust: $0052      Sectors: 39       File Size: 19712         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MAINJRR.EXE
+Short Name: 'MAINJRR '   Type: 'EXE'       MD5: e7210d040556d18c3bc4bc3834477b43
+1st Clust: $0079      Sectors: 38       File Size: 19456         Attr: $20      
+
+--------------------------------------------------------------------------------
+
